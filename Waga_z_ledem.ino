@@ -17,7 +17,7 @@
  The HX711 board can be powered from 2.7V to 5V so the Arduino 5V power should be fine.
 */
 
-#include "HX711.h"
+#include "HX711.h" // Requires https://github.com/bogde/HX711/tree/master version 0.7.5
 
 #define calibration_factor -3050.0 //This value is obtained using the SparkFun_HX711_Calibration sketch
 
