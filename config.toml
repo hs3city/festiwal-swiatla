@@ -64,7 +64,7 @@ theme = "hugo-serif-theme"
       weight = 2
 
   [[menu.main]]
-      name = "O nas"
+      name = "Organizatorzy"
       url = "/o-nas/"
       weight = 3
 

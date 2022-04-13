@@ -60,6 +60,7 @@ body,
   border-color: var(--lighter);
   color: var(--darker-text);
 }
+
 .intro h1 {
   width: 100%;
 }
@@ -82,4 +83,9 @@ h1 {
   -webkit-text-fill-color: transparent;
   -moz-background-clip: text;
   -moz-text-fill-color: transparent;
+}
+
+
+.page-home .content {
+  color: var(--darker-text);
 }
