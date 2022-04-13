@@ -1,0 +1,38 @@
+<svg width="27.837mm" height="14.107mm" version="1.1" viewBox="0 0 27.837 14.107" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <linearGradient id="d" x2="1" gradientTransform="matrix(0 -39.989 -39.989 0 444.51 253.95)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4dc4cc" offset="0"/>
+   <stop stop-color="#ec008c" offset=".41784"/>
+   <stop stop-color="#ec008c" offset=".57219"/>
+   <stop stop-color="#ec008c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="c" x2="1" gradientTransform="matrix(0 -30.846 -30.846 0 444.51 249.38)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4dc4cc" offset="0"/>
+   <stop stop-color="#ec008c" offset=".41784"/>
+   <stop stop-color="#ec008c" offset=".57219"/>
+   <stop stop-color="#ec008c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="b" x2="1" gradientTransform="matrix(0 -20.826 -20.826 0 444.45 244.37)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4dc4cc" offset="0"/>
+   <stop stop-color="#ec008c" offset=".41784"/>
+   <stop stop-color="#ec008c" offset=".57219"/>
+   <stop stop-color="#ec008c" offset="1"/>
+  </linearGradient>
+  <linearGradient id="a" x2="1" gradientTransform="matrix(0 -10.102 -10.102 0 444.45 239.01)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#4dc4cc" offset="0"/>
+   <stop stop-color="#ec008c" offset=".41784"/>
+   <stop stop-color="#ec008c" offset=".57219"/>
+   <stop stop-color="#ec008c" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-215.89 -23.94)">
+  <g transform="translate(-258.19 -207.48)">
+   <g transform="matrix(.35278 0 0 -.35278 331.18 321.01)">
+    <path d="m405.06 213.97h78.907v39.989h-78.907zm0.658 39.329h77.589v-38.67h-77.589z" fill="url(#d)"/>
+    <path d="m409.76 218.54h69.503v30.846h-69.503zm0.659 30.187h68.185v-29.528h-68.185z" fill="url(#c)"/>
+    <path d="m414.6 223.55h59.698v20.825h-59.698zm0.659 20.167h58.379v-19.508h-58.379z" fill="url(#b)"/>
+    <path d="m419.32 228.91h50.267v10.102h-50.267zm0.66 9.442h48.947v-8.783h-48.947z" fill="url(#a)"/>
+   </g>
+  </g>
+ </g>
+</svg>

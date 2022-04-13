@@ -21,9 +21,9 @@ theme = "hugo-serif-theme"
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/boxes-wide-sm.svg"
     mobile_height = "36px"
-    desktop = "images/logo/hs3_default_black.svg"
+    desktop = "images/logo/boxes-wide-sm.svg"
     desktop_height = "36px"
     alt = "Logo Festiwalu Światła - FŚ"
 
@@ -34,7 +34,7 @@ theme = "hugo-serif-theme"
     base = "Poppins"
 
   [params.colors]
-    primary = "#E6007E"
+    primary = "#29B8CC"
     black = "#000000"
     white = "#ffffff"
     white_offset = "#f6f7ff"
