@@ -8,4 +8,4 @@ type: team
 
 # Poznaj naszych artystów!
 
-Ludzie tworzący instalacje to pasjonaci, którzy...
+**LAArt** - Agencja Artystów & Galeria Online - zaprezentuje prace następujących artystów:
