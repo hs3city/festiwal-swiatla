@@ -59,8 +59,8 @@ theme = "hugo-serif-theme"
       weight = 1
 
   [[menu.main]]
-      name = "Zespół"
-      url = "/zespol/"
+      name = "Artyści"
+      url = "/artysci/"
       weight = 2
 
   [[menu.main]]
