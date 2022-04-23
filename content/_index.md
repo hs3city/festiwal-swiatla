@@ -6,7 +6,7 @@ intro_image: "images/logo/logo.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: true
 intro_title: Festiwal Światła 2022
-intro_text: Mamy tu miejsce na jakiś krótki, fajny tekst!
+intro_text: Łączymy ludzi przez światło
 ---
 
 # Festiwal światła
