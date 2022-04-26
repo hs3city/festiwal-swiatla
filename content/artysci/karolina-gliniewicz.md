@@ -1,8 +1,8 @@
 ---
-title: 'Karolina Glinkiewicz'
+title: 'Karolina Gliniewicz'
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: 'images/team/karolina-glinkiewicz.jpg'
+image: 'images/team/karolina-gliniewicz.jpg'
 jobtitle: 'Fotograf'
 type: team
 promoted: true
