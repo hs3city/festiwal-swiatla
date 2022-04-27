@@ -7,9 +7,6 @@
       <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
         <h1>{{ .Params.intro_title }}</h1>
         <p>{{ .Params.intro_text }}</p>
-        {{ if .Site.Params.homepage.show_contact_box }}
-          {{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
-        {{ end }}
       </div>
       {{ if .Params.intro_image }}
       <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
@@ -72,6 +69,10 @@
   </div>
 </div>
 {{end}}
+
+{{ if .Site.Params.homepage.show_contact_box }}
+  {{ partial "call.html" (dict "site" .Site "context" . "show_button" "true") }}
+{{ end }}
 
 {{ end }}
 
