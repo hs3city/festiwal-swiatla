@@ -23,6 +23,10 @@ body,
   background-color: var(--darker);
 }
 
+.call-wrapper {
+  background-color: var(--darker);
+}
+
 .call {
   background-color: var(--darker);
   color: var(--bright);
