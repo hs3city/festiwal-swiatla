@@ -65,7 +65,7 @@ body,
   width: 100%;
 }
 
-h1 {
+h1, .content h2 {
   /* Fallback: Set a background color. */
   background-color: var(--darker);
 
