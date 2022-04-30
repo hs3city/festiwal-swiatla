@@ -23,6 +23,10 @@ body,
   background-color: var(--darker);
 }
 
+.call-wrapper {
+  background-color: var(--darker);
+}
+
 .call {
   background-color: var(--darker);
   color: var(--bright);
@@ -65,7 +69,7 @@ body,
   width: 100%;
 }
 
-h1 {
+h1, .content h2 {
   /* Fallback: Set a background color. */
   background-color: var(--darker);
 
