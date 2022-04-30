@@ -1,9 +1,10 @@
 ---
-title: "Cyber Skakanka"
+title: "Planetarium mobilne"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 1
+weight: 6
 ---
 
-Opis projektu
+
+PT i SO: 10:00 - 16:00 
