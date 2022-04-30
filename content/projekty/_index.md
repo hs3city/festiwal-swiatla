@@ -6,5 +6,5 @@ description: 'Projekty audiowizualne, które zostaną zaprezentowane w trakcie w
 # intro_image_hide_on_mobile: false
 ---
 
-# warsztaty – wystawy - pokazy
+# warsztaty wystawy pokazy
 
