@@ -11,10 +11,9 @@ weight: 1
 
 ## Bio
 
-W swojej fotografii Daria Berg skupia się na przekazaniu emocji oraz historii, które dostrzega w obiektywie kamery. Łączy minimalizm z grą światła, naturą i mową ciała dzięki czemu każda pojedynczą fotografia jest wyjątkowa i jedyna w swoim rodzaju. 
+W swojej fotografii Daria Berg skupia się na przekazaniu emocji oraz historii, które dostrzega w obiektywie aparatu. Łączy minimalizm z grą światła, naturą i mową ciała dzięki czemu każda pojedynczą fotografia jest wyjątkowa i jedyna w swoim rodzaju. Na jej styl, duzy wpływ miało wieloletnie doświadczeniu w fotografii modowej i uwiecznianie międzynarodowych pokazów mody.
 
-Dzięki wieloletniemu doświadczeniu w uwiecznianiu pokazów mody (Pitti Uomo we Florencji, Tydzień Mody w Paryżu i Londynie) oraz współpracy z utalentowanymi osobami, modelkami, muzykami i niezwykłymi markami, Daria doskonale ożywia każdą sesję zdjęciową dzięki żywym kolorom i dbałości o szczegóły. Daria specjalizuje się również w reżyserii kreatywnej i tworzeniu koncepcji kreatywnych.
-Współpracowała z: Arabia Fashion Week, Bridge Models, Cremieux, Deeba London, Deborah Brand, Emanuel Berg, Elisabeth Som, Fashion Industry Insiders, Hermione Harbutt, JLove, Katarzyna Kobiela, London Fashion Week, Li Lou, Locals Coffee, Monsieur Magazine, Pitti Immagine, PDN London, SPP Models, Soiree Cosmetics, Sandee The Label, Self Love Edit, Skikk Tailoring
+
 
 ## Aktywności
 
