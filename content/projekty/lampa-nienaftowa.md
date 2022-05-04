@@ -12,6 +12,6 @@ Wynalazek lampy naftowej zapoczątkował rewolucję przemysłową XIX wieku, tak
 
 Warsztaty poprowadzą: Mirosław Pałysiewicz, Johnathan Nande, Agnieszka Czaja, Anna Grabowska, Mateusz Dyrda
 
-SO: 10:00 - 14:00
+PT: 10:00 - 14:00
 NDZ: 10:00 - 14:00
 
