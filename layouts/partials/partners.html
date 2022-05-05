@@ -1,0 +1,22 @@
+{{if .Site.Data.partners}}
+<div class="strip strip-grey">
+  <div class="container-fluid pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+      <div class="col-11">
+        <div class="group-wrapper masonry">
+          {{ range $group, $items := .Site.Data.partners }}
+          <div class="partner group">
+            {{ $group }}:
+          </div>
+          {{ range $items}}
+          <div class="partner">
+            <a href="{{ .link }}"><img src="{{ .image }}" alt="{{ .name }}" /></a>
+          </div>
+          {{end}}
+          {{end}}
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{{end}}

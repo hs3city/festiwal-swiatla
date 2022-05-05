@@ -1,0 +1,80 @@
+{
+  "Organizatorzy": [
+    {
+      "name": "Hevelianum",
+      "link": "#",
+      "image": "images/partners/hevelianum.png"
+    },
+    {
+      "name": "HackerSpace",
+      "link": "https://hs3.pl",
+      "image": "images/logo/hs3_default_black.svg"
+    },
+    {
+      "name": "CUMY",
+      "link": "#",
+      "image": "images/partners/cumy.png"
+    }
+  ],
+  "Patronat Medialny": [
+    {
+      "name": "Trójmiasto",
+      "link": "#",
+      "image": "images/partners/trojmiasto.png"
+    }
+  ],
+  "Patronat": [
+    {
+      "name": "Polsa",
+      "link": "#",
+      "image": "images/partners/polsa.jpg"
+    }
+  ],
+  "Partnerzy": [
+    {
+      "name": "Urania",
+      "link": "#",
+      "image": "images/partners/urania.png"
+    },
+    {
+      "name": "Monochromancer",
+      "link": "#",
+      "image": "images/partners/monochromancer.png"
+    },
+    {
+      "name": "Łukasiewicz",
+      "link": "#",
+      "image": "images/partners/lukasiewicz.png"
+    },
+    {
+      "name": "Instytut Metropolitalny",
+      "link": "#",
+      "image": "images/partners/im.png"
+    },
+    {
+      "name": "u3a",
+      "link": "#",
+      "image": "images/partners/u3a.png"
+    },
+    {
+      "name": "eNauczanie",
+      "link": "#",
+      "image": "images/partners/enauczanie.png"
+    },
+    {
+      "name": "Hybrydowa Szkoła",
+      "link": "#",
+      "image": "images/partners/hs.png"
+    },
+    {
+      "name": "Code:Me",
+      "link": "#",
+      "image": "images/partners/codeme.png"
+    },
+    {
+      "name": "L'arT",
+      "link": "#",
+      "image": "images/partners/laart.png"
+    }
+  ]
+}

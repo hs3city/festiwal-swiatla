@@ -69,7 +69,8 @@ body,
   width: 100%;
 }
 
-h1, .content h2 {
+h1,
+.content h2 {
   /* Fallback: Set a background color. */
   background-color: var(--darker);
 
@@ -97,4 +98,48 @@ h1, .content h2 {
   max-width: 100%;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.masonry {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.masonry div {
+  height: 120px;
+  font-size: 200%;
+  font-weight: 900;
+  background: #fff;
+  color: #000;
+  margin: 0 1rem 1rem 0;
+  text-align: center;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1 0 auto;
+  -ms-flex: 1 0 auto;
+  flex: 1 0 auto;
+}
+
+.masonry .group {
+  font-size: 0.8em;
+  background: transparent;
+  color: var(--lighter);
+}
+
+.masonry img {
+  max-width: 200px;
+  max-height: 100px;
+}
+
+.masonry a {
+  color: black;
+}
+
+.partner {
+  display: flex;
+  justify-content: center;
 }
