@@ -41,8 +41,8 @@ theme = "hugo-serif-theme"
     grey = "#8b8b8b"
 
   [params.seo]
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@hs3city"
+    meta_twitter_creator = "@hs3city"
     meta_og_image = "https://www.zerostatic.io/theme/hugo-serif/hugo-serif-screenshot.png"
 
   [params.team]
@@ -64,14 +64,19 @@ theme = "hugo-serif-theme"
       weight = 2
 
   [[menu.main]]
+    name = "Warsztaty"
+    url = "/warsztaty/"
+      weight = 3
+
+  [[menu.main]]
       name = "Organizatorzy"
       url = "/o-nas/"
-      weight = 3
+      weight = 4
 
   [[menu.main]]
       name = "Kontakt"
       url = "/kontakt/"
-      weight = 4
+      weight = 5
   
   # Footer Menu
   [[menu.footer]]
@@ -85,6 +90,6 @@ theme = "hugo-serif-theme"
       weight = 2
 
   [[menu.footer]]
-    name = "Hacker Space Trójmiasto"
+    name = "Hackerspace Trójmiasto"
     url = "https://hs3.pl"
       weight = 3

@@ -8,3 +8,4 @@ description: 'Projekty audiowizualne, które zostaną zaprezentowane w trakcie w
 
 # warsztaty wystawy pokazy
 
+Zobacz [szczegółowy program](/program)
