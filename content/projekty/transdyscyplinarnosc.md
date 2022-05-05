@@ -1,5 +1,5 @@
 ---
-title: "Czy mozna połączyć sztukę i naukę: Transdyscyplinarność w pigułce – warsztaty z Karoliną Gliniewicz"
+title: "Czy można połączyć sztukę i naukę: Transdyscyplinarność w pigułce – warsztaty z Karoliną Gliniewicz"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false

@@ -6,6 +6,6 @@ draft: false
 weight: 3
 ---
 
-Prowadząca: Agnieszka Górska-Pułkownik
+Prowadząca: Agnieszka Górska-Pukownik
 
 SO: 10:00 - 15:00
