@@ -23,7 +23,7 @@ body,
   background-color: var(--darker);
 }
 
-.call-wrapper {
+.page-home .call-wrapper {
   background-color: var(--darker);
 }
 
