@@ -8,11 +8,11 @@ description: 'Program Festiwalu Światła'
 
 # Program Festiwalu Światła 2022
 
-![](/images/program/program2022.png)
+{{< figure src="/images/program/program2022.png" width="640px" alt="Program" >}}
 
 # Mapa atrakcji
 
-![](/images/program/mapa2022.png)
+{{< figure src="/images/program/mapa2022.png" width="640px" alt="Mapa" >}}
 
 # Mapa interaktywna
 
