@@ -8,18 +8,6 @@ description: 'Zapisy na warsztaty'
 
 # Zapisy
 
-Zapisy jeszcze nie ruszyły.
+Zapisy na warsztaty [dostępne są na platformie Evenea](https://app.evenea.pl/event/festiwalswiatla/).
 
-[Lampa Łukasiewicza: Projektowanie 3D]()
-
-[Camera Obscura: Warsztaty]()
-
-[Familijnie o świetle]()
-
-[Zabawy ze światłem]()
-
-[Kropka UV: Warsztaty malarskie]()
-
-[Czy można połączyć sztukę i naukę: Transdyscyplinarność w pigułce]()
-
-[Planetarium mobilne]()
+{{< evenea >}}
