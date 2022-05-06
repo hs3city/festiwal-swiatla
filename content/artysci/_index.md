@@ -6,6 +6,6 @@ intro_image_hide_on_mobile: false
 type: team
 ---
 
-# Poznaj naszych artystów!
+# Poznaj naszych artystów
 
 **L’arT** - Agencja Artystów & Galeria Online - zaprezentuje prace następujących artystów:

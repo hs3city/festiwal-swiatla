@@ -93,3 +93,15 @@ h1, .content h2 {
 .page-home .content {
   color: var(--darker-text);
 }
+figure > img { 
+  width: 100%;
+  height: auto;
+}
+
+
+@media (min-width: 768px) {
+  figure {
+    width: 640px;  
+  }
+
+}

@@ -3,7 +3,7 @@ title: 'Karolina Gliniewicz'
 date: 2018-12-20T13:44:30+10:00
 draft: false
 image: 'images/team/karolina-gliniewicz.jpg'
-jobtitle: 'Fotograf'
+jobtitle: 'Artystka'
 type: team
 promoted: true
 weight: 3
@@ -15,9 +15,13 @@ Karolina Gliniewicz, multidyscyplinarna artystka pracująca z różnorodnymi for
 
 ## Aktywności
 
-WARSZTATY pt. „**Czy można połączyć sztukę i naukę - Transdyscyplinarność w pigułce**”
+Warsztaty **Czy można połączyć sztukę i naukę - Transdyscyplinarność w pigułce**
 
-Interaktywne warsztaty o transdyscyplinarności w sztuce
+Interaktywne warsztaty o transdyscyplinarności w sztuce.
+
+Wystawa **Perspektywy Światła**
+
+Wystawa prac grupy międzynarodowych artystek, studentek kierunku Nauka i Sztuka na Londyńskim University of Arts: Central SaintMartins. Prezentowane prace skupiają się na różnych wizjach światła i różnych perspektywach z jakich można je postrzegać. Wystawa obejmuje instalacje, wideoarty, plakaty i sitodruki.
 
 ## Twórczość
 
