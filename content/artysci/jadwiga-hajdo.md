@@ -17,9 +17,8 @@ Charakterystyczny dla jej prac jest efekt trójwymiarowości, który autorka osi
 
 ## Aktywności
 
-Wystawa pt. ,,**Otwórz się na to co (nie)widzialne!**”
+Wystawa pt. **Otwórz się na to co (nie)widzialne!**
 Wystawa obrazów w świetle UV  
 
-Warsztaty ,,**Kropka w UV**” 
-Kropkowanie farbami UV z Jadwigą Hajdo.
- 
+Warsztaty **Kropka w UV**
+Jadwiga Hajdo pokaże Ci jak stworzyć obraz emanujący żywymi kolorami i magiczną energią, dzięki kropkowaniu farbami UV. Artystka poprowadzi warsztaty malarskie, podczas których przedstawi swoją oryginalną technikę malowania kropką.  

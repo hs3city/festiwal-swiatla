@@ -21,3 +21,5 @@ Zapisy jeszcze nie ruszyły.
 [Kropka UV: Warsztaty malarskie]()
 
 [Czy można połączyć sztukę i naukę: Transdyscyplinarność w pigułce]()
+
+[Planetarium mobilne]()

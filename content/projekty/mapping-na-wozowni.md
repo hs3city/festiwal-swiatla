@@ -6,8 +6,8 @@ featured: true
 weight: 6
 ---
 
-W całej swej twórczości, artystka porusza aktualne tematy z pogranicza psychologii ewolucyjnej i metafizyki. Jej celem jest ingerencja w dotychczasowe postrzeganie rzeczywistości przez odbiorcę, inspirowanie go do eksplorowania swojej wewnętrznej prawdy i zmiany paradygmatów.
+Cykl mappingów **Sylwii Dybich** „Niezrealizowana potrzeba“, który zaprezentujemy na Festiwalu Światła, łączy wspólna myśl: **rzeczywistość, która nas otacza, jest reaktywna do nas samych**. Z tą myślą, zaczepioną w podświadomości, artystka pragnie pozostawiać swoich odbiorców. 
 
-Prace, które artystka zaprezentuje na Festiwalu Światła, łączy wspólna myśl „rzeczywistość, która nas otacza, jest reaktywna do nas samych“ i z tą myślą, zaczepioną w podświadomości, artystka pragnie pozostawiać swoich odbiorców. 
+W całej swej twórczości, Sylwia Dybich porusza aktualne tematy z pogranicza psychologii ewolucyjnej i metafizyki. Jej celem jest ingerencja w dotychczasowe postrzeganie rzeczywistości przez odbiorcę, inspirowanie go do eksplorowania swojej wewnętrznej prawdy i zmiany paradygmatów.
 
 SO: od godziny 21
