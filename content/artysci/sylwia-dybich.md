@@ -17,9 +17,9 @@ W całej swej twórczości, artystka porusza aktualne tematy z pogranicza psycho
 
 ## Aktywności
 
-CYKL MAPPINGÓW - ,,**Niezrealizowana potrzeba**"
+CYKL MAPPINGÓW - **Niezrealizowana potrzeba*
 
-
+Prace, które artystka zaprezentuje na Festiwalu Światła, łączy wspólna myśl „rzeczywistość, która nas otacza, jest reaktywna do nas samych“ i z tą myślą, zaczepioną w podświadomości, artystka pragnie pozostawiać swoich odbiorców. 
 
 ## Twórczość
 
