@@ -10,8 +10,7 @@ Wystawa prac grupy międzynarodowych artystek, studentek kierunku Nauka i Sztuka
 Swoje prace zaprezentują:
 
 **Lucy Chapman**
-Interdyscyplinarna artystka i nauczycielka specjalizująca się w badaniu trudności w nauce. Ta dwoistość kształtuje jej praktykę artystyczną, w której bada napięcie między naukową obiektywnością a subiektywnie przeżywanym doświadczeniem. Jej prace opierają się na badaniach naukowych, ze szczególnym uwzględnieniem neuronauki i modeli chorób, a jej praktyka artystyczna obejmuje grafikę,
-rysunek, rzeźbę, audio i film.
+Interdyscyplinarna artystka i nauczycielka specjalizująca się w badaniu trudności w nauce. Ta dwoistość kształtuje jej praktykę artystyczną, w której bada napięcie między naukową obiektywnością a subiektywnie przeżywanym doświadczeniem. Jej prace opierają się na badaniach naukowych, ze szczególnym uwzględnieniem neuronauki i modeli chorób, a jej praktyka artystyczna obejmuje grafikę, rysunek, rzeźbę, audio i film.
 
 **Chinmayee Pradhan**
 Jej prace są inspirowane skrzyżowaniem kultury i społeczeństwa, reprezentują codzienną gehennę w abstrakcji. Artystka bada ideę przestrzeni, to jak się zmienia i jak może być kształtowana, by umożliwiać różne interpretacje i dawać każdemu inną wartość.

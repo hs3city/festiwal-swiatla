@@ -10,5 +10,6 @@ Esencją procesu kreacji jest spontaniczność — bycie tylko tu i teraz, aby w
 
 **Jadwiga Hajdo**, rozpoczęła swoją przygodę ze sztuką ponad 40 lat temu. Poprzez dogłębną i pełną fascynacji obserwację przyrody, przelewa swoje odczucia na płótno, ukazując intensywność i piękno całej gamy barw otaczającego nas świata, w którym istotną rolę odgrywa światło.
 
-SO: 11:30 - 13:00
+SO: 11:30
+
 Czas trwania: 1,5h

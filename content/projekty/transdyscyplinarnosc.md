@@ -12,4 +12,5 @@ Interaktywne warsztaty o transdyscyplinarności w sztuce, podczas których uczes
 
 PT: 12:00 - 14:00
 SO: 14:00 - 16:00
+
 Czas trwania: 2h
