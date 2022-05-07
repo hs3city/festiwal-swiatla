@@ -25,6 +25,7 @@ body,
 
 .page-home .call-wrapper {
   background-color: var(--darker);
+  padding-top: 3em;
 }
 
 .call {
@@ -100,7 +101,7 @@ h1,
   margin-bottom: 20px;
 }
 
-.masonry {
+.myGrid {
   display: -webkit-box;
   display: -webkit-flex;
   display: -ms-flexbox;
@@ -108,38 +109,60 @@ h1,
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  justify-content: space-evenly;
 }
 
-.masonry div {
+.myGrid > div {
   height: 120px;
-  font-size: 200%;
-  font-weight: 900;
-  background: #fff;
-  color: #000;
   margin: 0 1rem 1rem 0;
-  text-align: center;
-  -webkit-box-flex: 1;
-  -webkit-flex: 1 0 auto;
-  -ms-flex: 1 0 auto;
-  flex: 1 0 auto;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
 }
 
-.masonry .group {
+.myGrid .group {
   font-size: 0.8em;
   background: transparent;
   color: var(--lighter);
 }
 
-.masonry img {
+.myGrid img {
   max-width: 200px;
   max-height: 100px;
 }
 
-.masonry a {
+.myGrid-Organizatorzy img {
+  max-width: 250px;
+}
+
+
+.myGrid a {
   color: black;
 }
 
 .partner {
   display: flex;
   justify-content: center;
+  align-items: center;
+  font-size: 120%;
+  font-weight: 900;
+  color: #000;
+  text-align: center;
+}
+
+.header-wrapper {
+  background-color: var(--darker);
+}
+
+.partners .header {
+  font-size: 200%;
+  font-weight: 900;
+  color: var(--alternative);
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+
+.strip-partners {
+  background-color: #fff;
 }
