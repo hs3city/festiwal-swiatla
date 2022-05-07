@@ -166,3 +166,8 @@ h1,
 .strip-partners {
   background-color: #fff;
 }
+
+.feature-image img {
+  /* Thanks to https://codepen.io/sosuke/pen/Pjoqqp */
+  filter: invert(80%) sepia(14%) saturate(4650%) hue-rotate(146deg) brightness(85%) contrast(87%);
+}
