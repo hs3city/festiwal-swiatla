@@ -23,8 +23,9 @@ body,
   background-color: var(--darker);
 }
 
-.call-wrapper {
+.page-home .call-wrapper {
   background-color: var(--darker);
+  padding-top: 3em;
 }
 
 .call {
@@ -69,7 +70,8 @@ body,
   width: 100%;
 }
 
-h1, .content h2 {
+h1,
+.content h2 {
   /* Fallback: Set a background color. */
   background-color: var(--darker);
 
@@ -89,19 +91,83 @@ h1, .content h2 {
   -moz-text-fill-color: transparent;
 }
 
-
 .page-home .content {
   color: var(--darker-text);
 }
-figure > img { 
-  width: 100%;
-  height: auto;
+
+.content iframe {
+  max-width: 100%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.myGrid {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.myGrid > div {
+  height: 120px;
+  margin: 0 1rem 1rem 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+
+.myGrid .group {
+  font-size: 0.8em;
+  background: transparent;
+  color: var(--lighter);
+}
+
+.myGrid img {
+  max-width: 200px;
+  max-height: 100px;
+}
+
+.myGrid-Organizatorzy img {
+  max-width: 250px;
 }
 
 
-@media (min-width: 768px) {
-  figure {
-    width: 640px;  
-  }
+.myGrid a {
+  color: black;
+}
 
+.partner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 120%;
+  font-weight: 900;
+  color: #000;
+  text-align: center;
+}
+
+.header-wrapper {
+  background-color: var(--darker);
+}
+
+.partners .header {
+  font-size: 200%;
+  font-weight: 900;
+  color: var(--alternative);
+  width: 100%;
+  text-align: center;
+  color: #fff;
+}
+
+.strip-partners {
+  background-color: #fff;
+}
+
+.feature-image img {
+  /* Thanks to https://codepen.io/sosuke/pen/Pjoqqp */
+  filter: invert(80%) sepia(14%) saturate(4650%) hue-rotate(146deg) brightness(85%) contrast(87%);
 }

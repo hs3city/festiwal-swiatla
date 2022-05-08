@@ -1,0 +1,26 @@
+{{if .Site.Data.partners}}
+<div class="strip strip-partners">
+  <div class="container-fluid partners">
+    {{ range $group, $items := .Site.Data.partners }}
+    <div class="row header-wrapper">
+      <div class="col">
+        <div class="header pt-2 pb-2 justify-content-center">
+          {{ $group }}:
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-10">
+        <div class="myGrid myGrid-{{ $group }}">
+          {{ range $items}}
+          <div class="partner">
+            <a href="{{ .link }}"><img src="{{ .image }}" alt="{{ .name }}" /></a>
+          </div>
+          {{end}}
+        </div>
+      </div>
+    </div>
+    {{end}}
+  </div>
+</div>
+{{end}}
