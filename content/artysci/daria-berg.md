@@ -11,7 +11,7 @@ weight: 1
 
 ## Bio
 
-W swojej fotografii Daria Berg skupia się na przekazaniu emocji oraz historii, które dostrzega w obiektywie aparatu. Łączy minimalizm z grą światła, naturą i mową ciała dzięki czemu każda pojedynczą fotografia jest wyjątkowa i jedyna w swoim rodzaju. Na jej styl, duży wpływ miało wieloletnie doświadczeniu w fotografii modowej i uwiecznianie międzynarodowych pokazów mody.
+W swojej fotografii Daria Berg skupia się na przekazaniu emocji oraz historii, które dostrzega w obiektywie aparatu. Łączy minimalizm z grą światła, naturą i mową ciała dzięki czemu każda pojedyncza fotografia jest wyjątkowa i jedyna w swoim rodzaju. Na jej styl, duży wpływ miało wieloletnie doświadczeniu w fotografii modowej i uwiecznianie międzynarodowych pokazów mody.
 
 
 
