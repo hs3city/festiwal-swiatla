@@ -5,7 +5,10 @@ draft: false
 featured: true
 weight: 6
 ---
-Weź udział w interaktywnych warsztatachz centrum nauki Hevelianum i zbuduj camera obscura!
+Warsztaty, podczas, których będziemy odkrywać sekrety fotografii otworkowej, czyli popularnej camera obscura na przykładzie aparatu fotograficznego zrobionego z… pudełka po butach. Uczestnicy warsztatów samodzielnie wykonają i zapozują do zdjęć robionych camera obscura! Każdy wyjdzie z warsztatów z własnym zdjeciem!
+
+Projekt jest dofinansowany z Programu „Społeczna Odpowiedzialność Nauki” Ministra Edukacji i Nauki.
+
 
 PT: 10:00; 13:00
 SO: 10:00; 13:00
