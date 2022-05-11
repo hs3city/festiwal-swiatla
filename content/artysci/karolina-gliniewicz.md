@@ -25,4 +25,4 @@ Wystawa prac grupy międzynarodowych artystek, studentek kierunku Nauka i Sztuka
 
 ## Twórczość
 
-https://indd.adobe.com/view/c30327d8-e452-4ea0-a760-bd46786ab03a
+https://karolinagliniewicz.com/ 
