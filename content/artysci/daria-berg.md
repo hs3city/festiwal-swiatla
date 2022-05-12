@@ -19,5 +19,16 @@ W swojej fotografii Daria Berg skupia się na przekazaniu emocji oraz historii, 
 
 Wystawa fotografii **ŚWIATŁO, PIĘKNO, NATURA**
 
-Wystawa pod tytułem „Światło, Piękno, Natura“  przedstawia relację światła z naturą, kolorami oraz ludzkim pięknem. Zdjęcia Darii Berg pokazują grę świateł na kobiecym ciele i w otoczeniu natury. Są pełne kolorów, emocji i zmysłowości, mimo to, pozostają minimalistyczne, co jest charakterystyczne dla artystki. Zdjęcia będą pełne kolorów i emocji, mimo to pozostaną minimalistyczne.
+Naturalne światło, piękno ludzi i przyroda jaka nas otacza to najważniejsze elementy 
+w fotografiach Darii Berg. 
 
+Fotografia jest przez niektórych opisywana jako sztuka malowania światłem. Podczas oglądaniu prac Darii, bardzo łatwo zatracić się w pięknym uchwyceniu światła, delikatnych cieniach oraz ruchu, 
+który naturalnie zwraca uwagę 
+na najważniejsze elementy zdjęć. 
+
+W połączeniu z przemyślaną kompozycją i imponującym zmysłem do uchwycenia momentu jej dzieła hipnotyzują i przenoszą wprost do miejsca gdzie zostały wykonane. 
+
+Daria w swoich pracach przedstawia naturalność, energię  i piękno jakie jest w nas, bez pozowania. 
+
+Często jej sesje zdjęciowe skupiają na doświadczaniu obecnej chwili, uczestniczenie w rozmowach, wspólnym słuchaniu muzyki 
+i rezonowaniu z nią.
