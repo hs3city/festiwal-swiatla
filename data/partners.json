@@ -1,80 +1,92 @@
-{
-  "Organizatorzy": [
-    {
-      "name": "Hevelianum",
-      "link": "https://hevelianum.pl/",
-      "image": "images/partners/hevelianum.png"
-    },
-    {
-      "name": "HackerSpace",
-      "link": "https://hs3.pl",
-      "image": "images/partners/hs3.png"
-    },
-    {
-      "name": "CUMY",
-      "link": "https://www.facebook.com/cumy.stocznia/",
-      "image": "images/partners/cumy.png"
-    }
-  ],
-  "Patronat Medialny": [
-    {
-      "name": "Trójmiasto",
-      "link": "https://www.trojmiasto.pl/",
-      "image": "images/partners/trojmiasto.png"
-    }
-  ],
-  "Patronat": [
-    {
-      "name": "Polsa",
-      "link": "https://polsa.gov.pl/",
-      "image": "images/partners/polsa.jpg"
-    }
-  ],
-  "Partnerzy": [
-    {
-      "name": "Urania",
-      "link": "https://www.urania.edu.pl/",
-      "image": "images/partners/urania.jpg"
-    },
-    {
-      "name": "Monochromancer",
-      "link": "#",
-      "image": "images/partners/monochromancer.png"
-    },
-    {
-      "name": "Łukasiewicz",
-      "link": "https://lukasiewicz.gov.pl/",
-      "image": "images/partners/lukasiewicz.png"
-    },
-    {
-      "name": "Instytut Metropolitalny",
-      "link": "https://www.im.edu.pl/",
-      "image": "images/partners/im.png"
-    },
-    {
-      "name": "u3a",
-      "link": "https://www.u3a.org.uk/",
-      "image": "images/partners/u3a.png"
-    },
-    {
-      "name": "Conradinum",
-      "link": "https://conradinum.edu.gdansk.pl/pl",
-      "image": "images/partners/conradinum.png"
-    },
-    {
-      "name": "Hybrydowa Szkoła",
-      "link": "https://hybrydowa.edu.pl/",
-      "image": "images/partners/hs.png"
-    },
-    {
-      "name": "Code:Me",
-      "link": "https://codeme.pl/",
-      "image": "images/partners/codeme.png"
-    },
-    {
-      "name": "L'arT",
-      "link": "#",
-      "image": "images/partners/laart.png"
-    }
-  ]
-}
+[
+  {
+    "title": "Organizatorzy",
+    "items": [
+      {
+        "name": "Hevelianum",
+        "link": "https://hevelianum.pl/",
+        "image": "images/partners/hevelianum.png"
+      },
+      {
+        "name": "HackerSpace",
+        "link": "https://hs3.pl",
+        "image": "images/partners/hs3.png"
+      },
+      {
+        "name": "CUMY",
+        "link": "https://www.facebook.com/cumy.stocznia/",
+        "image": "images/partners/cumy.png"
+      }
+    ]
+  },
+  {
+    "title": "Patronat",
+    "items": [
+      {
+        "name": "Polsa",
+        "link": "https://polsa.gov.pl/",
+        "image": "images/partners/polsa.jpg"
+      }
+    ]
+  },
+  {
+    "title": "Patronat Medialny",
+    "items": [
+      {
+        "name": "Trójmiasto",
+        "link": "https://www.trojmiasto.pl/",
+        "image": "images/partners/trojmiasto.png"
+      }
+    ]
+  },
+  {
+    "title": "Partnerzy",
+    "items": [
+      {
+        "name": "Urania",
+        "link": "https://www.urania.edu.pl/",
+        "image": "images/partners/urania.jpg"
+      },
+      {
+        "name": "Monochromancer",
+        "link": "#",
+        "image": "images/partners/monochromancer.png"
+      },
+      {
+        "name": "Łukasiewicz",
+        "link": "https://lukasiewicz.gov.pl/",
+        "image": "images/partners/lukasiewicz.png"
+      },
+      {
+        "name": "Instytut Metropolitalny",
+        "link": "https://www.im.edu.pl/",
+        "image": "images/partners/im.png"
+      },
+      {
+        "name": "u3a",
+        "link": "https://www.u3a.org.uk/",
+        "image": "images/partners/u3a.png"
+      },
+      {
+        "name": "Conradinum",
+        "link": "https://conradinum.edu.gdansk.pl/pl",
+        "image": "images/partners/conradinum.png"
+      },
+      {
+        "name": "Hybrydowa Szkoła",
+        "link": "https://hybrydowa.edu.pl/",
+        "image": "images/partners/hs.png"
+      },
+      {
+        "name": "Code:Me",
+        "link": "https://codeme.pl/",
+        "image": "images/partners/codeme.png"
+      },
+      {
+        "name": "L'arT",
+        "link": "#",
+        "image": "images/partners/laart.png"
+      }
+    ]
+  }
+]
