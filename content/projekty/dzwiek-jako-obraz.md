@@ -10,4 +10,4 @@ Zastanawialiście się kiedyś jak wygląda dźwięk?
 	  
 Jest wiele metod by to sprawdzić, jedna z nich wymaga użycia mikrofonu, wzmacniacza i oscyloskopu. No i oczywiście źródła dźwięku którym możecie być Wy sami lub różnego rodzaju instrumenty muzyczne.
 	  
-Przy pomocy takiego zestawu, można zmienić falę akustyczną w falę z zakresu widzialnego, po drodze przesyłając ją jako sygnał elektryczny. A zresztą, przyjdzcie i zobaczcie sami jak wygląda Wasz głos.
+Przy pomocy takiego zestawu, można zmienić falę akustyczną w falę z zakresu widzialnego, po drodze przesyłając ją jako sygnał elektryczny. A zresztą, przyjdźcie i zobaczcie sami jak wygląda Wasz głos.
