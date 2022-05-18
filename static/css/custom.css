@@ -171,3 +171,8 @@ h1,
   /* Thanks to https://codepen.io/sosuke/pen/Pjoqqp */
   filter: invert(80%) sepia(14%) saturate(4650%) hue-rotate(146deg) brightness(85%) contrast(87%);
 }
+
+.gallery-wrapper {
+  height: 100%;
+  width: 100%;
+}

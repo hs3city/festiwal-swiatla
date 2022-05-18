@@ -2,7 +2,8 @@ baseURL = "/"
 languageCode = "en-pl"
 title = "Festiwal Światła 2022"
 themesDir = "themes"
-theme = "hugo-serif-theme"
+theme = ["hugo-serif-theme", "hugo-shortcode-gallery"]
+timeout = 60000
 
 [module]
   [module.hugoVersion]
@@ -79,9 +80,14 @@ theme = "hugo-serif-theme"
       weight = 5
 
   [[menu.main]]
+      name = "Galeria"
+      url = "/galeria/"
+      weight = 6
+
+  [[menu.main]]
       name = "Kontakt"
       url = "/kontakt/"
-      weight = 6
+      weight = 7
   
   # Footer Menu
   [[menu.footer]]
