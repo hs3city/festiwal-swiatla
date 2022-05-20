@@ -12,6 +12,7 @@
 body,
 .strip {
   background-color: var(--dark);
+  color: var(--darker-text);
 }
 
 .header {
@@ -176,3 +177,32 @@ h1,
   height: 100%;
   width: 100%;
 }
+
+/* Countdown */
+#countdown {  
+  color: var(--primary);
+}
+
+#countdown li {
+  display: inline-block;
+  font-size: 1.5em;
+  list-style-type: none;
+  padding: 1em;
+  text-transform: uppercase;
+}
+
+#countdown li span {
+  display: block;
+  font-size: 4.5rem;
+}
+
+.emoji {
+  display: none;
+  padding: 1rem;
+}
+
+.emoji span {
+  font-size: 4rem;
+  padding: 0 .5rem;
+}
+/* Countdown end */
