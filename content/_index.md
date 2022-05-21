@@ -2,7 +2,7 @@
 title: 'Strona Główna'
 meta_title: 'Festiwal Światła Gdańsk 2022'
 description: "Strona informacyjna wydarzenia Festiwal Światła Gdansk 2022"
-intro_image: "images/logo/logo.svg"
+intro_image: "images/logo/logo-2023.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
