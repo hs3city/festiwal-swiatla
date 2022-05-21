@@ -8,5 +8,15 @@
         "name": "Twitter",
         "link": "https://twitter.com/hs3city",
         "image": "images/social/twitter.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://facebook.com/Festiwalswiatla/",
+        "image": "images/social/facebook.svg"
+    },
+    {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/festiwalswiatla/",
+        "image": "images/social/instagram.svg"
     }
 ]

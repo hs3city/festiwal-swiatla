@@ -7,7 +7,7 @@ date: 2018-02-22T17:01:34+07:00
 
 Jesteśmy artystami, naukowcami, aktywistami i konstruktorami. Połączyliśmy siły i zasoby, aby zrobić coś czego jeszcze nie było - festiwal tworzony oddolnie, przez ludzi, dla ludzi. Bez kuratora, bez dyrektora, bez ograniczeń. Każdy z organizatorów festiwalu jest tutaj po to, by zrealizować swoje marzenie. Każdy działa w dziedzinie, która go pasjonuje i realizuje projekt, który daje mu radość.
 
-Chcemy by było nas jeszcze więcej! Tworzymy festiwal otwarty na lokalną społeczność i różnorodną publiczność. Do udziału i współtworzenia festiwalu zapraszamy miłośników sztuki, nauki i technologii, dzieci, rodziców, studentów, absolwentów… i babcie też!  Dołącz do nas.
+Chcemy by było nas jeszcze więcej! Tworzymy festiwal otwarty na lokalną społeczność i różnorodną publiczność. Do udziału i współtworzenia festiwalu zapraszamy miłośników sztuki, nauki i technologii, dzieci, rodziców, studentów, absolwentów… i babcie też!  [Dołącz do nas](https://hs3.pl/wlacz-swiatlo).
 
 # I wtedy stała się światłość
 

@@ -51,6 +51,7 @@ timeout = 60000
 
   [params.footer]
     copyright_text = 'Dołącz do nas!'
+    copyright_link = 'https://hs3.pl/wlacz-swiatlo'
 
 [menu]
   # Main Menu
