@@ -3,7 +3,7 @@ languageCode = "en-pl"
 title = "Festiwal Światła 2022"
 themesDir = "themes"
 theme = ["hugo-serif-theme", "hugo-shortcode-gallery"]
-timeout = 60000
+timeout = 600000
 
 [module]
   [module.hugoVersion]
