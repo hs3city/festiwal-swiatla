@@ -1,15 +1,15 @@
 {{ define "body_classes" }}page-home{{ end }}
 
 {{ define "main" }}
-<div class="container-fluid p-0 home">
-  <div class="intro">
-    <div class="row justify-content-start">
-      {{ if .Params.intro_image_desktop }}
-      <div class="col-12 position-relative">
-        <img alt={{ .Title }} class="intro-image d-none d-md-block" src="{{ .Params.intro_image_desktop | relURL }}" />
-        <img alt={{ .Title }} class="intro-image d-md-none" src="{{ .Params.intro_image_mobile | relURL }}" />
+<div class="home-wrapper home">
+  <div class="container">
+    <div class="intro">
+      <div class="row justify-content-start">
+        <div class="col-12 position-relative">
+          <img alt={{ .Title }} class="intro-image d-none d-md-block" src={{ "images/logo/home-banner-text-wide.svg" | relURL }} />
+          <img alt={{ .Title }} class="intro-image d-md-none" src={{ "images/logo/home-banner-text-box.svg" | relURL }} />
+        </div>
       </div>
-      {{ end }}
     </div>
   </div>
 </div>
