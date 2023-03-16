@@ -1,0 +1,138 @@
+{{ define "body_classes" }}page-home{{ end }}
+
+{{ define "main" }}
+<div class="container-fluid p-0 home">
+  <div class="intro">
+    <div class="row justify-content-start">
+      {{ if .Params.intro_image_desktop }}
+      <div class="col-12 position-relative">
+        <img alt={{ .Title }} class="intro-image d-none d-md-block" src="{{ .Params.intro_image_desktop | relURL }}" />
+        <img alt={{ .Title }} class="intro-image d-md-none" src="{{ .Params.intro_image_mobile | relURL }}" />
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <h1 id="headline">Do Festiwalu Światła zostało</h1>
+  <div id="countdown">
+    <ul>
+      <li><span id="days"></span>dni</li>
+      <li><span id="hours"></span>g</li>
+      <li><span id="minutes"></span>m</li>
+      <li><span id="seconds"></span>s</li>
+    </ul>
+  </div>
+  <div id="content" class="emoji">
+    <span>🔦</span>
+    <span>💡</span>
+    <span>🎉</span>
+  </div>
+</div>
+<script>
+  (function () {
+    const second = 1000,
+      minute = second * 60,
+      hour = minute * 60,
+      day = hour * 24;
+
+    //I'm adding this section so I don't have to keep updating this pen every year :-)
+    //remove this if you don't need it
+    let today = new Date(),
+      dd = String(today.getDate()).padStart(2, "0"),
+      mm = String(today.getMonth() + 1).padStart(2, "0"),
+      yyyy = 2023,
+      dayMonth = "05/12/",
+      birthday = dayMonth + yyyy;
+
+    today = mm + "/" + dd + "/" + yyyy;
+    //end
+
+    const countDown = new Date(birthday).getTime(),
+      x = setInterval(function () {
+
+        const now = new Date().getTime(),
+          distance = countDown - now;
+
+        document.getElementById("days").innerText = Math.floor(distance / (day)),
+          document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
+          document.getElementById("minutes").innerText = Math.floor((distance % (hour)) / (minute)),
+          document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
+
+        //do something later when date is reached
+        if (distance < 0) {
+          document.getElementById("headline").innerText = "It's my birthday!";
+          document.getElementById("countdown").style.display = "none";
+          document.getElementById("content").style.display = "block";
+          clearInterval(x);
+        }
+        //seconds
+      }, 0)
+  }());
+</script>
+
+<div class="container pb-6 pt-md-10 pb-md-10">
+  <div class="row justify-content-start">
+    <div class="col-12 col-md-8">
+      <div class="content">{{ .Content }}</div>
+    </div>
+  </div>
+</div>
+
+{{ $projects := where (where .Site.RegularPages "Type" "projekty") ".Params.featured" true }}
+{{if gt (len $projects) 0}}
+<div class="strip">
+  <div class="container pt-6 pb-6 pb-md-10">
+    <div class="row justify-content-start">
+      {{ $projects := where (where .Site.RegularPages "Type" "projekty") ".Params.featured" true }}
+      {{ range first 6 (sort $projects ".Params.weight") }}
+      <div class="col-12 col-md-4 mb-1">
+        {{ .Render "summary" }}
+      </div>
+      {{ end }}
+    </div>
+    {{ if not .Site.Params.homepage.show_services_button }}
+    <div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ " projekty/" | relURL }}">Zobacz wszystkie projekty</a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{end}}
+
+{{if .Site.Data.features}}
+<div class="strip strip-grey">
+  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-center">
+      {{ range .Site.Data.features }}
+      <div class="col-12 col-md-6 col-lg-4 mb-2">
+        <div class="feature">
+          {{ if .image }}
+          <div class="feature-image"><img width="100" height="100" alt="{{ .Title }} logo"
+              src="{{ .image | relURL }}" /></div>
+          {{ end }}
+          <h2 class="feature-title">{{ .title }}</h2>
+          <div class="feature-content">
+            <p>{{ .description }}</p>
+          </div>
+        </div>
+      </div>
+      {{end}}
+    </div>
+  </div>
+</div>
+{{end}}
+
+{{ partial "partners.html" . }}
+
+{{ if .Site.Params.homepage.show_contact_box }}
+{{ partial "call-front.html" (dict "site" .Site "context" . "show_button" "true") }}
+{{ end }}
+
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

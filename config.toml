@@ -22,9 +22,9 @@ timeout = 600000
     show_services_button = true  # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/boxes-wide-sm.svg"
+    mobile = "images/logo/newlogo.svg"
     mobile_height = "36px"
-    desktop = "images/logo/boxes-wide-sm.svg"
+    desktop = "images/logo/newlogo.svg"
     desktop_height = "36px"
     alt = "Logo Festiwalu Światła - FŚ"
 

@@ -16,7 +16,7 @@ body,
 }
 
 .header {
-  background-color: var(--darker);
+  background-color: var(--dark);
   border-color: var(--lighter);
 }
 
@@ -45,6 +45,11 @@ body,
 .intro h1,
 .title {
   color: var(--bright);
+}
+
+.home .intro {
+  padding-top: 40px;
+  padding-bottom: 40px;
 }
 
 .team-summary-large {
