@@ -13,6 +13,8 @@ body,
 .strip {
   background-color: var(--dark);
   color: var(--darker-text);
+  font-size: 22px;
+  line-height: 28px;
 }
 
 .header {
@@ -96,6 +98,7 @@ h1,
 
 .content p {
   color: #E6E6E6;
+  max-width: 60ch;
 }
 
 .page-home .content {
@@ -187,6 +190,8 @@ h1,
 /* Countdown */
 #countdown {  
   color: var(--primary);
+  font-size: 16px;
+  line-height: 1.2;
 }
 
 #countdown li {
