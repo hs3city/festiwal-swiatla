@@ -2,7 +2,7 @@
   --primary: #29B8CC;
   --secondary: rgb(32, 146, 162);
   --alternative: #E6007E;
-  --dark: #231f20;
+  --dark: #1E1E1E;
   --darker: #0e0d0d;
   --lighter: #3d3f40;
   --bright: #ccc;
@@ -13,10 +13,12 @@ body,
 .strip {
   background-color: var(--dark);
   color: var(--darker-text);
+  font-size: 22px;
+  line-height: 28px;
 }
 
 .header {
-  background-color: var(--darker);
+  background-color: var(--dark);
   border-color: var(--lighter);
 }
 
@@ -47,6 +49,24 @@ body,
   color: var(--bright);
 }
 
+.home-wrapper {
+  background-image: url('/images/logo/home-banner-bg-wide.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 2em;
+}
+
+.home .intro {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: block;
+}
+
+.home .intro-image {
+  margin: auto;
+} 
+
 .team-summary-large {
   background-color: var(--darker);
   color: var(--bright);
@@ -73,23 +93,12 @@ body,
 
 h1,
 .content h2 {
-  /* Fallback: Set a background color. */
-  background-color: var(--darker);
+  color: #fff;
+}
 
-  /* Create the gradient. */
-  background-image: linear-gradient(45deg, var(--primary), var(--alternative));
-
-  /* Set the background size and repeat properties. */
-  background-size: 100%;
-  background-repeat: repeat;
-
-  /* Use the text as a mask for the background. */
-  /* This will show the gradient as a text color rather than element bg. */
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  -moz-background-clip: text;
-  -moz-text-fill-color: transparent;
+.content p {
+  color: #E6E6E6;
+  max-width: 60ch;
 }
 
 .page-home .content {
@@ -181,6 +190,8 @@ h1,
 /* Countdown */
 #countdown {  
   color: var(--primary);
+  font-size: 16px;
+  line-height: 1.2;
 }
 
 #countdown li {
