@@ -79,29 +79,6 @@ const countDown = new Date(birthday).getTime(),
   </div>
 </div>
 
-{{ $projects := where (where .Site.RegularPages "Type" "projekty") ".Params.featured" true }}
-{{if gt (len $projects) 0}}
-<div class="strip">
-  <div class="container pt-6 pb-6 pb-md-10">
-    <div class="row justify-content-start">
-      {{ $projects := where (where .Site.RegularPages "Type" "projekty") ".Params.featured" true }}
-      {{ range first 6 (sort $projects ".Params.weight") }}
-      <div class="col-12 col-md-4 mb-1">
-        {{ .Render "summary" }}
-      </div>
-      {{ end }}
-    </div>
-    {{ if not .Site.Params.homepage.show_services_button }}
-    <div class="row justify-content-center">
-      <div class="col-auto">
-        <a class="button button-primary" href="{{ "projekty/" | relURL }}">Zobacz wszystkie projekty</a>
-      </div>
-    </div>
-    {{ end }}
-  </div>
-</div>
-{{end}}
-
 {{if .Site.Data.features}}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
