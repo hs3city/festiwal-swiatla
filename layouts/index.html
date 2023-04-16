@@ -41,18 +41,21 @@ const second = 1000,
 let today = new Date(),
     dd = String(today.getDate()).padStart(2, "0"),
     mm = String(today.getMonth() + 1).padStart(2, "0"),
-    yyyy = 2023,
-    dayMonth = "05/12/",
+    yyyy = 2022,
+    dayMonth = "05/13/",
     birthday = dayMonth + yyyy;
 
 today = mm + "/" + dd + "/" + yyyy;
 //end
 
 const countDown = new Date(birthday).getTime(),
-    x = setInterval(function() {    
+    x = setInterval(function() {
 
-      const now = new Date().getTime(),
-            distance = countDown - now;
+      const now = new Date().getTime();
+      var distance = countDown - now;
+      if (distance < 0) {
+        distance = 0;
+      }
 
       document.getElementById("days").innerText = Math.floor(distance / (day)),
         document.getElementById("hours").innerText = Math.floor((distance % (day)) / (hour)),
@@ -60,10 +63,10 @@ const countDown = new Date(birthday).getTime(),
         document.getElementById("seconds").innerText = Math.floor((distance % (minute)) / second);
 
       //do something later when date is reached
-      if (distance < 0) {
-        document.getElementById("headline").innerText = "It's my birthday!";
-        document.getElementById("countdown").style.display = "none";
-        document.getElementById("content").style.display = "block";
+      if (distance <= 0) {
+        // document.getElementById("headline").innerText = "It's my birthday!";
+        // document.getElementById("countdown").style.display = "none";
+        // document.getElementById("content").style.display = "block";
         clearInterval(x);
       }
       //seconds
