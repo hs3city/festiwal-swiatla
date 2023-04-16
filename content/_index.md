@@ -1,24 +1,24 @@
 ---
 title: 'Strona Główna'
-meta_title: 'Festiwal Światła Gdańsk 2022'
-description: "Strona informacyjna wydarzenia Festiwal Światła Gdansk 2022"
+meta_title: 'Festiwal Światła Gdańsk 2023'
+description: "Strona informacyjna wydarzenia Festiwal Światła Gdansk 2023"
 intro_image_desktop: "images/logo/home-banner.png"
 intro_image_mobile: "images/logo/home-banner-sm.png"
 type: home
 ---
-# Festiwal Światła Gdańsk
-
-Światełko w tunelu. Świetlana przyszłość. Świecić przykładem. Światło budzi same pozytywne skojarzenia. Nic dziwnego - w końcu bez światła nie ma życia. Choć niezbędne, jest bardzo niedoceniane, wręcz niedostrzegalne. Postanowiliśmy to zmienić.
-
-Zapraszamy Was do współtworzenia festiwalu, którego głównym bohaterem będzie właśnie światło. Szeroko pojęte światło. Chcemy zbadać spektrum możliwości jakie oferuje - od rozświetlenia Góry Gradowej, do „zgaszenia” zanieczyszczonego jasnością miasta. Chcemy rzucić nowe światło na bioluminescencję bakterii, stworzyć hologram, zrobić mapping na całą dzielnicę i bawić się magią cieni. Gdański Festiwal Światła będzie dotykalny, doświadczalny, interaktywny. Będzie okazją do eksperymentów naukowych, artystycznej ekspresji i przede wszystkim, dobrej zabawy.
-
-Pomysłów mamy wiele, ale nie planujemy zrealizować wszystkich na raz. Naszym celem jest zbudowanie czegoś więcej niż tylko kilku instalacji świetlnych – chcemy stworzyć coroczne święto współtworzone przez lokalną społeczność. Mamy zamiar dzielić się pozytywną zajawką i aktywizować mieszkańców. Działamy partycypacyjnie – każdy jest mile widziany w naszym gronie, dlatego mamy nadzieję, że udział w majowej edycji Festiwalu Światła zachęci Cię do tworzenia, wspólnie z nami, kolejnych odsłon. Razem możemy więcej niż osobno!
-
 
 # Łączymy ludzi przez światło
 
-**Kim jesteśmy?** Jesteśmy ludźmi, którzy chcą działać. Tworzyć, eksperymentować, odkrywać, psuć i naprawiać. Są wśród nas przedstawiciele i przedstawicielki kilku trójmiejskich organizacji: [Hevelianum](https://hevelianum.pl/), [Hackerspace Trójmiasto](https://hs3.pl) i [CUMY warsztat otwarty](https://www.facebook.com/cumy.stocznia). Hevelianum to miejsce, w którym nauka spotyka się z historią, Hackerspace to grupa pasjonatów technologii i konstruktorów, a CUMY to przestrzeń warsztatowa, w której można zrealizować wszystkie pomysły.
+Czy zdajemy sobie z tego sprawę czy nie, światło odgrywa ogromną rolę w naszym życiu. Bez słońca, pierwotnego źródła światła, życie na ziemi w ogóle nie byłoby możliwe, a kolejne wynalazki człowieka, takie jak lampa naftowa, żarówka czy laser, napędzają rozwój cywilizacji.
 
-Jesteśmy artystami, naukowcami, aktywistami i konstruktorami. Połączyliśmy siły i zasoby, aby zrobić coś czego jeszcze nie było - festiwal tworzony oddolnie, przez ludzi, dla ludzi. Bez kuratora, bez dyrektora, bez ograniczeń. Każdy z organizatorów festiwalu jest tutaj po to, by zrealizować swoje marzenie. Każdy działa w dziedzinie, która go pasjonuje i realizuje projekt, który daje mu radość.
+Od zarania dziejów światło fascynowało ludzi, a jego badanie umożliwiało postęp nauki i kultury. Dlatego 16 maja, w rocznicę pierwszego udanego wykorzystania lasera, obchodzimy ustanowiony przez UNESCO Międzynarodowy Dzień Światła. W Trójmieście będziemy celebrować światło w poprzedzający weekend. 13 i 14 maja Festiwal Światła już po raz drugi zmieni Górę Gradową w najbardziej rozświetlony punkt na mapie Polski.
 
-Chcemy by było nas jeszcze więcej! Tworzymy festiwal otwarty na lokalną społeczność i różnorodną publiczność. Do udziału i współtworzenia festiwalu zapraszamy miłośników sztuki, nauki i technologii, dzieci, rodziców, studentów, absolwentów i emerytów też! [Dołącz do nas](https://hs3.pl/wlacz-swiatlo).
+Zapraszamy do udziału w wydarzeniu, którego głównym bohaterem będzie światło. Szeroko pojęte światło. Festiwal Światła będzie okazją do eksperymentów naukowych, artystycznej ekspresji i przede wszystkim dobrej zabawy. W programie całe spektrum atrakcji – liczne pokazy, wystawy i warsztaty, które pokażą światło… w zupełnie nowym świetle. 
+
+# O nas
+
+Jesteśmy nieformalną grupą animatorów kultury, artystów, naukowców, aktywistów i konstruktorów. Reprezentujemy kilka lokalnych organizacji, między innymi Centrum Nauki Hevelianum i Hackerspace Trójmiasto.
+
+[Hevelianum](https://hevelianum.pl/) to miejsce, w którym nauka spotyka się z historią. Oferuje interaktywne wystawy naukowe w XIX-wiecznych zabudowaniach dawnego militarnego fortu.
+
+[Hackerspace Trójmiasto](https://hs3.pl/) to społeczność pasjonatów technologii i konstruktorów zrzeszająca wszystkich, którzy chcą się rozwijać, dzielić wiedzą i budować otwartą przestrzeń technologiczną.

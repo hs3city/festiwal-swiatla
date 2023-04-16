@@ -1,6 +1,6 @@
 baseURL = "/"
-languageCode = "en-pl"
-title = "Festiwal Światła 2022"
+languageCode = "pl-pl"
+title = "Festiwal Światła 2023"
 themesDir = "themes"
 theme = ["hugo-serif-theme", "hugo-shortcode-gallery"]
 timeout = 600000
@@ -55,25 +55,25 @@ timeout = 600000
 
 [menu]
   # Main Menu
-  [[menu.main]]
-    name = "Projekty"
-    url = "/projekty/"
-      weight = 1
+#  [[menu.main]]
+#    name = "Projekty"
+#    url = "/projekty/"
+#      weight = 1
 
-  [[menu.main]]
-      name = "Artyści"
-      url = "/artysci/"
-      weight = 2
+#  [[menu.main]]
+#      name = "Artyści"
+#      url = "/artysci/"
+#      weight = 2
 
-  [[menu.main]]
-    name = "Warsztaty"
-    url = "/warsztaty/"
-      weight = 3
+#  [[menu.main]]
+#    name = "Warsztaty"
+#    url = "/warsztaty/"
+#      weight = 3
 
-  [[menu.main]]
-    name = "Program"
-    url = "/program/"
-      weight = 4
+#  [[menu.main]]
+#    name = "Program"
+#    url = "/program/"
+#      weight = 4
 
   [[menu.main]]
       name = "Organizatorzy"

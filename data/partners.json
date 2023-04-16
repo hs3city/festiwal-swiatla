@@ -13,9 +13,9 @@
         "image": "images/partners/hs3.png"
       },
       {
-        "name": "CUMY",
-        "link": "https://www.facebook.com/cumy.stocznia/",
-        "image": "images/partners/cumy.png"
+        "name": "L'arT",
+        "link": "https://lartagency.com/",
+        "image": "images/partners/laart.png"
       }
     ]
   },
@@ -81,11 +81,6 @@
         "name": "Code:Me",
         "link": "https://codeme.pl/",
         "image": "images/partners/codeme.png"
-      },
-      {
-        "name": "L'arT",
-        "link": "https://lartagency.com/",
-        "image": "images/partners/laart.png"
       }
     ]
   }
