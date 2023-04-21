@@ -60,10 +60,10 @@ timeout = 600000
 #    url = "/projekty/"
 #      weight = 1
 
-#  [[menu.main]]
-#      name = "Artyści"
-#      url = "/artysci/"
-#      weight = 2
+  [[menu.main]]
+      name = "Artyści"
+      url = "/artysci/"
+      weight = 2
 
 #  [[menu.main]]
 #    name = "Warsztaty"
