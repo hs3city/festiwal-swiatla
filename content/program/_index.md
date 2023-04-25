@@ -2,6 +2,8 @@
 
 title: 'Program Festiwalu Światła 2023'
 description: 'Program Festiwalu Światła 2023'
+aliases:
+- /program/2023
 ---
 
 # **SOBOTA 13 MAJA**
