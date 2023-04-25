@@ -13,3 +13,11 @@ promoted: true
 Jadwiga Hajdo, autorka kolorowych abstrakcji, bywa często nazywana Artystką Ducha. Poprzez dogłębną i pełną fascynacji obserwację przyrody, przelewa swoje odczucia na płótno, ukazując intensywność i piękno całej gamy barw otaczającego nas świata.
 
 Charakterystyczny dla jej prac jest efekt trójwymiarowości, który autorka osiąga podświadomie odzwierciedlając promienie słońca przebijające przez liście i gałęzie roślin. Dzięki dynamicznym pociągnięciom pędzla wyzwala kolorystyczną i wysoce energetyczną wibrację, a jej dzieła nabierają niezwykłej ekspresji.
+
+**Wystawy:**
+
+[Podwodny Świat Avatara](/wystawy/podwodny-swiat-avatara)
+
+**Warsztaty:**
+
+[Kropka w UV](/warsztaty/kropka-uv)
