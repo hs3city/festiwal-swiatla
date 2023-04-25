@@ -11,3 +11,7 @@ promoted: true
 # Bio
 
 Absolwentka Wydziału Malarstwa na Akademii Sztuk Pięknych w Gdańsku. Malarstwo jest dla niej tajemnicą przeżywania świata. Światło i symbol są jej malarską formą wypowiedzenia tego, co niewypowiedziane i doświadczane w niewysłowiony sposób. Czerpiąc z głębi, stara się oddać niemożliwe do nazwania nastroje oraz wewnętrzne przeżycia. Jej malarstwo to ciągłe odkrywanie kolejnych horyzontów.
+
+**Wystawy:**
+
+[Horyzonty światła](/wystawy/horyzonty-swiatla)

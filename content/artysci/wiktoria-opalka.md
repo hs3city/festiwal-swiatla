@@ -11,3 +11,7 @@ promoted: true
 # Bio
 
 Wiktoria Opałka - absolwentka gdańskiego ASP urodzona i wychowana w Gdyni. W swoich pracach lubi łączyć różne techniki oraz zabawę formą. W swoich pracach inspiruje się sztuką ludową, często sięga po odwołania do typopolo i kiczu wczesnych lat 2000.
+
+**Wystawy:**
+
+[Powidoki Chłopstwa](/wystawy/powidoki-chlopstwa)
