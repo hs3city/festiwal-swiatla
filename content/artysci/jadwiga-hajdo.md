@@ -14,6 +14,8 @@ Jadwiga Hajdo, autorka kolorowych abstrakcji, bywa często nazywana Artystką Du
 
 Charakterystyczny dla jej prac jest efekt trójwymiarowości, który autorka osiąga podświadomie odzwierciedlając promienie słońca przebijające przez liście i gałęzie roślin. Dzięki dynamicznym pociągnięciom pędzla wyzwala kolorystyczną i wysoce energetyczną wibrację, a jej dzieła nabierają niezwykłej ekspresji.
 
+<https://lartagency.com/pl/collections/jadwiga-hajdo>
+
 **Wystawy:**
 
 [Podwodny Świat Avatara](/wystawy/podwodny-swiat-avatara)
