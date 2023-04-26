@@ -24,4 +24,4 @@ Czas trwania: 1,5h
 
 Miejsce: Hevelianum / sala Magellana
 
-**Obowiązują zapisy przez platformę Evenea**
+**Obowiązują [zapisy przez platformę Evenea](https://app.evenea.pl/event/swiatlo-na-ai/)**

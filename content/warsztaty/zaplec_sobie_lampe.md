@@ -24,5 +24,5 @@ Miejsce: Hevelianum / sala Einsteina
 
 Koszt udziału w warsztatach: 120 zł
 
-**Obowiązują zapisy przez platformę Evenea**
+**Obowiązują [zapisy przez platformę Evenea](https://app.evenea.pl/event/zaplec-sobie-lampe/)**
 
