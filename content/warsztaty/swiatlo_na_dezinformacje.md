@@ -21,4 +21,4 @@ Czas trwania: 2h
 
 Miejsce: Hevelianum / sala Magellana
 
-**Obowiązują zapisy przez platformę Evenea**
+**Obowiązują [zapisy przez platformę Evenea](https://app.evenea.pl/event/swiatlo-na-dezinformacje/)**

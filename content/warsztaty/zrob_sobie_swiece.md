@@ -25,5 +25,5 @@ Miejsce: Hevelianum / sala Magellana
 
 Koszt udziału w warsztatach: 170 zł
 
-**Obowiązują zapisy przez platformę Evenea**
+**Obowiązują [zapisy przez platformę Evenea](https://app.evenea.pl/event/zrob-sobie-swiece/)**
 
