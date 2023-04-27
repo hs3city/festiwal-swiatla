@@ -12,6 +12,7 @@ Poprzez instalację „Pokój bez kolorów“ pokażemy, jak bardzo różni się
 
 **O artyście:**
 [Joanna Tadych](/artysci/joanna-tadych)
+[Leszek Miotk](/artysci/leszek-miotk)
 
 **Godziny otwarcia:**
 

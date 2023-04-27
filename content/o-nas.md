@@ -5,7 +5,7 @@ date: 2018-02-22T17:01:34+07:00
 
 # Razem możemy więcej!
 
-Jesteśmy artystami, naukowcami, aktywistami i konstruktorami, ale przede wszystkim ludźmi, którzy chcą działać – tworzyć, eksperymentować, odkrywać, psuć i naprawiać. Są wśród nas przedstawiciele i przedstawicielki kilku lokalnych organizacji, między innymi [Hevelianum](https://hevelianum.pl/), gdzie nauka spotyka się z historią i [Hackerspace Trójmiasto](https://hs3.pl/), w którym gromadzą się pasjonaci technologii oraz kreatywnej agencji sztuki [L’art](https://lartagency.com/).
+Jesteśmy artystami, naukowcami, aktywistami i konstruktorami, ale przede wszystkim ludźmi, którzy chcą działać – tworzyć, eksperymentować, odkrywać, psuć i naprawiać. Są wśród nas przedstawiciele i przedstawicielki kilku lokalnych organizacji, między innymi [Hevelianum](https://hevelianum.pl/), gdzie nauka spotyka się z historią i [Hackerspace Trójmiasto](https://hs3.pl/), w którym gromadzą się pasjonaci technologii oraz kreatywnej agencji sztuki [L’arT](https://lartagency.com/).
 
 Połączyliśmy siły i zasoby, aby zrobić coś czego jeszcze nie było – festiwal tworzony oddolnie, przez ludzi i dla ludzi. Bez kuratora, bez dyrektora, bez ograniczeń. Każdy z organizatorów festiwalu jest tutaj po to, by zrealizować swoje marzenie. Każdy działa w dziedzinie, która go pasjonuje i realizuje projekt, który daje mu radość.
 

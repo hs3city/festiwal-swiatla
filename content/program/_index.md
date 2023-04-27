@@ -19,7 +19,7 @@ aliases:
 
 12:00 - [ZAPLEĆ SOBIE LAMPĘ – MAKRAMOWE ABAŻURY](/warsztaty/zaplec_sobie_lampe)
 
-12:00–15:00 - GRA TERENOWA
+12:00–15:00 - [GRA TERENOWA](/pokazy/gra-terenowa)
 
 13:00 – [ZABAWY ZE ŚWIATŁEM](/warsztaty/zabawy_ze_swiatlem)
 
@@ -79,7 +79,7 @@ aliases:
 
 12:00–17:00 - [WYSTAWY FESTIWALOWE](/wystawy)
 
-12:00–15:00 - GRA TERENOWA
+12:00–15:00 - [GRA TERENOWA](/pokazy/gra-terenowa)
 
 12:00 – [PLANETARIUM MOBILNE](/warsztaty/planetarium_mobilne)
 

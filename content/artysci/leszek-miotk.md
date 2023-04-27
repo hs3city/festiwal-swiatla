@@ -10,4 +10,8 @@ promoted: true
 
 ## Bio
 
-Inynier elektronik, prowadzi różne projekty aby pokazać, że da się zmienić system edukacji. Pomysłodawca <https://www.projekt-zeton.pl>, członek [Hackerspace Trójmiasto](https://hs3.pl) i [Hybrydowej Szkoły](https://hybrydowa.edu.pl). Interesuje się neuronauką, psychologią oraz jak działa mózg.
+Inynier elektronik, prowadzi różne projekty aby pokazać, że da się zmienić system edukacji. Pomysłodawca [aplikacji Zeton](https://www.projekt-zeton.pl), członek [Hackerspace Trójmiasto](https://hs3.pl) i [Hybrydowej Szkoły](https://hybrydowa.edu.pl). Interesuje się neuronauką, psychologią oraz działaniem mózgu.
+
+**Wystawy:**
+
+[Pokój bez kolorów](/wystawy/pokoj-bez-kolorow)
