@@ -15,7 +15,7 @@ Warsztaty „Światło na Sztuczną Inteligencję“ są doskonałą okazją by 
 Podczas spotkania uczestnicy zapoznają się z podstawowymi zagadnieniami z dziedziny sztucznej inteligencji oraz poznają narzędzia i metody pracy wykorzystywane w projektach związanych z SI. Warsztaty pozwolą także na wymianę doświadczeń i nawiązanie kontaktów z innymi pasjonatami tematyki SI.
 
 
-Warsztaty odbywają się w ramach projektu **[Peer Train]((https://peer-train.org))** programu ERASMUS+. Spotkanie poprowadzą: Anna Grabowska, Karolina Zielińsk-Dąbkowska, Alicja Kwaśniewska, Ewa Kozłowska, Ewa Kurcin.
+Warsztaty odbywają się w ramach projektu **[Peer Train](https://peer-train.org)** programu ERASMUS+. Spotkanie poprowadzą: dr inż. Anna Grabowska, dr Karolina M. Zielińska-Dąbkowska, dr Alicja Kwaśniewska, Ewa Kozłowska, Ewa Kurcin.
 
 
 **SOB godz. 16:00-17:30**
