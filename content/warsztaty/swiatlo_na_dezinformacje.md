@@ -12,7 +12,7 @@ Jak rozpoznać fake newsy? Jak nie dać się oszukać w internecie? Współczesn
 W trakcie warsztatów „Światło na dezinformację“ przyjrzymy się mechanizmom wyświetlania informacji w wyszukiwarkach internetowych oraz w mediach społecznościowych, a także różnym rodzajom informacji wprowadzających w błąd. Przetestujemy także bezpłatne narzędzia umożliwiające samodzielną weryfikację treści w Internecie, w tym cytatów i zdjęć.
 
 
-WSpotkanie poprowadzą w duecie ambasadorka programów senioralnych Towarzystwa Inicjatyw Twórczych „ę“ dr inż. Anna Grabowska oraz ekspert **[Stowarzyszenia Demagog](https://demagog.org.pl/)** Patryk Zakrzewski.
+Spotkanie poprowadzą w duecie ambasadorka programów senioralnych Towarzystwa Inicjatyw Twórczych „ę“ dr inż. Anna Grabowska oraz ekspert **[Stowarzyszenia Demagog](https://demagog.org.pl/)** Patryk Zakrzewski.
 
 
 **SOB godz. 14:00-16:00**

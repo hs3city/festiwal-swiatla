@@ -24,4 +24,4 @@ Jesteśmy nieformalną grupą animatorów kultury, artystów, naukowców, aktywi
 
 [Hackerspace Trójmiasto](https://hs3.pl/) to społeczność pasjonatów technologii i konstruktorów zrzeszająca wszystkich, którzy chcą się rozwijać, dzielić wiedzą i budować otwartą przestrzeń technologiczną.
 
-[L’art](https://lartagency.com/)  to kreatywna agencja sztuki i galeria online, która nie tylko łączy artystów z potencjalnymi klientami, ale także tworzy niesamowite projekty artystyczne, inicjuje współpraca i eventy. 
+[L’arT](https://lartagency.com/)  to kreatywna agencja sztuki i galeria online, która nie tylko łączy artystów z potencjalnymi klientami, ale także tworzy niesamowite projekty artystyczne, inicjuje współpraca i eventy. 
