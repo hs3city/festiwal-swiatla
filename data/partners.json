@@ -5,17 +5,27 @@
       {
         "name": "Hevelianum",
         "link": "https://hevelianum.pl/",
-        "image": "images/partners/hevelianum.png"
+        "image": "images/partners/hevelianum.svg"
       },
       {
         "name": "Hackerspace Trójmiasto",
         "link": "https://hs3.pl",
-        "image": "images/partners/hs3.png"
+        "image": "images/partners/hs3.svg"
       },
       {
         "name": "L'arT",
         "link": "https://lartagency.com/",
-        "image": "images/partners/laart.png"
+        "image": "images/partners/lart.svg"
+      }
+    ]
+  },
+  {
+    "title": "Sponsorzy",
+    "items": [
+      {
+        "name": "Quantum Cybersecurity Hub Europe",
+        "link": "/",
+        "image": "images/partners/qche.svg"
       }
     ]
   },
@@ -25,7 +35,7 @@
       {
         "name": "Polsa",
         "link": "https://polsa.gov.pl/",
-        "image": "images/partners/polsa.jpg"
+        "image": "images/partners/polsa.svg"
       }
     ]
   },
@@ -35,7 +45,7 @@
       {
         "name": "Trójmiasto",
         "link": "https://www.trojmiasto.pl/",
-        "image": "images/partners/trojmiasto.png"
+        "image": "images/partners/trojmiasto.svg"
       }
     ]
   },
@@ -43,44 +53,69 @@
     "title": "Partnerzy",
     "items": [
       {
-        "name": "Urania",
-        "link": "https://www.urania.edu.pl/",
-        "image": "images/partners/urania.jpg"
+        "name": "Antyrama",
+        "link": "https://antyrama.org/",
+        "image": "images/partners/antyrama.svg"
       },
       {
-        "name": "Monochromancer",
-        "link": "https://www.instagram.com/monochromancer/",
-        "image": "images/partners/monochromancer.png"
-      },
-      {
-        "name": "Łukasiewicz",
-        "link": "https://lukasiewicz.gov.pl/",
-        "image": "images/partners/lukasiewicz.png"
-      },
-      {
-        "name": "Instytut Metropolitalny",
-        "link": "https://www.im.edu.pl/",
-        "image": "images/partners/im.png"
-      },
-      {
-        "name": "u3a",
-        "link": "https://www.u3a.org.uk/",
-        "image": "images/partners/u3a.png"
-      },
-      {
-        "name": "Conradinum",
-        "link": "https://conradinum.edu.gdansk.pl/pl",
-        "image": "images/partners/conradinum.png"
-      },
-      {
-        "name": "Hybrydowa Szkoła",
-        "link": "https://hybrydowa.edu.pl/",
-        "image": "images/partners/hs.png"
+        "name": "OBJ Designed",
+        "link": "https://obj-designed.com/",
+        "image": "images/partners/obj-designed.svg"
       },
       {
         "name": "Code:Me",
         "link": "https://codeme.pl/",
-        "image": "images/partners/codeme.png"
+        "image": "images/partners/codeme.svg"
+      },
+      {
+        "name": "Erasmus+",
+        "link": "/",
+        "image": "images/partners/erasmus-plus.svg"
+      },
+      {
+        "name": "Peer Train",
+        "link": "https://peer-train.org/",
+        "image": "images/partners/peer-train.svg"
+      },
+      {
+        "name": "Something Boho",
+        "link": "https://www.instagram.com/something.boho.pracownia/",
+        "image": "images/partners/something-boho.svg"
+      },
+      {
+        "name": "Politechnika Gdańska Wydział Architektury",
+        "link": "https://arch.pg.edu.pl/",
+        "image": "images/partners/pg-wa.svg"
+      },
+      {
+        "name": "Urania",
+        "link": "https://www.urania.edu.pl/",
+        "image": "images/partners/urania.svg"
+      },
+      {
+        "name": "UNESCO",
+        "link": "https://www.unesco.org/",
+        "image": "images/partners/unesco.svg"
+      },
+      {
+        "name": "International Day of Light",
+        "link": "https://www.lightday.org/",
+        "image": "images/partners/lightday.svg"
+      },
+      {
+        "name": "Monochromancer",
+        "link": "https://www.instagram.com/monochromancer/",
+        "image": "images/partners/monochromancer.svg"
+      },
+      {
+        "name": "Instytut Łukasiewicza",
+        "link": "https://lukasiewicz.gov.pl/",
+        "image": "images/partners/instytut-lukasiewicza.svg"
+      },
+      {
+        "name": "Instytut Metropolitalny",
+        "link": "https://www.im.edu.pl/",
+        "image": "images/partners/instytut-metropolitalny.svg"
       }
     ]
   }
