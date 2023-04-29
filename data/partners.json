@@ -8,14 +8,14 @@
         "image": "images/partners/hevelianum.svg"
       },
       {
-        "name": "Hackerspace Trójmiasto",
-        "link": "https://hs3.pl",
-        "image": "images/partners/hs3.svg"
-      },
-      {
         "name": "L'arT",
         "link": "https://lartagency.com/",
         "image": "images/partners/lart.svg"
+      },
+      {
+        "name": "Hackerspace Trójmiasto",
+        "link": "https://hs3.pl",
+        "image": "images/partners/hs3.svg"
       }
     ]
   },
