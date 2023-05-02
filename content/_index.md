@@ -15,8 +15,7 @@ Od zarania dziejów światło fascynowało ludzi, a jego badanie umożliwiało p
 
 Zapraszamy do udziału w wydarzeniu, którego głównym bohaterem będzie światło. Szerokopojęte światło. Festiwal Światła będzie okazją do eksperymentów naukowych, artystycznej ekspresji i przede wszystkim dobrej zabawy. W programie całe spektrum atrakcji – liczne pokazy, wystawy i warsztaty, które pokażą światło… w zupełnie nowym świetle.
 
-
-# Kim jesteśmy?
+## Kim jesteśmy?
 
 Jesteśmy nieformalną grupą animatorów kultury, artystów, naukowców, aktywistów i konstruktorów. Reprezentujemy kilka lokalnych organizacji, między innymi Centrum Nauki Hevelianum i Hackerspace Trójmiasto.
 

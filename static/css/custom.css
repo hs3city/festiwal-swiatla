@@ -111,6 +111,21 @@ h1,
   margin-bottom: 20px;
 }
 
+.row .myGrid img {
+  width: 200px;
+  height: 100px;
+}
+
+.row .myGrid-Organizatorzy img {
+  width: 300px;
+  height: 150px;
+}
+
+.row .myGrid-Sponsorzy img {
+  width: 300px;
+  height: 150px;
+}
+
 .myGrid {
   display: -webkit-box;
   display: -webkit-flex;
@@ -130,19 +145,26 @@ h1,
   flex: 0 0 auto;
 }
 
+.myGrid-Organizatorzy > div {
+  height: 170px;
+  margin: 0 1rem 1rem 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+
+.myGrid-Sponsorzy > div {
+  height: 170px;
+  margin: 0 1rem 1rem 0;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+}
+
 .myGrid .group {
   font-size: 0.8em;
   background: transparent;
   color: var(--lighter);
-}
-
-.myGrid img {
-  max-width: 200px;
-  max-height: 100px;
-}
-
-.myGrid-Organizatorzy img {
-  max-width: 250px;
 }
 
 
@@ -174,7 +196,7 @@ h1,
 }
 
 .strip-partners {
-  background-color: #fff;
+  background-color: #000;
 }
 
 .feature-image img {
