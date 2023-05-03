@@ -10,7 +10,7 @@ Ze sznurka można wypleść niemal wszystko, ale żadne misterne makramowe dzie�
 
 Technika makramy polega na ręcznym wyplataniu dekoracji i przedmiotów użytkowych – bez użycia igieł, drutów czy szydełka. Tylko Ty i sznurek. Na warsztatach zaczniesz swoją przygodę z makramą. Nauczysz się podstaw tradycyjnej techniki rękodzielniczej i przekonasz się jak bardzo wciąga i relaksuje. 
 
-W cenie warsztatów otrzymasz wszystkie potrzebne materiały: najlepszej jakości sznurek bawełniany, stelaż lampy, zawiesie, niezbędne przybory i akcesoria.
+W cenie warsztatów otrzymasz wszystkie potrzebne materiały: najlepszej jakości sznurek bawełniany, stelaż lampy, zawiesie do lampy wiszącej lub podstawę do stojącej, niezbędne przybory i akcesoria.
 
 
 **[Something Boho](https://www.instagram.com/something.boho.pracownia/)** to pracownia makramy prowadzona przez Emilię Mikulską – wielką fankę DIY, która uwielbia utrudniać sobie życie wykonując własnoręcznie to, co w sieciówkach można kupić za kilka złotych. Jako Something Boho organizuje warsztaty kreatywne, sprzedaje i wypożycza makramy i inne dekoracje z drewna i sznurka. Współtworzy także grupę rękodzielniczą Dziewczyny od makram skupiającą pasjonatów, a właściwie pasjonatki tego rzemiosła.
@@ -20,7 +20,7 @@ W cenie warsztatów otrzymasz wszystkie potrzebne materiały: najlepszej jakośc
 
 Czas trwania: 3,5h
 
-Miejsce: Hevelianum / sala Einsteina
+Miejsce: Hevelianum / sala Skłodowskiej-Curie
 
 Koszt udziału w warsztatach: 120 zł
 
