@@ -6,7 +6,7 @@ aliases:
 - /program/2023
 ---
 
-# **SOBOTA 13 MAJA**
+## SOBOTA 13 MAJA
 
 
 11:00 - [ZABAWY ZE ŚWIATŁEM](/warsztaty/zabawy_ze_swiatlem)
@@ -69,7 +69,7 @@ aliases:
 
 
 
-# **NIEDZIELA 14 MAJA**
+## NIEDZIELA 14 MAJA
 
 11:00 – [PLANETARIUM MOBILNE](/warsztaty/planetarium_mobilne)
 
@@ -99,5 +99,5 @@ aliases:
 
 
 
-# MAPA ATRAKCJI
+## MAPA ATRAKCJI
 

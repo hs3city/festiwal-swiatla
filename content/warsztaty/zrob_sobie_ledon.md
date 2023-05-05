@@ -5,7 +5,8 @@ featured: true
 draft: false
 weight: 1
 ---
-**WARSZTATY JUZ SIĘ ODBYŁY**
+
+**WARSZTATY JUŻ SIĘ ODBYŁY**
 
 Marzysz o efektownej dekoracji, która rozświetli twoje wnętrze? Zrób sobie ledon! Zapisz się na warsztaty, podczas których pod okiem specjalistów z Hackerspace Trójmiasto zbudujesz swój własny "neon" LED.
 

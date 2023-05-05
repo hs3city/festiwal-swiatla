@@ -91,6 +91,18 @@ body,
   width: 100%;
 }
 
+@media (min-width: 768px) {
+  .intro {
+    padding-bottom: 60px;
+  }
+}
+
+.page-program h2 {
+  padding-top: 1em;
+  padding-bottom: 0.5em;
+  font-weight: bold;
+}
+
 h1,
 .content h2 {
   color: #fff;
@@ -202,6 +214,11 @@ h1,
 .feature-image img {
   /* Thanks to https://codepen.io/sosuke/pen/Pjoqqp */
   filter: invert(80%) sepia(14%) saturate(4650%) hue-rotate(146deg) brightness(85%) contrast(87%);
+}
+
+img.image {
+  max-width: 600px;
+  max-height: 400px;
 }
 
 .gallery-wrapper {
