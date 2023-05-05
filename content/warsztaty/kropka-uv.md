@@ -2,6 +2,7 @@
 title: "KROPKA W UV - MALOWANIE AKRYLEM"
 date: 2018-11-28T15:15:34+10:00
 featured: true
+image: 'images/program/kropka-uv.jpg'
 draft: false
 weight: 2
 ---

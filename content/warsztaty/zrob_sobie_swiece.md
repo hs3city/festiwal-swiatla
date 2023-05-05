@@ -2,6 +2,7 @@
 title: "ZRÓB SOBIE ŚWIECĘ SOJOWĄ"
 date: 2018-11-28T15:15:34+10:00
 featured: true
+image: 'images/program/vida-verde.png'
 draft: false
 weight: 2
 ---
