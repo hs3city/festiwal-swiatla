@@ -2,16 +2,19 @@
   {
     "title": "Wystawy",
     "description": "Zobacz, usłysz, dotknij",
-    "image": "images/features/noun_branding_1885335.svg"
+    "image": "images/features/noun_branding_1885335.svg",
+    "href": "/wystawy"
   },
   {
     "title": "Warsztaty",
     "description": "Eksperymentuj ze światłem",
-    "image": "images/features/noun_The Process_1885341.svg"
+    "image": "images/features/noun_The Process_1885341.svg",
+    "href": "/warsztaty"
   },
   {
     "title": "Pokazy",
     "description": "Celebruj światło",
-    "image": "images/features/noun_3d modeling_1885342.svg"
+    "image": "images/features/noun_3d modeling_1885342.svg",
+    "href": "/pokazy"
   }
 ]
