@@ -3,7 +3,7 @@ title: "GRA TERENOWA"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 6
+weight: 7
 ---
 Dajcie się porwać świetlistej przygodzie! Wędrując po terenie festiwalu i rozwiązując zagadki odkryjecie wiele ciekawych faktów o świetle! W tym roku przygotowaliśmy dla Was az dwie ścieżki:
 
