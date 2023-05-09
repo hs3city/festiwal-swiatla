@@ -11,7 +11,7 @@ Instalacja przygotowana przez print.out_ czyli gdański startup, specjalizujący
 
 wydruk: print.out_
 skan: 3Maker
-filament: [ROSA](/https://sklep.rosa3d.pl/product-category/pet-g-standard/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspNQlC-CCFne35kYsv8WdZXZuu0gofvrazrq1uWjI1DlVtWUOBiBNmRoCb8QQAvD_BwE)
+filament: [ROSA](/https://sklep.rosa3d.pl/product-category/pet-g-standard/)
 
 **Godziny otwarcia:**
 
