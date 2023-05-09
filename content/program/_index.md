@@ -7,6 +7,8 @@ aliases:
 
 ![Program Festiwalu](/images/program/program-2023.png)
 
+![Mapa Festiwalu](/images/program/mapa-2023.png)
+
 ## SOBOTA 13 MAJA
 
 
@@ -97,9 +99,3 @@ aliases:
 16:00 – [NAUKA MÓWI: ŁĄCZYMY LUDZI PRZEZ ŚWIATŁO - panel dyskusyjny](/pokazy/panel-dyskusyjny)
 
 [OBSERWACJE ASTRONOMICZNE](/warsztaty/obserwacje_astronomiczne) zależnie od warunków atmosferycznych 
-
-
-
-## MAPA ATRAKCJI
-
-![Mapa Festiwalu](/images/program/mapa-2023.png)
