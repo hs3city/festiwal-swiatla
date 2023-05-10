@@ -1,12 +1,15 @@
 ---
-
 title: 'Program Festiwalu Światła 2023'
 description: 'Program Festiwalu Światła 2023'
 aliases:
 - /program/2023
 ---
 
-# **SOBOTA 13 MAJA**
+[![Program Festiwalu](/images/program/program-2023.png)](/images/program/program-2023.png)
+
+[![Mapa Festiwalu](/images/program/mapa-2023.png)](/images/program/mapa-2023.png)
+
+## SOBOTA 13 MAJA
 
 
 11:00 - [ZABAWY ZE ŚWIATŁEM](/warsztaty/zabawy_ze_swiatlem)
@@ -69,7 +72,7 @@ aliases:
 
 
 
-# **NIEDZIELA 14 MAJA**
+## NIEDZIELA 14 MAJA
 
 11:00 – [PLANETARIUM MOBILNE](/warsztaty/planetarium_mobilne)
 
@@ -96,8 +99,3 @@ aliases:
 16:00 – [NAUKA MÓWI: ŁĄCZYMY LUDZI PRZEZ ŚWIATŁO - panel dyskusyjny](/pokazy/panel-dyskusyjny)
 
 [OBSERWACJE ASTRONOMICZNE](/warsztaty/obserwacje_astronomiczne) zależnie od warunków atmosferycznych 
-
-
-
-# MAPA ATRAKCJI
-

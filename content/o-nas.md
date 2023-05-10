@@ -3,23 +3,22 @@ title: 'O nas'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-# Razem możemy więcej!
-
-Jesteśmy artystami, naukowcami, aktywistami i konstruktorami, ale przede wszystkim ludźmi, którzy chcą działać – tworzyć, eksperymentować, odkrywać, psuć i naprawiać. Są wśród nas przedstawiciele i przedstawicielki kilku lokalnych organizacji, między innymi [Hevelianum](https://hevelianum.pl/), gdzie nauka spotyka się z historią i [Hackerspace Trójmiasto](https://hs3.pl/), w którym gromadzą się pasjonaci technologii oraz kreatywnej agencji sztuki [L’arT](https://lartagency.com/).
-
-Połączyliśmy siły i zasoby, aby zrobić coś czego jeszcze nie było – festiwal tworzony oddolnie, przez ludzi i dla ludzi. Bez kuratora, bez dyrektora, bez ograniczeń. Każdy z organizatorów festiwalu jest tutaj po to, by zrealizować swoje marzenie. Każdy działa w dziedzinie, która go pasjonuje i realizuje projekt, który daje mu radość.
-
-Chcemy zbudować coś więcej niż tylko instalacje świetlne – Festiwal Światła ma być dorocznym świętem integrującym lokalną społeczność. Ponad wszystko, chcemy dzielić się pozytywną zajawką i aktywizować mieszkańców Trójmiasta dlatego tworzymy bezpłatne wydarzenie otwarte na różnorodną publiczność. Do udziału i współtworzenia wydarzenia zapraszamy miłośników sztuki, nauki i technologii, dzieci, rodziców, studentów, absolwentów, seniorów i wszystkich pomiędzy.
-
-Działamy partycypacyjnie – każdy jest mile widziany w naszym gronie. Jeśli masz pomysł, który chcesz zrealizować dołącz do nas przy tworzeniu kolejnej edycji Festiwalu Światła. 
+## Razem możemy więcej!
 
 
+Jesteśmy nieformalną grupą animatorów kultury, artystów, naukowców, aktywistów i konstruktorów. Reprezentujemy kilka lokalnych organizacji, między innymi Centrum Nauki Hevelianum i Hackerspace Trójmiasto.
 
-# Skąd pomysł na festiwal?
+[Hevelianum](https://hevelianum.pl/) to miejsce, w którym nauka spotyka się z historią. Oferuje interaktywne wystawy naukowe w XIX-wiecznych zabudowaniach dawnego militarnego fortu.
 
-Zaczęło się pewnego listopadowego dnia, podczas Idea Squash, wydarzenia organizowanego przez Instytut Kultury Miejskiej w Gdańsku. Leszek z [Hackerspace Trójmiasto](https://hs3.pl/) przedstawił swoje marzenie: stworzyć pokój bez koloru, czyli instalację, w której dzięki określonemu spektrum światła, przedmioty stają się niewidoczne. I się zaczęło… konstruktywny feedback, konkretne sugestie i praktyczne porady na ulepszenie projektu. Pomysł powoli ewoluował, każdy z uczestników wydarzenia miał swoją wizję, a jeden pomysł prowokował kolejny. Okazało się, że wielu z nas od dawna chodziły po głowie przeróżne projekty w ten czy inny sposób nawiązujące do światła – od zabawy fotografią analogową, przez eksperymenty ze światłem UV, po pokazy laserowe. Wtedy nas oświeciło: jedna instalacja to za mało – musimy stworzyć festiwal!
+[Hackerspace Trójmiasto](https://hs3.pl/) to społeczność pasjonatów technologii i konstruktorów zrzeszająca wszystkich, którzy chcą się rozwijać, dzielić wiedzą i budować otwartą przestrzeń technologiczną.
 
-# I wtedy stała się światłość
+[L’arT](https://lartagency.com/)  to kreatywna agencja sztuki i galeria online, która nie tylko łączy artystów z potencjalnymi klientami, ale także tworzy niesamowite projekty artystyczne, inicjuje współpracę i eventy. 
+
+## Skąd pomysł na festiwal?
+
+Zaczęło się pewnego listopadowego dnia, podczas Idea Squash, wydarzenia organizowanego przez [Hackerspace Trójmiasto](https://hs3.pl/) i [Instytut Kultury Miejskiej w Gdańsku](https://ikm.gda.pl/). Leszek z [Hackerspace Trójmiasto](https://hs3.pl/) przedstawił swoje marzenie: stworzyć pokój bez koloru, czyli instalację, w której dzięki określonemu spektrum światła, przedmioty stają się niewidoczne. I się zaczęło… konstruktywny feedback, konkretne sugestie i praktyczne porady na ulepszenie projektu. Pomysł powoli ewoluował, każdy z uczestników wydarzenia miał swoją wizję, a jeden pomysł prowokował kolejny. Okazało się, że wielu z nas od dawna chodziły po głowie przeróżne projekty w ten czy inny sposób nawiązujące do światła – od zabawy fotografią analogową, przez eksperymenty ze światłem UV, po pokazy laserowe. Wtedy nas oświeciło: jedna instalacja to za mało – musimy stworzyć festiwal!
+
+## I wtedy stała się światłość
 
 W maju 2022 osiągnęliśmy swój cel – zorganizowaliśmy pierwszą edycję Festiwalu Światła, która odbyła się w weekend 13-15 maja na terenie Góry Gradowej.
 
