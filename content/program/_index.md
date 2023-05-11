@@ -40,7 +40,7 @@ aliases:
 
 16:00–22:00 - [WYSTAWY FESTIWALOWE](/wystawy)
 
-16:00–20:00  – MATERIA ŚWIATŁOCZUŁA - WARSZATY W CIEMNI (co 10 min)
+16:00–20:00  – [MATERIA ŚWIATŁOCZUŁA - WARSZATY W CIEMNI](/wystawy/ciemnia)
 
 16:30 – [WYKŁAD: TAJEMNICZY ZWIĄZEK MIĘDZY ŚWIATŁEM, A ELEKTRYCZNOŚCIĄ](/pokazy/wyklad-tajemniczy-zwiazek)
 
