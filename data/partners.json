@@ -116,6 +116,21 @@
         "name": "Instytut Metropolitalny",
         "link": "https://www.im.edu.pl/",
         "image": "images/partners/instytut-metropolitalny.svg"
+      },
+      {
+        "name": "Solectro",
+        "link": "https://solectroshop.com/pl/",
+        "image": "images/partners/solectro.png"
+      },
+      {
+        "name": "Hakersi",
+        "link": "https://hakersi.pl/",
+        "image": "images/partners/hakersi.png"
+      },
+      {
+        "name": "Rosa 3d",
+        "link": "https://rosa3d.pl/",
+        "image": "images/partners/rosa.svg"
       }
     ]
   }
