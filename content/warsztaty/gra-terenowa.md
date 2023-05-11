@@ -28,3 +28,5 @@ Zapraszamy do udziału indywidualnie lub w grupach 2-5 osobowych.
 Start na głównym placu Festiwalu Światła - na pewno nie przeoczycie!
 
 Na mecie gry terenowej czekają nagrody sponsorowane przez firmę [ROSA](https://sklep.rosa3d.pl/product-category/pet-g-standard/).
+
+[Regulamin gry terenowej](/Regulamin-GRA-TERENOWA-2023.pdf)
