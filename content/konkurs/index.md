@@ -24,7 +24,7 @@ Aby wziąć udział w konkursie należy w czasie jego trwania opublikować zdję
 
 Zwycięzców wyłoni jury składające się z organizatorów Festiwalu Światła z Hevelianum, Hackerspace Trójmiasto i  L'arT Agency. Wyniki konkursu ogłosimy 24 maja za pośrednictwem fanpage’y Festiwalu Światła.
  
-Szczegłowy regulamin konkursu:
+[Regulamin konkursu](/Regulamin-konkursu-fotograficznego.pdf)
 
 
 Sponsorem konkursu jest [SolectroShop](https://solectroshop.com/pl/) – miejsce dla pasjonatów elektroniki i robotyki, zarówno poczatkujących, jak i profesjonalistów. Na polskim rynku działają od 10 lat oferując szeroki wybór sprzętu i płytek do programowania takich jak Arduino, Raspberry Pi, BBC, micro:bit dla dzieci i młodzieży, a także cały szereg niezbędnych do nich akcesoriów. Jeśli chcesz poznać tajniki elektroniki i poszerzyć wiedzę na temat najnowszych technologii i programowania to jest to miejsce idealne dla Ciebie.
