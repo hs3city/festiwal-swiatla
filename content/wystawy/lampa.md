@@ -11,7 +11,7 @@ https://mostwiedzy.pl/pl/karolina-zielinska-dabkowska,409111-1/bio) i mgr inż. 
 
 Prezentowane prace:
 
-- Lampa MINIME: Ada Żurańska, Justyna Wojdyło, Maria Malinowska
+- Lampa [MINIME](/artysci/lampy): Ada Żurańska, Justyna Wojdyło, Maria Malinowska
 I miejsce edycja 2022/2023
 
 - Lampa CYKL DNIA: Anita Kotłowska i Sandra Koper
@@ -33,6 +33,7 @@ III miejsce edycja 2019/2020
 
 **Autorzy:**
 Studenci Wydziału Architektury Politechniki Gdańskiej
+
 
 **Godziny otwarcia:**
 
