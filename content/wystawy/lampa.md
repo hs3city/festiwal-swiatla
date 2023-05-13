@@ -17,7 +17,7 @@ I miejsce edycja 2022/2023
 - Lampa CYKL DNIA: Anita Kotłowska i Sandra Koper
 II miejsce edycja 2022/2023
 
-- HANDYLIGHT: Hubert Bernasik, Kornelia Borkowska, Magdalena Dobrowińska, edycja 2022/2023
+- HANDYLIGHT: Hubert Barnik, Kornelia Borkowska, Magdalena Dobrowińska, edycja 2022/2023
 
 - CERCHIO: Weronika Glaubert, Wiktoria Łada, Marcin Owczarek
 I miejsce edycja 2021/2022
