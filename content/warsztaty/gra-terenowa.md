@@ -5,7 +5,7 @@ featured: true
 draft: false
 weight: 7
 ---
-Dajcie się porwać świetlistej przygodzie! Wędrując po terenie festiwalu i rozwiązując zagadki odkryjecie wiele ciekawych faktów o świetle! W tym roku przygotowaliśmy dla Was az dwie ścieżki:
+Dajcie się porwać świetlistej przygodzie! Wędrując po terenie festiwalu i rozwiązując zagadki odkryjecie wiele ciekawych faktów o świetle! W tym roku przygotowaliśmy dla Was aż dwie ścieżki:
 
 - Świetlikową (familijną), podczas której najmłodsi festiwalowicze, wraz ze słynnym gdańskim astronomem, Janem Heweliuszem, będą mogli poznać tajemnice nocnego nieba (wiek uczestników 7+)
 
