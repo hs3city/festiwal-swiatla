@@ -16,7 +16,7 @@ Autorzy 5 najlepszych zdjęć otrzymają nagrody:
 - voucher zniżkowy do Escape Roomu [Podziemna Pułapka](http://podziemnapulapka.pl/)
 - zniżki na kursy [CODE:ME](https://codeme.pl/)
 - zniżki na zakupy w galerii L’arT
-- upominki od Hevelianum
+- dwie wejściówki na wystawy, album  Astrocamera oraz gadżety od Hevelianum
 
 **Konkurs trwa od 13 do 21 maja.**
 
