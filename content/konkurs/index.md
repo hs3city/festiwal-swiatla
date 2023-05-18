@@ -13,10 +13,10 @@ Konkurs na najlepsze festiwalowe zdjęcie
 Autorzy 5 najlepszych zdjęć otrzymają nagrody:
 
 - zestaw startowy do nauki programowania i elektroniki XS Flowing LED fundowany przez głównego sponsora konkursu, firmę [SolectroShop](https://solectroshop.com/pl/)
-- voucher zniżkowy do Escape Roomu [Podziemna Pułapka](http://podziemnapulapka.pl/)
-- zniżki na kursy [CODE:ME](https://codeme.pl/)
-- zniżki na zakupy w galerii L’arT
 - dwie wejściówki na wystawy, album  Astrocamera oraz gadżety od Hevelianum
+- 200PLN zniżki na kursy [CODE:ME](https://codeme.pl/)
+- 15% zniżki na zakupy w galerii L’arT
+- voucher zniżkowy 30PLN do Escape Roomu [Podziemna Pułapka](http://podziemnapulapka.pl/)
 
 **Konkurs trwa od 13 do 21 maja.**
 
