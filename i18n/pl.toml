@@ -1,0 +1,29 @@
+[exhibitions]
+other = "Wystawy"
+
+[artists]
+other = "Artyści"
+
+[workshops]
+other = "Warsztaty"
+
+[shows]
+other = "Pokazy"
+
+[program]
+other = "Program"
+
+[about-us]
+other = "Organizatorzy"
+
+[galery]
+other = "Galeria"
+
+[contact]
+other = "Kontakt"
+
+[competition]
+other = "Konkurs"
+
+[homepage]
+other = "Strona główna"

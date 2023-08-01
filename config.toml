@@ -4,12 +4,23 @@ title = "Festiwal Światła 2023"
 themesDir = "themes"
 theme = ["hugo-serif-theme", "hugo-shortcode-gallery"]
 timeout = 600000
+DefaultContentLanguage = "pl"
 
 [module]
   [module.hugoVersion]
     extended = true
     min = "0.55.0"
-    
+
+[languages]
+[languages.pl]
+languageName = "🇵🇱"
+contentDir = 'content/pl'
+
+[languages.en]
+title = "Festival of Light 2023"
+contentDir = 'content/en'
+languageName = "🇬🇧"
+
 [params]
   # In most cases you will only want to set the google_analytics_id OR the google_tag_manager_id. If you have Google Analytics included in your GTM tags don't put your GA ID here. Otherwise your data might be useless.
   google_analytics_id = ""
@@ -49,69 +60,74 @@ timeout = 600000
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
 
-  [params.footer]
-    copyright_text = 'Dołącz do nas!'
-    copyright_link = 'https://hs3.pl/wlacz-swiatlo'
+[languages.pl.params.footer]
+  copyright_text = 'Dołącz do nas!'
+  copyright_link = 'https://hs3.pl/wlacz-swiatlo'
+
+[languages.en.params.footer]
+  copyright_text = 'Join us!'
+  copyright_link = 'https://hs3.pl/turn-on-the-light'
 
 [menu]
   # Main Menu
  [[menu.main]]
-    name = "Wystawy"
+    identifier = "exhibitions"
     url = "/wystawy/"
-      weight = 2
+    weight = 2
 
   [[menu.main]]
-      name = "Artyści"
-      url = "/artysci/"
-      weight = 7
+    identifier = "artists"
+    url = "/artysci/"
+    weight = 7
 
   [[menu.main]]
-    name = "Warsztaty"
+    identifier = "workshops"
     url = "/warsztaty/"
-      weight = 3
+    weight = 3
 
   [[menu.main]]
-    name = "Pokazy"
+    identifier = "shows"
     url = "/pokazy/"
-      weight = 5
+    weight = 5
 
-[[menu.main]]
-    name = "Program"
+  [[menu.main]]
+    identifier = "program"
     url = "/program/"
-      weight = 1
+    weight = 1
 
   [[menu.main]]
-      name = "Organizatorzy"
-      url = "/o-nas/"
-      weight = 6
+    identifier = "about-us"
+    url = "/o-nas/"
+    weight = 6
 
   [[menu.main]]
-      name = "Galeria"
+    identifier = "galery"
       url = "/galeria/"
       weight = 8
 
   [[menu.main]]
-      name = "Kontakt"
-      url = "/kontakt/"
-      weight = 9
+    identifier = "contact"
+    url = "/kontakt/"
+    weight = 9
+
+  [[menu.main]]
+    identifier = "competition"
+    url = "/konkurs/"
+    weight = 4
   
+  [[menu.footer]]
+    identifier = "contact"
+    url = "/kontakt/"
+    weight = 2
+
   # Footer Menu
   [[menu.footer]]
-    name = "Strona główna"
+    identifier = "homepage"
     url = "/"
-      weight = 1
-
-  [[menu.footer]]
-    name = "Kontakt"
-    url = "/kontakt/"
-      weight = 2
+    weight = 1
 
   [[menu.footer]]
     name = "Hackerspace Trójmiasto"
     url = "https://hs3.pl"
-      weight = 3
+    weight = 3
       
-  [[menu.main]]
-    name = "Konkurs"
-    url = "/konkurs/"
-      weight = 4
