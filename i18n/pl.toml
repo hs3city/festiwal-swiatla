@@ -27,3 +27,25 @@ other = "Konkurs"
 
 [homepage]
 other = "Strona główna"
+
+[days]
+other = "dni"
+
+[time-h]
+other = "g"
+
+[time-m]
+other = "m"
+
+[time-s]
+other = "s"
+
+[time-until-festival]
+other = "Do Festiwalu Światła zostało"
+
+[telephone]
+other = "Telefon"
+
+[email]
+other = "Email"
+

@@ -17,7 +17,7 @@ other = "Program"
 other = "Organisation"
 
 [galery]
-other = "Galery"
+other = "Gallery"
 
 [contact]
 other = "Contact"
@@ -27,3 +27,24 @@ other = "Competition"
 
 [homepage]
 other = "Home"
+
+[days]
+other = "days"
+
+[time-h]
+other = "h"
+
+[time-m]
+other = "m"
+
+[time-s]
+other = "s"
+
+[time-until-festival]
+other = "The Festival of Light will kick off in"
+
+[telephone]
+other = "Telephone"
+
+[email]
+other = "Email"

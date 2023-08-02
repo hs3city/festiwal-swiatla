@@ -256,3 +256,10 @@ img.image {
   padding: 0 .5rem;
 }
 /* Countdown end */
+
+img[src="/images/google-translate.png"] {
+    height: 1.2em;
+    width: 1.2em !important;
+}
+
+

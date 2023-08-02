@@ -66,64 +66,64 @@ languageName = "🇬🇧"
 
 [languages.en.params.footer]
   copyright_text = 'Join us!'
-  copyright_link = 'https://hs3.pl/turn-on-the-light'
+  copyright_link = 'https://hs3.pl/wlacz-swiatlo'  # TODO: make an English version of this
 
 [menu]
   # Main Menu
  [[menu.main]]
     identifier = "exhibitions"
-    url = "/wystawy/"
+    pageref = "/wystawy/"
     weight = 2
 
   [[menu.main]]
     identifier = "artists"
-    url = "/artysci/"
+    pageref = "/artysci/"
     weight = 7
 
   [[menu.main]]
     identifier = "workshops"
-    url = "/warsztaty/"
+    pageref = "/warsztaty/"
     weight = 3
 
   [[menu.main]]
     identifier = "shows"
-    url = "/pokazy/"
+    pageref = "/pokazy/"
     weight = 5
 
   [[menu.main]]
     identifier = "program"
-    url = "/program/"
+    pageref = "/program/"
     weight = 1
 
   [[menu.main]]
     identifier = "about-us"
-    url = "/o-nas/"
+    pageref = "/o-nas.md"
     weight = 6
 
   [[menu.main]]
     identifier = "galery"
-      url = "/galeria/"
+      pageref = "/galeria/index.md"
       weight = 8
 
   [[menu.main]]
     identifier = "contact"
-    url = "/kontakt/"
+    pageref = "/kontakt.md"
     weight = 9
 
   [[menu.main]]
     identifier = "competition"
-    url = "/konkurs/"
+    pageref = "/konkurs/index.md"
     weight = 4
   
   [[menu.footer]]
     identifier = "contact"
-    url = "/kontakt/"
+    pageref = "/kontakt.md"
     weight = 2
 
   # Footer Menu
   [[menu.footer]]
     identifier = "homepage"
-    url = "/"
+    pageref = "/"
     weight = 1
 
   [[menu.footer]]

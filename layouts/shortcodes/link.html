@@ -1,0 +1,40 @@
+{{- /*
+Makes a link. Usage:
+{{% link ref=/about %}}About us{{% /link %}}
+
+The `ref` is the .PageRef of a page, which is usually the filename (without the `/content/LANGUAGECODE` prefix, and without `_index.md` or `.md` suffix.
+So for instance, `/zasoby` or `/zasoby/finanse`.
+Note that even though the `/zasoby/finanse.md` page defines `url: /finanse` in the front-matter, using `/finanse` as ref in this tag wouldn't work.
+Note that the same `ref` should be used in all languages (since the filenames should be the same in all languages).
+
+- If the ref-page exists in the language of the page, a normal link is made.
+- If the ref-page exists only in other languages, a warning is added to the link (which will lead to the language it exists in) and a "Google Translate" link is generated as well.
+- If the ref-page doesn't exist at all, an error is thrown (since we don't like broken links on the website).
+
+*/ -}}
+{{- $ref := .Get "ref" -}}
+{{- $linktext := .Inner -}}
+{{- $pages := newScratch -}}
+{{- with (site.GetPage $ref) -}}
+    {{- $pages.Set "ownlang" . -}}
+{{- else -}}
+    {{- range $.Page.Sites -}}
+        {{- with (.GetPage $ref) -}}
+            {{- $pages.Add "otherlang" (slice .) -}}
+        {{- end -}}
+    {{- end -}}
+{{- end -}}
+{{- with $pages.Get "ownlang" -}}
+    [{{$linktext}}]({{ .Permalink }})
+{{- else -}}
+    {{- with $pages.Get "otherlang" -}}
+        {{/* for now only show first other language */}}
+        {{- with (index . 0) -}}
+        [{{$linktext}} (in {{.Language.LanguageName}}]({{.Permalink}});
+        [![Google translate](/images/google-translate.png)](http://translate.google.com/translate?{{(slice "js" "n" "sl" .Language.Lang "tl" site.Language.Lang "u" .Permalink) | querify }}))
+        {{- end -}}
+    {{- else -}}
+        {{ errorf "Broken link on %q: %q" $.Page.File.Path $ref}}
+    {{- end -}}
+{{- end -}}
+
