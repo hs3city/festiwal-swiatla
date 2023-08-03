@@ -1,0 +1,50 @@
+{{ define "body_classes" }}page-default-list{{ end }}
+
+{{ define "main" }}
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-start">
+      <div class="col-12 col-md-7 col-lg-6 order-2 order-md-1">
+        {{ .Content }}
+      </div>
+      {{ if .Params.intro_image }}
+      <div class="col-12 col-md-5 col-lg-6 order-1 order-md-2 position-relative">
+        <img
+          class="intro-image{{ if .Params.intro_image_absolute }} intro-image-absolute{{ end }}{{ if .Params.intro_image_hide_on_mobile }} intro-image-hide-mobile{{ end }}"
+          src="{{ .Params.intro_image | relURL }}" />
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+
+{{ $allPages := where (where .Site.AllPages "Type" "==" $.Page.Type) "Kind" "page" }}
+{{ $pageByTranslationKey := newScratch }}
+{{range $allPages }}
+{{ $pageByTranslationKey.Add .TranslationKey (slice .) }}
+{{end}}
+{{ $preferredPages:= newScratch }}
+{{ range $key,$pages := $pageByTranslationKey.Values }}
+  {{ $preferredPage := index (where $pages "Language.Lang" $.Page.Language.Lang | default $pages) 0 }}
+  {{ $preferredPages.Add "pages" (slice $preferredPage) }}
+{{ end }}
+
+
+<div class="container pt-6 pb-md-12">
+  <div class="row">
+    {{ range (.Paginate ($preferredPages.Get "pages").ByWeight).Pages }}
+    <div class="col-12 col-md-6 mb-2 ">
+      {{ .Render "summary" }}
+      {{ if (ne .Language.Lang $.Page.Language.Lang) }} 
+      <p>
+        (only in {{ .Language.LanguageName }}; or
+        <a href="http://translate.google.com/translate?{{(slice "js" "n" "sl" .Language.Lang "tl" site.Language.Lang "u" (.Permalink | absURL)) | querify | safeURL}}">
+        <img class="google-translate" alt="Google translate" src="{{ "/images/google-translate.png" }}">
+        </a>)
+      </p>
+      {{ end }}
+      </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

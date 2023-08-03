@@ -3,10 +3,10 @@
     <div class="call col-12 col-md-8 col-lg-6">
       <div class="call-box-top">
         {{ if .site.Data.contact.phone }}
-            <div class="call-phone"><strong>Telefon: </strong> {{ .site.Data.contact.phone }} </div>
+        <div class="call-phone"><strong>{{ i18n "telephone" }}: </strong> {{ .site.Data.contact.phone }} </div>
         {{ end }}
         {{ if .site.Data.contact.email }}
-        <div class="call-email"><strong>Email: </strong>
+        <div class="call-email"><strong>{{ i18n "email" }}: </strong>
           <a href="mailto:{{ .site.Data.contact.email }}">
             {{ .site.Data.contact.email }}
           </a>
@@ -15,7 +15,7 @@
       </div>
         {{ if eq .show_button "true" }}
           <div class="call-box-bottom">
-            <a href="{{ .site.Data.contact.contact_button_link | relURL }}" class="button">Kontakt</a>
+        <a href="{{ .site.Data.contact.contact_button_link | relLangURL }}" class="button">{{ i18n "contact" }}</a>
           </div>
         {{ end }}
     </div>

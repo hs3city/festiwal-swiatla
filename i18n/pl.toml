@@ -1,0 +1,51 @@
+[exhibitions]
+other = "Wystawy"
+
+[artists]
+other = "Artyści"
+
+[workshops]
+other = "Warsztaty"
+
+[shows]
+other = "Pokazy"
+
+[program]
+other = "Program"
+
+[about-us]
+other = "Organizatorzy"
+
+[galery]
+other = "Galeria"
+
+[contact]
+other = "Kontakt"
+
+[competition]
+other = "Konkurs"
+
+[homepage]
+other = "Strona główna"
+
+[days]
+other = "dni"
+
+[time-h]
+other = "g"
+
+[time-m]
+other = "m"
+
+[time-s]
+other = "s"
+
+[time-until-festival]
+other = "Do Festiwalu Światła zostało"
+
+[telephone]
+other = "Telefon"
+
+[email]
+other = "Email"
+

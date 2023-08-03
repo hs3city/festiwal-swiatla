@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Exhibitions",
+    "description": "See, hear, touch",
+    "image": "/images/features/noun_branding_1885335.svg",
+    "href": "/wystawy"
+  },
+  {
+    "title": "Workshops",
+    "description": "Experiment with light",
+    "image": "/images/features/noun_The Process_1885341.svg",
+    "href": "/warsztaty"
+  },
+  {
+    "title": "Shows",
+    "description": "Celebrate the light",
+    "image": "/images/features/noun_3d modeling_1885342.svg",
+    "href": "/pokazy"
+  }
+]

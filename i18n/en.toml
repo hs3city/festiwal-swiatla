@@ -1,0 +1,50 @@
+[exhibitions]
+other = "Exhibitions"
+
+[artists]
+other = "Artists"
+
+[workshops]
+other = "Workshops"
+
+[shows]
+other = "Shows"
+
+[program]
+other = "Program"
+
+[about-us]
+other = "Organisation"
+
+[galery]
+other = "Gallery"
+
+[contact]
+other = "Contact"
+
+[competition]
+other = "Competition"
+
+[homepage]
+other = "Home"
+
+[days]
+other = "days"
+
+[time-h]
+other = "h"
+
+[time-m]
+other = "m"
+
+[time-s]
+other = "s"
+
+[time-until-festival]
+other = "The Festival of Light will kick off in"
+
+[telephone]
+other = "Telephone"
+
+[email]
+other = "Email"

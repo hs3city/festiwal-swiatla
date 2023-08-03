@@ -15,13 +15,13 @@
 </div>
 
 <div class="container">
-  <h1 id="headline">Do Festiwalu Światła zostało</h1>
+  <h1 id="headline">{{ i18n "time-until-festival" }}</h1>
   <div id="countdown">
     <ul>
-      <li><span id="days"></span>dni</li>
-      <li><span id="hours"></span>g</li>
-      <li><span id="minutes"></span>m</li>
-      <li><span id="seconds"></span>s</li>
+      <li><span id="days"></span>{{ i18n "days" }}</li>
+      <li><span id="hours"></span>{{ i18n "time-h" }}</li>
+      <li><span id="minutes"></span>{{ i18n "time-m" }}</li>
+      <li><span id="seconds"></span>{{ i18n "time-s" }}</li>
     </ul>
   </div>
   <div id="content" class="emoji">
@@ -80,17 +80,20 @@
   </div>
 </div>
 
-{{if .Site.Data.features}}
+{{ $data_nolang := .Site.Data }}
+{{ $data_lang := index .Site.Data .Site.Language.Lang }}
+{{ $data := merge $data_nolang $data_lang }}
+{{if $data.features}}
 <div class="strip strip-grey">
   <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
     <div class="row justify-content-center">
-      {{ range .Site.Data.features }}
+      {{ range $data.features }}
       <div class="col-12 col-md-6 col-lg-4 mb-2">
-        <a href="{{ .href }}">
+        <a href="{{ (site.GetPage .href).Permalink }}">
           <div class="feature">
             {{ if .image }}
             <div class="feature-image"><img width="100" height="100" alt="{{ .Title }} logo"
-                src="{{ .image | relURL }}" /></div>
+                src="{{ .image | absURL }}" /></div>
             {{ end }}
             <h2 class="feature-title">{{ .title }}</h2>
             <div class="feature-content">
