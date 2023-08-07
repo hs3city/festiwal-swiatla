@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "hugo version; hugo mod get; hugo --minify --baseURL $DEPLOY_PRIME_URL;"
+command = "hugo version; hugo mod get; hugo --minify --baseURL $URL;"
 
 [build.environment]
 HUGO_VERSION = "0.111.3"
