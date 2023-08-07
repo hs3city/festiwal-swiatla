@@ -1,0 +1,24 @@
+<div id="main-menu-mobile" class="main-menu-mobile">
+  <ul>
+    {{ $currentPage := . }}
+{{ $menu := .Site.Menus.main}}
+{{ if eq $menu nil }}
+  {{/* if the menu is empty, something went wrong (see commit message), so we fail for now, until we come up with a better plan */}}
+  {{ errorf "No menu detected. Failing the build, please try again. This is a known race condition. If in `hugo serve` mode, re-save `config.toml` or restart server" }}
+{{ end }}
+  {{range $index, $element := $menu}}
+    {{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
+    {{ $active = or $active (eq .Name $currentPage.Title) }}
+    <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
+      <a href="{{ .URL | relLangURL }}">{{ .Pre }}{{i18n .Identifier | default .Name }}</a>
+    </li>
+    {{end}}
+  {{ range $.Site.Home.AllTranslations }}
+    {{ if ne $.Site.Language.Lang .Language.Lang }}
+      {{ $translation := index (where $.Page.Translations "Language.Lang" .Language.Lang) 0 }}
+      {{ $no_translation := index (where ($.Site.GetPage "/no-translation.md").Translations "Language.Lang" .Language.Lang) 0 }}
+    <li class="nav-item"><a class="language-switch" href="{{ default $no_translation.Permalink $translation.Permalink }}">{{ .Language.LanguageName }}</a></li>
+    {{ end }}
+  {{ end }}
+  </ul>
+</div>
