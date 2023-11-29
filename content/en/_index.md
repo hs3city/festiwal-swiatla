@@ -1,7 +1,7 @@
 ---
 title: 'Strona Główna'
-meta_title: 'Festiwal Światła Gdańsk 2023'
-description: "Strona informacyjna wydarzenia Festiwal Światła Gdansk 2023"
+meta_title: 'Festiwal Światła Gdańsk 2024'
+description: "Strona informacyjna wydarzenia Festiwal Światła Gdansk 2024"
 intro_image_desktop: "images/logo/home-banner.png"
 intro_image_mobile: "images/logo/home-banner-sm.png"
 type: home

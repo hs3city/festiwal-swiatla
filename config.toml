@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "pl-pl"
-title = "Festiwal Światła 2023"
+title = "Festiwal Światła 2024"
 themesDir = "themes"
 theme = ["hugo-serif-theme", "hugo-shortcode-gallery"]
 timeout = 600000
@@ -17,7 +17,7 @@ languageName = "🇵🇱"
 contentDir = 'content/pl'
 
 [languages.en]
-title = "Festival of Light 2023"
+title = "Festival of Light 2024"
 contentDir = 'content/en'
 languageName = "🇬🇧"
 
@@ -55,7 +55,7 @@ languageName = "🇬🇧"
   [params.seo]
     meta_twitter_site = "@hs3city"
     meta_twitter_creator = "@hs3city"
-    meta_og_image = "https://festiwalswiatla.hs3.pl/images/og/festiwal2023.png"
+    meta_og_image = "https://festiwalswiatla.hs3.pl/images/og/festiwal-swiatla-2024.png"
 
   [params.team]
     summary_large_truncate = 120  # How many characters to include in the summary of the team bios (large layout) before truncating
