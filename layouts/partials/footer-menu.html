@@ -4,7 +4,7 @@
     {{ range .Site.Menus.footer }}
     {{ $active := or ($currentPage.IsMenuCurrent "footer" .) ($currentPage.HasMenuCurrent "footer" .) }}
     {{ $active = or $active (eq .Name $currentPage.Title) }}
-    <li class="menu-item-{{ .Name | lower }} {{ if $active }}active{{ end }}">
+    <li class="menu-item-{{ .Name | lower | urlize }} {{ if $active }}active{{ end }}">
       <a href="{{ .URL | relLangURL }}">{{ .Pre }}<span>{{i18n .Identifier | default .Name }}</span></a>
     </li>
     {{end}}

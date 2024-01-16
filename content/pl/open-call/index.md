@@ -1,3 +1,7 @@
+---
+title: 'Open Call'
+---
+
 [![Zdjęcie Open Call](/open-call/open-call.png)](/open-call/open-call.png)
 
 ## Ogłaszamy Open Call!

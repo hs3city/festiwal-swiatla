@@ -9,7 +9,7 @@
   {{range $index, $element := $menu}}
     {{ $active := or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }}
     {{ $active = or $active (eq .Name $currentPage.Title) }}
-    <li class="menu-item-{{ .Name | lower }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
+    <li class="menu-item-{{ .Name | lower | urlize }}{{ if $currentPage.IsMenuCurrent "main" . }} active{{ end }}">
       <a href="{{ .URL | relLangURL }}">{{ .Pre }}{{i18n .Identifier | default .Name }}</a>
     </li>
     {{end}}

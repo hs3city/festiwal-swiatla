@@ -90,6 +90,11 @@ languageName = "🇬🇧"
     pageref = "/open-call/index.md"
     weight = 1
 
+  [[menu.main]]
+    identifier = "previous-editions"
+    pageref = "/poprzednie-edycje/index.md"
+    weight = 5
+
   [[menu.footer]]
     identifier = "contact"
     pageref = "/kontakt.md"
