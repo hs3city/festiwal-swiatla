@@ -1,6 +1,6 @@
 :root {
-  --primary: #29B8CC;
-  --secondary: rgb(32, 146, 162);
+  --primary: #956dfe;
+  --secondary: #ffffff;
   --alternative: #E6007E;
   --dark: #1E1E1E;
   --darker: #0e0d0d;
@@ -213,7 +213,7 @@ h1,
 
 .feature-image img {
   /* Thanks to https://codepen.io/sosuke/pen/Pjoqqp */
-  filter: invert(80%) sepia(14%) saturate(4650%) hue-rotate(146deg) brightness(85%) contrast(87%);
+  filter: invert(50%) sepia(74%) saturate(3751%) hue-rotate(230deg) brightness(104%) contrast(99%);
 }
 
 img.image {
