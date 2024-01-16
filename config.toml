@@ -70,51 +70,26 @@ languageName = "🇬🇧"
 
 [menu]
   # Main Menu
- [[menu.main]]
-    identifier = "exhibitions"
-    pageref = "/wystawy/"
-    weight = 2
-
-  [[menu.main]]
-    identifier = "artists"
-    pageref = "/artysci/"
-    weight = 7
-
-  [[menu.main]]
-    identifier = "workshops"
-    pageref = "/warsztaty/"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "shows"
-    pageref = "/pokazy/"
-    weight = 5
-
-  [[menu.main]]
-    identifier = "program"
-    pageref = "/program/"
-    weight = 1
-
   [[menu.main]]
     identifier = "about-us"
     pageref = "/o-nas.md"
-    weight = 6
+    weight = 2
 
   [[menu.main]]
     identifier = "galery"
       pageref = "/galeria/index.md"
-      weight = 8
+      weight = 3
 
   [[menu.main]]
     identifier = "contact"
     pageref = "/kontakt.md"
-    weight = 9
+    weight = 4
 
   [[menu.main]]
-    identifier = "competition"
-    pageref = "/konkurs/index.md"
-    weight = 4
-  
+    identifier = "open-call"
+    pageref = "/open-call/index.md"
+    weight = 1
+
   [[menu.footer]]
     identifier = "contact"
     pageref = "/kontakt.md"
