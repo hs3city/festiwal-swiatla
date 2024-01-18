@@ -13,13 +13,20 @@ The Open Call aims to select works that will be presented during the third editi
 We are seeking artists from different fields, such as visual mapping, graphic design, painting, sculpture, intermedia, photography, architecture, design, as well as artistic, light, and sound installations. We are also interested in musical, theatrical, and performance projects.
 
 Submitted works can:
-    - Focus on the beauty of light and color in nature
-    - Utilize new light-based technologies
-    - Explore the role of light in art and culture
-    - Address the issue of light pollution
-    - Demonstrate how light (or its absence) affects health and well-being
-    - Explore the role of light in design and architecture
-    - Focus on celestial lights observed through a telescope
+
+- Focus on the beauty of light and color in nature
+
+- Utilize new light-based technologies
+
+- Explore the role of light in art and culture
+
+- Address the issue of light pollution
+
+- Demonstrate how light (or its absence) affects health and well-being
+
+- Explore the role of light in design and architecture
+
+- Focus on celestial lights observed through a telescope
 
 The Gdańsk Light Festival is a transdisciplinary event that merges art, science, and technology, celebrated on the occasion of the UNESCO International Day of Light. The festival is organized by independent cultural animators, artists, makers, and scientists associated with 3 Tricity organizations: [Hackerspace Trójmiasto](https://hs3.pl/), [Hevelianum](https://hevelianum.pl/), and [L'arT Agency](https://lartagency.com/pl). In partnership with organizations such as the Polish Space Agency, UNESCO, CODE:ME Foundation, and Gdansk University of Technology, we have hosted numerous lectures, workshops, exhibitions, and shows that creatively engage with light.
 
@@ -29,6 +36,7 @@ In previous editions, we managed to present a total of 55 attractions at the int
 
 ## To apply please fill in [the application form](https://forms.gle/Ti9hdR1JVpEwPgTq7)
 
+
 We are waiting for your submissions until **February 15, 2024.**
-**
-We are open to any experiments at the intersection of art, science, and technology, as well as other activities related to the festival's main theme!**
+
+**We are open to any experiments at the intersection of art, science, and technology, as well as other activities related to the festival's main theme!**

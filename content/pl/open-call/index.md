@@ -13,13 +13,20 @@ Open call ma za zadanie wyłonić prace, które zostaną zaprezentowane podczas 
 Poszukujemy artystów z takich dziedzin sztuki jak: visual mapping,  grafika, malarstwo, rzeźba, intermedia, fotografia, architektura, wzornictwo, jak również  instalacji artystycznych, świetlnych oraz dźwiękowych, a także twórców - projektów muzycznych, teatralnych oraz performatywnych.
 
 Zgłaszane prace mogą:
-    - skupić się na pięknie światła i koloru w przyrodzie
-    - wykorzystać nowe technologie oparte na świetle
-    - zgłębić rolę światła w sztuce i kulturze
-    - odnieść się do tematu zanieczyszczenia światłem
-    - pokazać jak światło (lub jego brak) wpływa na zdrowie i dobrostan
-    - opowiedzieć o roli światła w designie i architekturze
-    - skoncentrować się na światłach wszechświata oglądanych przez teleskop
+
+- skupić się na pięknie światła i koloru w przyrodzie
+
+- wykorzystać nowe technologie oparte na świetle
+
+- zgłębić rolę światła w sztuce i kulturze
+
+- odnieść się do tematu zanieczyszczenia światłem
+
+- pokazać jak światło (lub jego brak) wpływa na zdrowie i dobrostan
+
+- opowiedzieć o roli światła w designie i architekturze
+
+- skoncentrować się na światłach wszechświata oglądanych przez teleskop
 
 Festiwal Światła to transdyscyplinarne wydarzenie łączące sztukę, naukę i technologię organizowane z okazji Międzynarodowego Dnia Światła UNESCO. Twórcami festiwalu są niezależni animatorzy kultury, artyści, makerzy i naukowcy zgromadzeni wokół trzech trójmiejskich organizacji: [Hackerspace Trójmiasto](https://hs3.pl/), [Hevelianum](https://hevelianum.pl/) i [L’arT Agency](https://lartagency.com/pl). Przy współpracy z partnerami, wśród których znajdują się: Polska Agencja Kosmiczna, UNESCO, Fundacja CODE:ME oraz Politechnika Gdańska, zorganizowaliśmy liczne prelekcje, warsztaty, wystawy i pokazy, w różny sposób nawiązujące do światła. 
 
