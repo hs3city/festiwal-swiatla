@@ -25,6 +25,12 @@ other = "Kontakt"
 [competition]
 other = "Konkurs"
 
+[open-call]
+other = "Open Call"
+
+[previous-editions]
+other = "Poprzednie Edycje"
+
 [homepage]
 other = "Strona główna"
 

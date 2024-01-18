@@ -7,10 +7,12 @@ intro_image_mobile: "images/logo/home-banner-sm.png"
 type: home
 ---
 
-# Łączymy ludzi przez światło
+# Czy zastanawiałeś się kiedyś jak wielką rolę odgrywa w Twoim życiu światło? 
 
-Światło odgrywa ogromną rolę w naszym życiu. Bez słońca życie na ziemi w ogóle nie byłoby możliwe, a kolejne wynalazki człowieka, takie jak lampa naftowa, żarówka czy laser, napędzają rozwój cywilizacji.
+Zacznijmy od tego, że bez słońca nie byłoby życia na ziemi, a bez wynalazków takich jak lampa naftowa, żarówka czy laser, nie rozwinęłaby się nasza cywilizacja. [Międzynarodowy Dzień Światła UNESCO](https://www.lightday.org/) to świetna okazja by się zatrzymać i docenić cud jakim jest światło.
 
-Od zarania dziejów światło fascynowało ludzi, a jego badanie umożliwiało postęp nauki i kultury. Dlatego 16 maja, w rocznicę pierwszego udanego wykorzystania lasera, obchodzimy ustanowiony przez [UNESCO Międzynarodowy Dzień Światła](https://www.lightday.org/) . W Trójmieście będziemy celebrować światło przez cały weekend – **13 i 14 maja** Festiwal Światła już po raz drugi zmieni Górę Gradową w najbardziej rozświetlony punkt na mapie Polski.
+W Trójmieście będziemy celebrować to święto 10 i 11 maja 2024. W tych dniach Gdański Festiwal Światła już po raz trzeci rozświetli Górę Gradową licznymi wystawami i atrakcjami. Nasz festiwal to nie tylko pokaz kolorowych światełek na budynkach (choć i tych nie zabraknie), ale wydarzenie łączące sztukę, naukę i technologię, ale przede wszystkim, łączące ludzi. To ludzie są dla nas najważniejsi. Festiwal Światła organizuje niezależna grupa animatorów kultury, artystów i naukowców skupiona wokół trzech trójmiejskich organizacji: [Hackerspace Trójmiasto](https://hs3.pl/), [Hevelianum](https://hevelianum.pl/) i [L’arT Agency](https://lartagency.com/pl). Wspólnie spełniamy marzenia i realizujemy pomysły, które dla jednej osoby byłyby sporym wyzwaniem, ale dzięki sile zespołu stają się osiągalne. Sami możemy wiele, ale razem możemy zdecydowanie więcej. 
 
-Zapraszamy do udziału w wydarzeniu, którego głównym bohaterem będzie światło. Szeroko pojęte światło. Festiwal Światła będzie okazją do eksperymentów naukowych, artystycznej ekspresji i przede wszystkim dobrej zabawy. W programie całe spektrum atrakcji – liczne pokazy, wystawy i warsztaty, które pokażą światło… w zupełnie nowym świetle.
+Nasz festiwal zaciera granicę między sztuką a nauką i przełamuje bariery między artystą a odbiorcą. Zarówno do udziału jak i współtworzenia wydarzenia zaproszeni są wszyscy, niezależnie od wieku, płci i wykształcenia. Zapraszamy Was do aktywnego uczestnictwa – nie tylko do oglądania, ale także do tworzenia i pokazywania własnych projektów. Tutaj każdy twórca, może zaprezentować swoją własną interpretację Światła w formie pokazu, wystawy, instalacji, prelekcji lub koncertu – bo Festiwal Światła jest otwarty na każdego.
+
+Tegoroczny Międzynarodowy Dzień Światła odbywa się pod hasłem **_Światło w naszym życiu_** dlatego na festiwalu pokażemy różne oblicza światła obecne w wielu dziedzinach życia. Przyjrzymy się światłom w przyrodzie, kulturze, architekturze, nauce i technologii. Będziemy podziwiać piękno światła w sztuce, obserwować światła kosmosu i zastanawiać się jak światło wpływa na nasze zdrowie i dobrostan.
