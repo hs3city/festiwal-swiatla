@@ -2,7 +2,7 @@
 title: 'Open Call'
 ---
 
-[![Picture Open Call](/open-call/open-call-en.png)](/open-call/open-call-en.png)
+[![Picture Open Call](/images/open-call/open-call-en.png)](/images/open-call/open-call-en.png)
 
 **We announce an Open Call!** 
 
@@ -32,7 +32,7 @@ The Gdańsk Light Festival is a transdisciplinary event that merges art, science
 
 In previous editions, we managed to present a total of 55 attractions at the intersection of art, science, and technology, created by 90 artists, makers, and scientists from Poland and abroad. Additionally, we organized 41 workshop sessions with over 800 participants. Overall, our events have attracted several thousand participants  (approximately 2,500 for the first edition and 3,500 for the second edition). More information about previous editions can be found on our [website](https://festiwalswiatla.hs3.pl/) and [Facebook page](https://www.facebook.com/Festiwalswiatla).
 
-[Open Call Rules](/open-call/regulamin-open-call-en.pdf)
+[Open Call Rules](/docs/open-call/regulamin-open-call-en.pdf)
 
 ## To apply please fill in [the application form](https://forms.gle/Ti9hdR1JVpEwPgTq7)
 

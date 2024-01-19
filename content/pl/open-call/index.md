@@ -2,7 +2,7 @@
 title: 'Open Call'
 ---
 
-[![Zdjęcie Open Call](/open-call/open-call-pl.png)](/open-call/open-call-pl.png)
+[![Zdjęcie Open Call](/images/open-call/open-call-pl.png)](/images/open-call/open-call-pl.png)
 
 # Ogłaszamy Open Call!
 
@@ -32,7 +32,7 @@ Festiwal Światła to transdyscyplinarne wydarzenie łączące sztukę, naukę i
 
 W ramach poprzednich edycji festiwalu udało nam się zaprezentować łącznie aż 55 atrakcji z pogranicza sztuki, nauki i technologii przygotowanych przez 90 artystów, makerów i naukowców z polski i zagranicy. Zorganizowaliśmy także 41 sesji warsztatów, w których uczestniczyło ponad 800 osób. W sumie nasze wydarzenia przyciągnęły kilka tysięcy uczestników (około 2500 pierwsza i 3500 druga edycja). Więcej informacji o poprzednich edycjach można znaleźć na naszej [stronie internetowej](https://festiwalswiatla.hs3.pl/) oraz na [Facebooku](https://www.facebook.com/Festiwalswiatla).
 
-[Regulamin Open Call](/open-call/regulamin-open-call.pdf)
+[Regulamin Open Call](/docs/open-call/regulamin-open-call.pdf)
 
 ## Prosimy o wypełnienie [formularza zgłoszeniowego](https://forms.gle/Ti9hdR1JVpEwPgTq7)
 
