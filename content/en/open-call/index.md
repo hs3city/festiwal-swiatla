@@ -34,7 +34,7 @@ In previous editions, we managed to present a total of 55 attractions at the int
 
 [Open Call Rules](/docs/open-call/regulamin-open-call-en.pdf)
 
-## To apply please fill in [the application form](https://forms.gle/Ti9hdR1JVpEwPgTq7)
+## To apply please fill in [the application form](https://forms.gle/roAw7WvqKisGxzYq6)
 
 
 We are waiting for your submissions until **February 15, 2024.**
