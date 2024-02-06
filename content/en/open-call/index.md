@@ -37,6 +37,6 @@ In previous editions, we managed to present a total of 55 attractions at the int
 ## To apply please fill in [the application form](https://forms.gle/roAw7WvqKisGxzYq6)
 
 
-We are waiting for your submissions until **February 15, 2024.**
+We are waiting for your submissions until **February 22, 2024.**
 
 **We are open to any experiments at the intersection of art, science, and technology, as well as other activities related to the festival's main theme!**

@@ -36,6 +36,6 @@ W ramach poprzednich edycji festiwalu udało nam się zaprezentować łącznie a
 
 ## Prosimy o wypełnienie [formularza zgłoszeniowego](https://forms.gle/Ti9hdR1JVpEwPgTq7)
 
-Na zgłoszenia czekamy do **15 lutego 2024 roku**.
+Na zgłoszenia czekamy do **22 lutego 2024 roku**.
 
 **Jesteśmy otwarci na wszelkie eksperymenty z pogranicza sztuki, nauki i technologii oraz inne działania związane z tematem przewodnim festiwalu!**
