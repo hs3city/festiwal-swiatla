@@ -3,7 +3,7 @@ title: "River of Stars - Fumie Ito Matters (Japonia)"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 3
+weight: 1
 ---
 W kulturze japońskiej co roku obchodzi się Festiwal Tanabata, czyli święto gwiazd na niebie, kiedy to Japończycy ozdabiają swoje otoczenie ręcznie wykonanymi dekoracjami z papieru i bambusa, oraz zapisują życzenia na kawałkach papieru.
 

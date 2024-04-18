@@ -3,7 +3,7 @@ title: "Live Mapping & DJ set - Nicola Pavone (Czechy)"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 3
+weight: 4
 ---
 “Taniec Kolorów" zaprasza widza do świata, gdzie niewidzialne nabiera widzialnej formy. Eksplozja światła daje początek wszechświatowi, w którym żyjemy ("Niechaj stanie się światłość", Rdz 1:3), a z tego kosmicznego tańca rodzą się także niewidzialne byty, które pulsują tą samą Energią, która je stworzyła. 
 

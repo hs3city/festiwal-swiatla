@@ -3,7 +3,7 @@ title: "Dotknąć Światła - Aneta Kublik"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 1
+weight: 7
 ---
 Bez światła, nie ma sztuki. Ta uniwersalna zasada, jest szczególnie prawdziwa w malarstwie Anety Kublik.
 

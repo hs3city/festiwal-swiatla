@@ -3,7 +3,7 @@ title: "River of Stars - Fumie Ito Matters (Japonia)"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
-weight: 3
+weight: 1
 ---
 In Japanese culture, the Tanabata Festival, or the Stars in the Sky Festival, is celebrated annually. During the celebrations, the Japanese decorate their surroundings with handmade paper and bamboo decorations and write wishes on slips of paper.
 
