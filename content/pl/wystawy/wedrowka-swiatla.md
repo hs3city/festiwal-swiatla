@@ -1,5 +1,5 @@
 ---
-title: "Było minęło - Magdalena Ferdyn"
+title: "Wędrówka światła - Violetta Banas"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
