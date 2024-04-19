@@ -1,5 +1,5 @@
 ---
-title: "Johan Fredrik  Källman - Luxtripicata (Szwecja)"
+title: "Johan Fredrik  Källman - Luxtriplicata (Szwecja)"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
