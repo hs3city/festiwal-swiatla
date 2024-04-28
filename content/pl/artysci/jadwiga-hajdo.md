@@ -10,16 +10,13 @@ promoted: true
 
 ## Bio
 
-Jadwiga Hajdo, autorka kolorowych abstrakcji, bywa często nazywana Artystką Ducha. Poprzez dogłębną i pełną fascynacji obserwację przyrody, przelewa swoje odczucia na płótno, ukazując intensywność i piękno całej gamy barw otaczającego nas świata.
+Jadwiga Hajdo, artystka z ponad 40-letnim doświadczeniem, zaczęła swoją przygodę ze sztuką przez pracę nauczycielki i opiekę nad dziećmi. Jej pasja do malarstwa rozwijała się niezależnie od tradycyjnych schematów, kierując się głosem intuicji i obserwacjami przyrody.
 
-Charakterystyczny dla jej prac jest efekt trójwymiarowości, który autorka osiąga podświadomie odzwierciedlając promienie słońca przebijające przez liście i gałęzie roślin. Dzięki dynamicznym pociągnięciom pędzla wyzwala kolorystyczną i wysoce energetyczną wibrację, a jej dzieła nabierają niezwykłej ekspresji.
+Po przeprowadzce do małego miasteczka na polskiej prowincji w 2008 roku, otoczenie pełne złocistych pól i dzikich borów, inspirowało ją do stworzenia autorskiej techniki kropkowania. Fascynacja kroplami rosy na liściach przyczyniła się do rozwinięcia tej techniki, a odkrycie efektów farb UV nadało jej twórczości zupełnie nowy wymiar. Teraz farby UV stały się jej znakiem rozpoznawczym.
+
 
 [Artystka agencji L'arT](https://lartagency.com/pl/collections/jadwiga-hajdo)
 
-**Wystawy:**
-
-[Podwodny Świat Avatara](/wystawy/podwodny-swiat-avatara)
-
 **Warsztaty:**
 
-[Kropka w UV](/warsztaty/kropka-uv)
+[Malowanie Intuicyjne - Technika kropki w UV z Jadwigą Hajdo](/warsztaty/kropka-uv)

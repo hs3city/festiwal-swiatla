@@ -10,14 +10,10 @@ promoted: true
 
 ## Bio
 
-Magda z wykształcenia jest fitoterapeutką i zielarką, a swoją drogę z Vida Verde zaczęła od miłego hobby i zdobienia świec roślinami. Zielarka uwielbia cały proces tworzenia świec Vida Verde, który zaczyna się wczesną wiosną, gdy świat jest skąpany w kwiatach. Te zapachy, kolory i symfonia dźwięków wprowadza ją w stan zachwytu i miłości do życia. Kocha rośliny i zawsze, o każdej porze zbiera je z ogromem wdzięczności. Dziękuję naturze za każdy listek, trawkę, kwiatek… i tak do późnej jesieni.
+Warsztaty poprowadzi Magda Przychodzeń, terapeutka numerologiczna, fitoterapeutka oraz zielarka, twórczyni magicznych świec Vida Verde. Fascynują ją ludzie i ich „algorytm” zawarty w dacie urodzenia, imionach i nazwiskach, w pseudonimie. W tym mistycznym kodzie kryje się informacja o tym, jakie zadania ma do zrealizowania dana osoba. Magda Przychodzeń pomaga ludziom znaleźć ich powołanie, wykorzystywać potencjał i osiągnąć wewnętrzny spokój i harmonię.
 
 [Artystka agencji L'arT](https://lartagency.com/pl/)
 
-**Wystawy:**
-
-[Świece Vida Verde](/wystawy/swiece-z-roslinami)
-
 **Warsztaty:**
 
-[Zrób sobie świecę](/warsztaty/zrob_sobie_swiece)
+[Twoja Sojowa Świeca Intencyjna](/warsztaty/zrob_sobie_swiece)
