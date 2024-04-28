@@ -10,11 +10,11 @@ promoted: true
 
 ## Bio
 
-Magdalena Czupowska to absolwentka wydziału malarstwa w Akademii Sztuk Pięknych w Gdańsku i Finalistka Nagrody Eibischa w 2021 roku. Zajmuje się malarstwem, fotografią i realizacjami wideo. Fascynuje ją temat światła, które wnikliwie analizuje i obrazuje w swoich pracach od 2019 roku.
+Magdalena Czupowska graduated from the Painting Department at the Academy of Fine Arts in Gdańsk and was a finalist for the Eibisch Award in 2021. She explores painting, photography, and video art. Her work delves deeply into the theme of light, which she has been intricately examining and portraying in her pieces since 2019.
 
 [Artystka agencji L'arT](https://lartagency.com/pl/collections/magdalena-czupowska)
 
-**Wystawy:**
+**Exhibitions:**
 
 - [Iluminacje](/wystawy/iluminacje)
 - [Techno visualisation - New dimension](/wystawy/techno-visualisation)

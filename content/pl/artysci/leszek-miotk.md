@@ -12,6 +12,6 @@ promoted: true
 
 Inżynier elektronik, prowadzi różne projekty, aby pokazać, że da się zmienić system edukacji. Pomysłodawca [aplikacji Żeton](https://www.projekt-zeton.pl), członek [Hackerspace Trójmiasto](https://hs3.pl) i [Hybrydowej Szkoły](https://hybrydowa.edu.pl). Interesuje się neuronauką, psychologią oraz działaniem mózgu.
 
-**Wystawy:**
+**Warsztaty:**
 
-[Pokój bez kolorów](/wystawy/pokoj-bez-kolorow)
+[Laboratorium światła](/warsztaty/laboratorium-swiatla)
