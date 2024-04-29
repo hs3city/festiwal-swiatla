@@ -73,17 +73,17 @@ languageName = "🇬🇧"
   [[menu.main]]
     identifier = "about-us"
     pageref = "/o-nas.md"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "galery"
       pageref = "/galeria/index.md"
-      weight = 5
+      weight = 6
 
   [[menu.main]]
     identifier = "contact"
     pageref = "/kontakt.md"
-    weight = 6
+    weight = 7
 
   [[menu.main]]
     identifier = "exhibitions"
@@ -101,9 +101,14 @@ languageName = "🇬🇧"
   weight = 3
 
   [[menu.main]]
+    identifier = "artists"
+    pageref = "/artysci/_index.md"
+    weight = 4
+
+  [[menu.main]]
     identifier = "previous-editions"
     pageref = "/poprzednie-edycje/index.md"
-    weight = 7
+    weight = 8
 
   [[menu.footer]]
     identifier = "contact"
