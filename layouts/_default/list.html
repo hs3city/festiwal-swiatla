@@ -32,7 +32,7 @@
 
 <div class="container pt-6 pb-md-12">
   <div class="row">
-    {{ range (.Paginate ($preferredPages.Get "pages").ByWeight).Pages }}
+    {{ range ($preferredPages.Get "pages").ByWeight }}
     <div class="col-12 col-md-6 mb-2 ">
       {{ .Render "summary" }}
       {{ if (ne .Language.Lang $.Page.Language.Lang) }} 
@@ -45,11 +45,6 @@
       {{ end }}
       </div>
     {{ end }}
-    <div class="col-12">
-      <div class="page-pagination">
-        {{partial "pagination.html" . }}
-      </div>
-    </div>
   </div>
 </div>
 {{ end }}
