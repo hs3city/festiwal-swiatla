@@ -9,4 +9,4 @@ Warsztaty „Dobrostan Seniora – światło na rośliny” skupia się na konie
 
 Podczas spotkania opowiemy o lasach kieszonkowych, znanych również jako lasy Miyawaki, a dr Kasper Jakubowski przedstawi osiągnięcia i możliwości współpracy z organizacją FOREST MAKER. Pokażemy także krótkie filmy przygotowane przez uczestników Akademii Trzeciego Wieku Wydziału Elektroniki Telekomunikacji i Informatyki Politechniki Gdańskiej.
 
-    Więcej informacji: https://zpasjami.net/warto/dobrostan-seniora-swiatlo-na-rosliny/
+Więcej informacji: https://zpasjami.net/warto/dobrostan-seniora-swiatlo-na-rosliny/
