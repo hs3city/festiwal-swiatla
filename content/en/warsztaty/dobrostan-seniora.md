@@ -1,5 +1,5 @@
 ---
-title: "The Senior Wellfare - Light on Plants Anna Grabowska"
+title: "The Senior Wellfare - Light on Plants"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
@@ -10,4 +10,4 @@ The “Senior Wellfare - Light on Plants” workshop focuses on the need to incr
 
 During the meeting, we will talk about pocket forests, also known as Miyawaki forests, and dr. Kasper Jakubowski will present the achievements and possibilities of cooperation with the FOREST MAKER organization. We will also showcase short films prepared by participants of the Third Age Academy at the Faculty of Electronics, Telecommunications, and Informatics at the Gdańsk University of Technology.
 
-More info: https://zpasjami.net/warto/dobrostan-seniora-swiatlo-na-rosliny/
+    More info: https://zpasjami.net/warto/dobrostan-seniora-swiatlo-na-rosliny/
