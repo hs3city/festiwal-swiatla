@@ -20,6 +20,15 @@
     ]
   },
   {
+    "title": "Sponsor",
+    "items": [
+      {
+        "name": "MSalamon",
+        "image": "/images/partners/msalamon.svg"
+      }
+    ]
+  },
+  {
     "title": "Partnerzy",
     "items": [
       {
@@ -89,15 +98,6 @@
       {
         "name": "TRV",
         "image": "/images/partners/TRV.svg"
-      }
-    ]
-  },
-  {
-    "title": "Sponsorzy",
-    "items": [
-      {
-        "name": "MSalamon",
-        "image": "/images/partners/msalamon.svg"
       }
     ]
   },
