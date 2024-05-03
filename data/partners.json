@@ -18,5 +18,112 @@
         "image": "/images/partners/hs3.svg"
       }
     ]
+  },
+  {
+    "title": "Partnerzy",
+    "items": [
+      {
+        "name": "ASP",
+        "image": "/images/partners/ASP.svg"
+      },
+      {
+        "name": "CodeMe",
+        "image": "/images/partners/CodeMe.svg"
+      },
+      {
+        "name": "FAJ",
+        "image": "/images/partners/FAJ.svg"
+      },
+      {
+        "name": "Gdansk Embedded Meetup",
+        "image": "/images/partners/gem.svg"
+      },
+      {
+        "name": "GVT",
+        "image": "/images/partners/GVT.svg"
+      },
+      {
+        "name": "Humbaka",
+        "image": "/images/partners/Humbaka.svg"
+      },
+      {
+        "name": "Hybrydowa Szkola",
+        "image": "/images/partners/hybrydowa_szkola.svg"
+      },
+      {
+        "name": "IAO OAO",
+        "image": "/images/partners/iao_oao.svg"
+      },
+      {
+        "name": "Icetek",
+        "image": "/images/partners/Icetek.svg"
+      },
+      {
+        "name": "IDL",
+        "image": "/images/partners/IDL.svg"
+      },
+      {
+        "name": "IKM",
+        "image": "/images/partners/IKM.svg"
+      },
+      {
+        "name": "Lukasiewicz",
+        "image": "/images/partners/Lukasiewicz.svg"
+      },
+      {
+        "name": "MontowniaFH",
+        "image": "/images/partners/MontowniaFH.svg"
+      },
+      {
+        "name": "PosterX",
+        "image": "/images/partners/PosterX.svg"
+      },
+      {
+        "name": "Skalp",
+        "image": "/images/partners/Skalp.svg"
+      },
+      {
+        "name": "TA",
+        "image": "/images/partners/TA.svg"
+      },
+      {
+        "name": "TRV",
+        "image": "/images/partners/TRV.svg"
+      }
+    ]
+  },
+  {
+    "title": "Sponsorzy",
+    "items": [
+      {
+        "name": "MSalamon",
+        "image": "/images/partners/msalamon.svg"
+      }
+    ]
+  },
+  {
+    "title": "Patroni medialni",
+    "items": [
+      {
+        "name": "Astronarium",
+        "image": "/images/partners/Astronarium.svg"
+      },
+      {
+        "name": "Gdansk",
+        "image": "/images/partners/Gdansk.svg"
+      },
+      {
+        "name": "Gdanskpl",
+        "image": "/images/partners/gdanskpl.svg"
+      },
+      {
+        "name": "Trojmiastopl",
+        "image": "/images/partners/trojmiastopl.svg"
+      },
+      {
+        "name": "Urania",
+        "image": "/images/partners/Urania.svg"
+      }
+    ]
   }
 ]
