@@ -6,5 +6,7 @@ featured: true
 weight: 7
 ---
 Without light, there is no art. This universal principle is particularly true in Aneta Kublik's painting.
-Her artworks feature elements that only become visible when illuminated in a certain way. It's the light that allows us to uncover these hidden worlds within the paintings. As light glides across the surface of the canvas, it reveals concealed images of animals, landscapes, and colours.
+Her artworks which draws inspiration from the aesthetics of Japanese woodcuts, features elements that only become visible when illuminated in a certain way. It's the light that allows us to uncover these hidden worlds within the paintings. As light glides across the surface of the canvas, it reveals concealed images of animals, landscapes, and colours.
 Through her work, the artist highlights the transformative power of light in shaping the space around us. The contrast between the black background of the painting and the light shining upon it underscores the power of light which unveils the beauty of nature, displaying its diverse shades and forms.
+
+Focusing on balanced composition, the artist guides the viewer through a world of subtle lines delineated by brushstrokes, thus revealing the delicate beauty of nature.

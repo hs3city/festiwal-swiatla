@@ -15,3 +15,7 @@ Nicola Pavone, znany również jako Vj Luper, to artysta wizualno-dźwiękowy, D
 **Pokazy:**
 
 [Live Mapping & DJ Set](/pokazy/live-mapping)
+
+**Warsztaty:**
+
+[Videomapping Workshops](/warsztaty/videomapping-workshops)
