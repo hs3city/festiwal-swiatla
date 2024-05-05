@@ -10,11 +10,17 @@ promoted: true
 
 ## Bio
 
-Jadwiga Hajdo, an artist with over 40 years of experience, embarked on her artistic journey through teaching and childcare. Her passion for painting evolved outside conventional boundaries, guided by intuition and observations of the natural world.
-Following her move to a small town in the Polish countryside in 2008,  surrounded by golden fields and wild forests,she found inspiration to develop her unique dotting technique. Enthralled by dewdrops on leaves, she developped this method, and the discovery of UV paint effects added a whole new dimension to her work. UV paints have now become her distinctive hallmark.
+
+Jadwiga Hajdo, an artist with over 40 years of experience, is often referred to as the Artist of the Spirit. Her passion for painting developed independently of traditional paradigm. The artist created her unique style by following the voice of intuition and drawing inspiration from nature.
+Her creative journey began through her work as a teacher and caring for children, and a move to a small town in the Polish countryside, where she could create amidst golden fields and wild forests, inspired her to develop her unique dotting technique. Over time, she discovered that UV light gave her work a whole new dimension. Enchanted by this effect, she began using UV paints, which became a signature feature of her art.
 
 
-[Artystka agencji L'arT](https://lartagency.com/pl/collections/jadwiga-hajdo)
+
+[L'arT Agency Artist](https://lartagency.com/pl/collections/jadwiga-hajdo)
+
+**Exhibitions:**
+
+[The opening of Jadwiga Hajdo's works in UV light](/wystawy/wernisaz-jadwiga-hajdo)
 
 **Workshops:**
 

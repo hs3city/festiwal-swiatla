@@ -10,12 +10,16 @@ promoted: true
 
 ## Bio
 
-Jadwiga Hajdo, artystka z ponad 40-letnim doświadczeniem, zaczęła swoją przygodę ze sztuką przez pracę nauczycielki i opiekę nad dziećmi. Jej pasja do malarstwa rozwijała się niezależnie od tradycyjnych schematów, kierując się głosem intuicji i obserwacjami przyrody.
+Jadwiga Hajdo, malarka z ponad 40-letnim doświadczeniem, bywa często nazywana Artystką Ducha. Jej pasja do malarstwa rozwijała się niezależnie od tradycyjnych schematów. Artystka stworzyła swój niepowtarzalny styl podążając za głosem intuicji i czerpiąc inspirację z przyrody.
 
-Po przeprowadzce do małego miasteczka na polskiej prowincji w 2008 roku, otoczenie pełne złocistych pól i dzikich borów, inspirowało ją do stworzenia autorskiej techniki kropkowania. Fascynacja kroplami rosy na liściach przyczyniła się do rozwinięcia tej techniki, a odkrycie efektów farb UV nadało jej twórczości zupełnie nowy wymiar. Teraz farby UV stały się jej znakiem rozpoznawczym.
+Jej przygoda ze sztuką zaczęła się poprzez pracę nauczycielki i opiekę nad dziećmi, a przeprowadzka do małego miasteczka na polskiej prowincji, gdzie mogła tworzyć w otoczeniu złocistych pól i dzikich borów, zainspirowała ją do stworzenia autorskiej techniki kropkowania. Z czasem odkryła, że jej obrazy zyskują zupełnie nowe oblicze w ultrafioletowym świetle. Zachwycona tym efektem, zaczęła stosować farby UV, które stały się znakiem rozpoznawczym jej malarstwa.
 
 
 [Artystka agencji L'arT](https://lartagency.com/pl/collections/jadwiga-hajdo)
+
+**Wystawy:**
+
+[Wernisaż obrazów Jadwigi Hajdo w świetle UV](/wystawy/wernisaz-jadwiga-hajdo)
 
 **Warsztaty:**
 

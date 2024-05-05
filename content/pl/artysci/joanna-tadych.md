@@ -10,8 +10,10 @@ promoted: true
 
 ## Bio
 
-Joanna Tadych, absolwentka Wydziału Architektury Politechniki Śląskiej i członek [Hackerspace Trójmiasto](https://hs3.pl). Na co dzień mierząca się z wyzwaniem doboru kolorów elewacji budynków i elementów wykończenia wnętrz w swoich projektach. Jak każdy architekt, stara się tworzyć przestrzeń jak najbardziej komfortową dla użytkownika lub mieszkańca. Świadomy dobór kolorów to codzienny element jej pracy.
+Członkini Hackerspace Trójmiasto. Architekt z wykształcenia, wizjonerka z pasji. Na co dzień mierzy się z wyzwaniami współczesnej architektury, projektując budynki, przestrzenie publiczne, obiekty usługowe i służby zdrowia.
+Prywatnie jest dawną koleżanką Roberta Procha. Zainspirowana jego talentem i wytrwałością w dążeniu do doskonałości, postanowiła sama rozwijać swoje artystyczne pasje, wybierając architekturę jako drogę zawodową. Marzy o opanowaniu sztuki programowania, by móc samodzielnie realizować swoje wizje. Na razie z wdzięcznością korzysta z pomocy fantastycznych przyjaciół z Hackerspace Trójmiasto, którzy z pomocą kodu potrafią urzeczywistniać jej najbardziej szalone pomysły na instalacje artystyczne.
+
 
 **Wystawy:**
 
-[Pokój bez kolorów](/wystawy/pokoj-bez-kolorow)
+[Światło, które zgasło zbyt szybko - wystawa poświęcona twórczości Roberta Procha](/wystawy/swiatlo-ktore-zgaslo)
