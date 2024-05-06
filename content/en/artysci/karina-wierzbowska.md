@@ -10,7 +10,7 @@ promoted: true
 
 ## Bio
 
-Mgr Karina Wierzbowska - psychologist, cognitive-behavioral therapist, and cognitive function therapist
+Karina Wierzbowska - psychologist, cognitive-behavioral therapist, and cognitive function therapist
 
 A psychologist by education and passion, 
 Works with patients across all age groups, from infants to adolescents and adults. At the Early Intervention Center in Gdynia, she specializes in diagnosing developmental disorders in children. Her therapeutic work extends to individuals both  within the range of intellectual functioning and impacted by intellectual disabilities.

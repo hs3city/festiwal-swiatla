@@ -10,7 +10,7 @@ promoted: true
 
 ## Bio
 
-Mgr Karina Wierzbowska - psycholog, psychoterapeukta poznawczo behawioralna, terapeutka funkcji poznawczych
+Karina Wierzbowska - psycholog, psychoterapeukta poznawczo behawioralna, terapeutka funkcji poznawczych
 
 Psycholog z wykształcenia i zamiłowania. Pracuje z pacjentami w różnym wieku - od niemowląt, przez nastolatki po dorosłych. Diagnozuje nieprawidłowości rozwojowe u dzieci w Ośrodku Wczesnej Interwencji w Gdyni. Pracuje terapeutycznie zarówno z osobami mieszczącymi się w normie intelektualnej, jak i dotkniętymi niepełnosprawnością intelektualną i sprzężoną.
 
