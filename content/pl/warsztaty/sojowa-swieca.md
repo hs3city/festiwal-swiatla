@@ -15,7 +15,7 @@ Zapisy: https://lartagency.com/pl/products/artistic-workshop-your-intentional-so
 
 Daty: 
 Sobota, 11 Maja 2024, godz. 13:30
-Czwartek, 09.05 godz. 18.00
+Czwartek, 9 Maja 2024 godz. 18.00
 
 Czas trwania: 1,5h
 

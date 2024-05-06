@@ -26,4 +26,3 @@ Cena: 100 zł
 Wiek uczestników: 7+
 
 WARSZTATY ODBYWAJĄ SIĘ W FOOOD HALL MONTOWNIA
-
