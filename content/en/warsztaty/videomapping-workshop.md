@@ -6,6 +6,8 @@ draft: false
 weight: 10
 ---
 
+Tickets: https://app.evenea.pl/event/videomapping/
+
 Dive into the captivating world of visual storytelling with Nicola Pavone. Join the Videomapping Projections Workshop  and discover the art of creating stunning video projections for stage design and architectural spaces.
 
 During the workshop, you'll have the opportunity to explore a diverse range of techniques for crafting site-specific video content. Delve into the process of creating mesmerizing video mapping projections using software like Resolume or other video mixing tools.
@@ -30,6 +32,8 @@ Saturday 11.05.2024 20:00 - 22:00 Touch-ups and time to enjoy the Festival!
 
 Saturday 11.05.2024 ~ 22:00 public performance of your mapping during the Festival of Light
 
-Venue:\
+Venue:
 
 The workshop will take place in Hevelianum, Columbus room. Be on the spot 15 mins earlier in case you have any troubles finding the room.
+
+Tickets: https://app.evenea.pl/event/videomapping/

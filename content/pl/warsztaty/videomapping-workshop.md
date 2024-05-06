@@ -6,6 +6,8 @@ draft: false
 weight: 10
 ---
 
+Zapisy: https://app.evenea.pl/event/videomapping/
+
 Zanurz się w fascynującym świecie wizualnych opowieści z Nicola Pavone. Zapisz się na warsztaty Videomappingu i opanuj sztukę tworzenia projekcji wideo do scenografii i przestrzeni architektonicznych.
 
 Podczas warsztatów będziesz eksplorować różnorodne techniki tworzenia site-specific video oraz zgłębisz proces kreowania hipnotyzujących projekcji wideo za pomocą oprogramowania takiego jak Resolume lub podobnych.
@@ -34,4 +36,6 @@ Sobota, 11.05.2024, ok. 22:00 - Pokaz mappingów podczas Festiwalu
 
 Miejsce:
 
-Warsztaty odbędą się w Hevelianum, w sali Columbus. Zalecamy przybycie na miejsce 15 minut wcześniej, abyś miał/a wystarczająco czasu na znalezienie sali, w razie jakichkolwiek trudności.
+Warsztaty odbędą się w Hevelianum, w sali Kolumba. Zalecamy przybycie na miejsce 15 minut wcześniej, abyś miał/a wystarczająco czasu na znalezienie sali, w razie jakichkolwiek trudności.
+
+Zapisy: https://app.evenea.pl/event/videomapping/
