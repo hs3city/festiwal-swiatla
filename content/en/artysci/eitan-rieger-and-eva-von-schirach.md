@@ -17,4 +17,4 @@ Eva von Schirach is a cross media artist focusing on the culture of everyday lif
 
 **Shows:**
 
-[Mapping: True Colours](/pokazy/true-colors)
+[Mapping: True Colours](/pokazy/mapping)
