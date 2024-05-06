@@ -24,4 +24,4 @@ Her creative journey began through her work as a teacher and caring for children
 
 **Workshops:**
 
-[Intuitive Painting - UV Dotting Technique with Jadwiga Hajdo](/warsztaty/kropka-uv)
+[Intuitive Painting - UV Dotting Technique with Jadwiga Hajdo](/warsztaty/malowanie-intuicyjne)
