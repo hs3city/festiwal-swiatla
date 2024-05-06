@@ -28,3 +28,5 @@ W wydarzeniu wzięło udział ponad 2 500 osób, a w warsztatach aż 370 uczestn
 Rok później osiągnęliśmy kolejny kamień milowy – podczas drugiej edycji Festiwalu Światła udało nam się zrealizować marzenie Leszka i zbudować pokój bez kolorów. W festiwalu, który odbywał się w dniach 13-14 maja 2023, wzięło udział 3 500 osób. W jego organizację zaangażowało się ponad 70 artystów, makerów i naukowców z polski i zagranicy dzięki którym mogliśmy zaprezentować aż 35 wystaw i pokazów z pogranicza sztuki, nauki i technologii oraz zorganizować warsztaty, w których uczestniczyło ponad 450 osób. Do partnerów festiwalu dołączyło [UNESCO](https://www.lightday.org/), [miasto Gdańsk](https://www.gdansk.pl/), [Trojmiasto.pl](http://Trojmiasto.pl) oraz [Politechnika Gdańska](https://pg.edu.pl/). 
 
 Na tym jednak nie kończymy. W tym roku, w dniach 10-11 maja odbędzie się trzecia edycja Festiwalu Światła, podczas której chcemy pokazać jeszcze więcej atrakcji, zaprosić jeszcze więcej artystów i zrealizować kolejne marzenia.
+
+![Organizatorzy](/images/team/organizatorzy.jpg)
