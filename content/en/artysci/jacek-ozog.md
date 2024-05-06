@@ -14,5 +14,5 @@ Jacek Ożóg is a graduate of the Sopot School of Photography and a winner of nu
 
 **Exhibitions:**
 
-- [Ulicami Starego Miasta Gdańska Fotografia analogowa](/wystawy/ulicami-starego-miasta-gdanska)
+- [Ulicami Starego Miasta Gdańska Fotografia analogowa](/wystawy/ulicami-starego-miasta)
 - [Daniel](/wystawy/daniel)
