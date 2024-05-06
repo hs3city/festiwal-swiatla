@@ -14,9 +14,9 @@ Registration:
 https://lartagency.com/pl/products/intuitive-painting-workshop-dotting-technique-in-uv-with-jadwiga-hajdo
 
 Dates:
-Thursday, May 9, 2024, at 6:00 PM
-Saturday, May 11, at 11:00 AM
-Czas trwania: 2h
+Friday, May 10, 2024, at 6:00 PM
+Saturday, May 11, 2024 at 11:00 AM
+Time: 2h
 
 Location:
 Foodhall Montownia, Lisia Grobla 7

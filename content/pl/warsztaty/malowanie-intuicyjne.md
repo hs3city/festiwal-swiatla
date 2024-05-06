@@ -13,8 +13,8 @@ Zapisy:
 https://lartagency.com/pl/products/intuitive-painting-workshop-dotting-technique-in-uv-with-jadwiga-hajdo
 
 Daty:
-Czwartek, 9 maja 2024, godz. 18:00
-Sobota, 11 maja, godz. 11:00
+Piątek, 10 maja 2024, godz. 18:00
+Sobota, 11 maja 2024, godz. 11:00
 
 Czas trwania: 2h
 
