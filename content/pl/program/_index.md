@@ -7,4 +7,4 @@ aliases:
 
 [![Program Festiwalu](/images/program/program-2024.jpg)](/images/program/program-2024.jpg)
 
-[![Mapa Festiwalu](/images/program/mapa-2024.png)](/images/program/mapa-2024.png)
+[![Mapa Festiwalu](/images/program/mapa-2024.jpg)](/images/program/mapa-2024.jpg)
