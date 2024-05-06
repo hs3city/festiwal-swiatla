@@ -11,7 +11,7 @@ Podczas warsztatów odkryjesz, w jaki sposób Twoja data urodzenia wpływa na Ci
 
 Warsztaty są organizowane przy współpracy z Food Hall Montownia.
 
-Zapisy: lhttps://lartagency.com/pl/products/artistic-workshop-your-intentional-soy-candle
+Zapisy: https://lartagency.com/pl/products/artistic-workshop-your-intentional-soy-candle
 
 Daty: 
 Sobota, 11 Maja 2024, godz. 13:30
