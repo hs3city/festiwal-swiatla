@@ -86,9 +86,14 @@ languageName = "🇬🇧"
     weight = 7
 
   [[menu.main]]
+    identifier = "program"
+    pageref = "/program/_index.md"
+    weight = 1
+
+  [[menu.main]]
     identifier = "exhibitions"
     pageref = "/wystawy/_index.md"
-    weight = 1
+    weight = 2
 
  [[menu.main]]
    identifier = "workshops"

@@ -1,11 +1,10 @@
 ---
-title: 'Program Festiwalu Światła 2023'
-description: 'Program Festiwalu Światła 2023'
+title: 'Program Festiwalu Światła 2024'
+description: 'Program Festiwalu Światła 2024'
 aliases:
-- /program/2023
+- /program/2024
 ---
 
-[![Festival Program (in PL)](/images/program/program-2023.png)](/images/program/program-2023.png)
+[![Festival Program (in PL)](/images/program/program-2024.jpg)](/images/program/program-2024.jpg)
 
-[![Map of the Festiwal (in PL)](/images/program/mapa-2023.png)](/images/program/mapa-2023.png)
-
+[![Map of the Festiwal (in PL)](/images/program/mapa-2024.jpg)](/images/program/mapa-2024.jpg)
