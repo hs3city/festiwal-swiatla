@@ -9,8 +9,9 @@ promoted: true
 
 ## Bio
 
-Agnieszka Piasecka specializes in alternative and historical photographic methods as well as videography. She is a graduate of photography from Roehampton University in London, holds a master's degree in Intermedia from the Academy of Fine Arts in Gdańsk, and completed the Sputnik Photos mentorship program.  She is the winner of many awards, including the top prize at the V Gdańsk Art Biennale (2019, Gdańsk City Gallery), the esteemed LensCulture Critics’ Choice Awards (2020), and the Women Art Award 2022.
+Agnieszka Piasecka na co dzień zajmuje się alternatywnymi i historycznymi metodami fotograficznymi oraz video. Jest absolwentką fotografii na Roehampton University w
+Londynie  oraz studiów magisterskich na kierunku Intermedia na Akademii Sztuk Pięknych w Gdańsku i programu mentorskiego Sputnik Photos. Laureatka nagrody głównej V Gdańskiego Biennale Sztuki (2019, Gdańska Galeria Miejska), prestiżowej nagrody LensCulture Critics’ Choice Awards (2020) oraz Women Art Award 2022.
 
 **Warsztaty:**
 
-[Warsztaty cyjanotypii](/warsztaty/warsztaty-cyjanotypii)
+[Warsztaty cyjanotypii](/warsztaty/cyjanotypia)
