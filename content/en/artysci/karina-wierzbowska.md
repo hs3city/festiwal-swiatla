@@ -2,6 +2,7 @@
 title: 'Karina Wierzbowska'
 date: 2018-12-20T13:44:30+10:00
 draft: false
+image: 'images/team/karina-wierzbowska.jpg'
 jobtitle: 'Artystka'
 type: team
 promoted: true
@@ -21,3 +22,7 @@ In her practice, combines various therapeutic approaches, including Acceptance a
 **Shows:**
 
 [Wykład: O wpływie światła na samopoczucie i zdrowie psychiczne](/pokazy/wyklad-o-wplywie-swiatla)
+
+**Workshops:**
+
+[Sznurek i światło: makramowy lampion](/warsztaty/makrama)

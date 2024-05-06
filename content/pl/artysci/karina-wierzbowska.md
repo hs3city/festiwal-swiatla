@@ -2,6 +2,7 @@
 title: 'Karina Wierzbowska'
 date: 2018-12-20T13:44:30+10:00
 draft: false
+image: 'images/team/karina-wierzbowska.jpg'
 jobtitle: 'Artystka'
 type: team
 promoted: true
@@ -19,3 +20,7 @@ W pracy stara się łączyć wiele metod terapeutycznych, m.in. Terapię Akcepta
 **Pokazy:**
 
 [Wykład: O wpływie światła na samopoczucie i zdrowie psychiczne](/pokazy/wyklad-o-wplywie-swiatla)
+
+**Warsztaty:**
+
+[Sznurek i światło: makramowy lampion](/warsztaty/makrama)
