@@ -2,6 +2,7 @@
 title: 'Kinga Marszałkowska'
 date: 2018-12-20T13:44:30+10:00
 draft: false
+image: 'images/team/kinga-marszalkowska.jpg'
 jobtitle: 'Artystka'
 type: team
 promoted: true

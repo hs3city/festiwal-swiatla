@@ -2,7 +2,7 @@
 title: 'Magdalena Czupowska'
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: 'images/team/magdalena-czupowska.jpg'
+image: 'images/team/magdalena-czupowska-2024.jpg'
 jobtitle: 'Artystka'
 type: team
 promoted: true

@@ -24,3 +24,5 @@ Over 2,500 people participated in the event, with 370 participants in workshops.
 A year later, we achieved another milestone - during the second edition of the Light Festival, we fulfilled Leszek's dream and built a room without colors. The festival, which took place on May 13-14, 2023, was attended by 3,500 people. Over 70 artists, makers, and scientists from Poland and abroad were involved in its organization, allowing us to present 35 exhibitions and shows at the intersection of art, science, and technology, as well as to organize workshops with over 450 participants. [UNESCO](https://www.lightday.org/), [the city of Gdańsk](https://www.gdansk.pl/), [Trojmiasto.pl](http://Trojmiasto.pl), and [the Gdańsk University of Technology](https://pg.edu.pl/) joined the festival's partners.
 
 However, we are not stopping there. This year, on May 10-11, the third edition of the Light Festival will take place, during which we want to showcase even more attractions, invite even more artists, and fulfill more dreams.
+
+![Organizers](/images/team/organizatorzy.jpg)
