@@ -14,4 +14,4 @@ Duet Luna consists of two friends who, for over a decade, have shared a deep pas
 
 **Shows:**
 
-[Epic Led Wings Dance Show](/pokazy/epic-led-wings-dance-show)
+[Epic Led Wings Dance Show](/pokazy/epic-led-wings)

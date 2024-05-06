@@ -14,4 +14,4 @@ Duet Luna to dwie przyjaciółki, które od ponad dziesięciu lat łączy pasja 
 
 **Pokazy:**
 
-[Epic Led Wings Dance Show](/pokazy/epic-led-wings-dance-show)
+[Epic Led Wings Dance Show](/pokazy/epic-led-wings)

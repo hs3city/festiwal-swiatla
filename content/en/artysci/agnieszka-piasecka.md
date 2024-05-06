@@ -13,4 +13,4 @@ Agnieszka Piasecka specializes in alternative and historical photographic method
 
 **Workshops:**
 
-[Warsztaty cyjanotypii](/warsztaty/warsztaty-cyjanotypii)
+[Warsztaty cyjanotypii](/warsztaty/cyjanotypia)
