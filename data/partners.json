@@ -24,6 +24,7 @@
     "items": [
       {
         "name": "MSalamon",
+        "link": "https://sklep.msalamon.pl",
         "image": "/images/partners/msalamon.svg"
       }
     ]
@@ -33,70 +34,87 @@
     "items": [
       {
         "name": "CodeMe",
+        "link": "https://codeme.pl",
         "image": "/images/partners/CodeMe.svg"
       },
       {
         "name": "FAJ",
+        "link": "http://www.faj.org.pl",
         "image": "/images/partners/FAJ.svg"
       },
       {
         "name": "Gdansk Embedded Meetup",
+        "link": "https://www.meetup.com/pl-PL/gdańsk-embedded-meetup/",
         "image": "/images/partners/gem.svg"
       },
       {
         "name": "GVT",
+        "link": "https://www.meetup.com/hs3city/events/300045324/",
         "image": "/images/partners/GVT.svg"
       },
       {
         "name": "Humbaka",
+        "link": "https://www.humbaka.pl",
         "image": "/images/partners/Humbaka.svg"
       },
       {
         "name": "Hybrydowa Szkola",
+        "link": "https://hybrydowa.edu.pl",
         "image": "/images/partners/hybrydowa_szkola.svg"
       },
       {
         "name": "IAO OAO",
+        "link": "https://www.iau.org/public/oao/",
         "image": "/images/partners/iao_oao.svg"
       },
       {
         "name": "Icetek",
+        "link": "https://www.icetek.io",
         "image": "/images/partners/Icetek.svg"
       },
       {
         "name": "IDL",
+        "link": "https://www.lightday.org",
         "image": "/images/partners/IDL.svg"
       },
       {
         "name": "IKM",
+        "link": "https://ikm.gda.pl",
         "image": "/images/partners/IKM.svg"
       },
       {
         "name": "Lukasiewicz",
+        "link": "https://lukasiewicz.gov.pl",
         "image": "/images/partners/Lukasiewicz.svg"
       },
       {
         "name": "MontowniaFH",
+        "link": "https://www.montowniafoodhall.pl",
         "image": "/images/partners/MontowniaFH.svg"
       },
       {
         "name": "PosterX",
+        "link": "https://posterx.pl",
         "image": "/images/partners/PosterX.svg"
       },
       {
         "name": "Skalp",
+        "link": "https://srskalp.pl",
         "image": "/images/partners/Skalp.svg"
       },
       {
         "name": "ASP",
+        "link": "https://asp.gda.pl/wydzialy/wydzial-rzezby-i-intermediow,91",
         "image": "/images/partners/ASP.svg"
       },
       {
         "name": "TA",
+        "link": "https://www.linkedin.com/in/tadych-architekci/",
         "image": "/images/partners/TA.svg"
       },
       {
         "name": "TRV",
+        "link": "https://www.trv.com.pl",
         "image": "/images/partners/TRV.svg"
       }
     ]
@@ -106,6 +124,7 @@
     "items": [
       {
         "name": "Astronarium",
+        "link": "https://www.astronarium.pl",
         "image": "/images/partners/Astronarium.svg"
       },
       {
@@ -114,14 +133,17 @@
       },
       {
         "name": "Gdanskpl",
+        "link": "https://www.gdansk.pl",
         "image": "/images/partners/gdanskpl.svg"
       },
       {
         "name": "Trojmiastopl",
+        "link": "https://www.trojmiasto.pl",
         "image": "/images/partners/trojmiastopl.svg"
       },
       {
         "name": "Urania",
+        "link": "https://www.urania.edu.pl",
         "image": "/images/partners/Urania.svg"
       }
     ]
