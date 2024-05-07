@@ -14,4 +14,4 @@ Leszek Miotk - Electronics engineer, leads various projects to demonstrate that 
 
 **Workshops:**
 
-[Laboratorium światła](/warsztaty/laboratorium-swiatla)
+[Laboratorium światła](/wystawy/laboratorium-swiatla)

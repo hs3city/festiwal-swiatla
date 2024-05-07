@@ -14,4 +14,4 @@ Inżynier elektronik, prowadzi różne projekty, aby pokazać, że da się zmien
 
 **Warsztaty:**
 
-[Laboratorium światła](/warsztaty/laboratorium-swiatla)
+[Laboratorium światła](/wystawy/laboratorium-swiatla)
