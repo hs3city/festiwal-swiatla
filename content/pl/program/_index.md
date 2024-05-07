@@ -149,7 +149,7 @@ aliases:
 
 - MAPPING: ANCIENT REALISATION - DIEGO MAURICIO 
         	
-- MAPPING: [(RE)KONSTRUKCJE - HEVELIANUM](/pokazy/mapping-hevelianum/)
+- [MAPPING: (RE)KONSTRUKCJE - HEVELIANUM](/pokazy/mapping-hevelianum/)
 
 - JAN HEWELIUSZ. PODRÓŻ NA KSIĘŻYC I Z POWROTEM
 
