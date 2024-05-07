@@ -1,5 +1,5 @@
 ---
-title: "NucleoX (Franco Cesare & Zanetti & Pierpaolo Ceccarini) - Che ci facciamo qui?"
+title: "Pokruszona na kawałki - Beata Koszewska"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false

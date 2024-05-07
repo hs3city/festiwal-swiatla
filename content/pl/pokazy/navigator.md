@@ -1,5 +1,5 @@
 ---
-title: "Navigator Dźwięku – koncert z gongiem"
+title: "Navigator - Ceremonia Dźwięku- koncert z harfą"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false

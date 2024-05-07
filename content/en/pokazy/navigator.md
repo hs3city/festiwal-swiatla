@@ -1,5 +1,5 @@
 ---
-title: "Navigator Dźwięku – concert with gong"
+title: "Navigator - The Sound Ceremony - concert with harf"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
