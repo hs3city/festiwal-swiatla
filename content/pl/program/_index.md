@@ -81,9 +81,9 @@ aliases:
  
 16:00 - ESCAPE ROOM: DUCH HEWELIUSZA
  
-16:00 - [WYKŁAD: WPŁYW ŚWIATŁA NA DOBROSTAN CZŁOWIEKA - KARINA WIERZBOWSKA](/wyklad/wyklad-o-wplywie-swiatla/)
+16:00 - [WYKŁAD: WPŁYW ŚWIATŁA NA DOBROSTAN CZŁOWIEKA - KARINA WIERZBOWSKA](/pokazy/wyklad-o-wplywie-swiatla/)
  
-17:00 - [WYKŁAD: KWANTOWO O ŚWIETLE - MACIEJ WIERZBOWSKI](/wyklady/wyklad-kwantowo-o-swietla/)
+17:00 - [WYKŁAD: KWANTOWO O ŚWIETLE - MACIEJ WIERZBOWSKI](/pokazy/wyklad-kwantowo-o-swietla/)
  
 17:00 - 17:45 - [OŚWIEĆ SIĘ! STREFA EDUKACYJNA HEVELIANUM](/warsztaty/oswiec-sie/)
  
