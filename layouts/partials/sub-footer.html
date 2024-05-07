@@ -22,4 +22,24 @@
         </div>
       </div>
     </div>
+    <a href="#" class="go-top-btn feature">
+      <!--<img src="chevron-direction-top-outline-icon.svg" alt="go to top"/>-->
+      Top
+    </a>
   </div>
+  <script>
+
+    (function () {
+      let topBtn = document.querySelector(".go-top-btn");
+   window.addEventListener('scroll', checkHeight)
+   
+   function checkHeight() {
+    if (window.scrollY > 200) {
+      topBtn.style.display = "flex"
+    } else {
+      topBtn.style.display = "none"
+    }
+   }
+
+    }());
+    </script>
