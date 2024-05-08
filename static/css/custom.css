@@ -9,6 +9,10 @@
   --darker-text: #5c5a5a;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body,
 .strip {
   background-color: var(--dark);
@@ -135,7 +139,7 @@ h1,
 
 .row .myGrid-Organizatorzy img {
   width: 300px;
-  height: 350px;
+  height: 150px;
 }
 
 .row .myGrid-Sponsorzy img {
