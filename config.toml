@@ -62,11 +62,11 @@ languageName = "🇬🇧"
 
 [languages.pl.params.footer]
   copyright_text = 'Dołącz do nas!'
-  copyright_link = 'https://forms.gle/RCMCqTYYBjkHnzCY6'
+  copyright_link = '/kontakt'
 
 [languages.en.params.footer]
   copyright_text = 'Join us!'
-  copyright_link = 'https://forms.gle/AXskhgLjAyzEiYkN7'
+  copyright_link = '/kontakt'
 
 [menu]
   # Main Menu
