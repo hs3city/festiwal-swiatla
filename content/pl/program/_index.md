@@ -147,7 +147,7 @@ aliases:
 
 - MAPPING: VIVIDA - JAKUB NOSEK
 
-- MAPPING: ANCIENT REALISATION - DIEGO MAURICIO 
+- MAPPING: PSYCHOTROPIC ORACLE - PRIZMA
         	
 - [MAPPING: (RE)KONSTRUKCJE - HEVELIANUM](/pokazy/mapping-hevelianum/)
 
@@ -155,7 +155,7 @@ aliases:
 
 - [ROBERT PROCH FOUNDATION - ANIMACJE](/wystawy/swiatlo-ktore-zgaslo/)
 
-- [FRIDAY EVENING - BARTOSZ PIECZYŃSKI](/pokazy/friday-evening/)
+- [FRIDAY EVENING - SYBERION](/pokazy/friday-evening/)
 
 - [GOOD MORNING SECECTO - KORNEL KOWALSKI](/pokazy/good-morning/)
 
