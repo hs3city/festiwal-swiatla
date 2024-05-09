@@ -1,7 +1,7 @@
 ---
-title: 'The gallery'
+title: 'Gallery'
 url: /en/gallery
-layout: 'gallery'
+layout: gallery
 type: gallery
 ---
 
