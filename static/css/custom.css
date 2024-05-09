@@ -310,3 +310,42 @@ img[src="/images/google-translate.png"] {
    hyphens: auto;
 }
 
+.container.program-container {
+  padding-bottom: 5rem;
+}
+
+summary.program-list-title  {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+summary::after {
+  content: '';
+  width: 0; 
+  height: 0; 
+  border-top: 10px solid white;
+  border-inline: 7px solid transparent;
+  transition: 0.2s;
+}
+details[open] > summary::after {
+  transform: rotate(-180deg);
+}
+
+summary.program-list-title::-webkit-details-marker {
+  display: none;
+}
+
+summary.program-list-title {
+  color: white;
+}
+
+details.program-list-details {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+details > *:not(summary) {
+  margin-top: 1.5rem;  
+}
