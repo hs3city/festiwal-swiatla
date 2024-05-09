@@ -77,7 +77,7 @@ languageName = "🇬🇧"
 
   [[menu.main]]
     identifier = "galery"
-      pageref = "/galeria/index.md"
+      pageref = "/galeria/_index.md"
       weight = 6
 
   [[menu.main]]
