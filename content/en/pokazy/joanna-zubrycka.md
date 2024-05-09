@@ -1,5 +1,5 @@
 ---
-title: "Joanna Zubrycka (Miss God) - Głosy Wschodu"
+title: "Koncert: Miss God – Głosy Wschodu"
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false

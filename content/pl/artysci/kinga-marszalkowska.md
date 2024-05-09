@@ -15,4 +15,6 @@ Absolwentka Informatyki na Polsko-Japońskiej Akademii Technik Komputerowych i c
 
 **Wystawy:**
 
-[Światło, które zgasło zbyt szybko - wystawa poświęcona twórczości Roberta Procha](/wystawy/swiatlo-ktore-zgaslo)
+- [Światło, które zgasło zbyt szybko - wystawa poświęcona twórczości Roberta Procha](/wystawy/swiatlo-ktore-zgaslo)
+
+- [Laboratorium światła](/wystawy/laboratorium-swiatla)

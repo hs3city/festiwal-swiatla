@@ -10,8 +10,8 @@ promoted: true
 
 ## Bio
 
-Member of Hackerspace Tricity, graduate of Warsaw University of Technology and Polish-Japanese Academy of Information Technology. My experience includes programming in multiple languages, designing computer networks and business applications. I am also involved in computer security, performing code audits and penetration testing. I have experience in security training and teamwork as a manager and mentor of programmers. My strengths are the ability to translate complex technical issues for non-technical people and design a variety of computer and electronic solutions.
+Maciej Wierzbowski - a member of Hackerspace Trójmiasto, a graduate of the Warsaw University of Technology and the Polish-Japanese Academy of Information Technology. His strengths are the ability to translate complex technical concepts to non-technical people and design various computer and electronic solutions. He programs in multiple languages, designs computer networks and business applications. Professionally, he's a manager and mentor for programmers. He also conducts computer security trainings.
 
 **Shows:**
 
-[Wykład: Kwantowo o świetle](/pokazy/wyklad-kwantowo-o-swietla)
+[Wykład: Kwantowo o świetle](/pokazy/wyklad-kwantowo-o-swietle)

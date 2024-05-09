@@ -62,11 +62,11 @@ languageName = "🇬🇧"
 
 [languages.pl.params.footer]
   copyright_text = 'Dołącz do nas!'
-  copyright_link = 'https://forms.gle/Ti9hdR1JVpEwPgTq7'
+  copyright_link = '/kontakt'
 
 [languages.en.params.footer]
   copyright_text = 'Join us!'
-  copyright_link = 'https://forms.gle/roAw7WvqKisGxzYq6'  # TODO: make an English version of this
+  copyright_link = '/kontakt'
 
 [menu]
   # Main Menu
@@ -77,7 +77,7 @@ languageName = "🇬🇧"
 
   [[menu.main]]
     identifier = "galery"
-      pageref = "/galeria/index.md"
+      pageref = "/galeria/_index.md"
       weight = 6
 
   [[menu.main]]
