@@ -7,15 +7,6 @@
       <h1 class="title">{{.Title}}</h1>
       <div class="content">{{.Content}}</div>
     </div>
-    {{ if .Params.image }}
-    <div class="col-12 col-md-4 order-md-2">
-      <img
-        alt={{ .Title }}
-        class="image img-fluid"
-        src="{{ .Params.image | relURL }}"
-      />
-    </div>
-    {{ end }}
   </div>
 </div>
 {{ end }}
