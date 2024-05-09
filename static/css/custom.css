@@ -1,12 +1,16 @@
 :root {
   --primary: #956dfe;
   --secondary: #ffffff;
-  --alternative: #E6007E;
-  --dark: #1E1E1E;
+  --alternative: #e6007e;
+  --dark: #1e1e1e;
   --darker: #0e0d0d;
   --lighter: #3d3f40;
   --bright: #ccc;
-  --darker-text: #5C5A5A;
+  --darker-text: #5c5a5a;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 body,
@@ -50,7 +54,7 @@ body,
 }
 
 .home-wrapper {
-  background-image: url('/images/logo/home-banner-bg-wide-2024.png');
+  background-image: url("/images/logo/home-banner-bg-wide-2024.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -65,7 +69,7 @@ body,
 
 .home .intro-image {
   margin: auto;
-} 
+}
 
 .team-summary-large {
   background-color: var(--darker);
@@ -110,7 +114,7 @@ h1,
 }
 
 .content p {
-  color: #E6E6E6;
+  color: #e6e6e6;
   max-width: 60ch;
 }
 
@@ -127,6 +131,10 @@ h1,
 .row .myGrid img {
   width: 200px;
   height: 100px;
+}
+.row .myGrid {
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .row .myGrid-Organizatorzy img {
@@ -148,6 +156,8 @@ h1,
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
 }
 
 .myGrid > div {
@@ -165,6 +175,9 @@ h1,
   -ms-flex: 0 0 auto;
   flex: 0 0 auto;
 }
+.myGrid-Sponsorzy {
+  gap: 1rem;
+}
 
 .myGrid-Sponsorzy > div {
   height: 170px;
@@ -179,7 +192,6 @@ h1,
   background: transparent;
   color: var(--lighter);
 }
-
 
 .myGrid a {
   color: black;
@@ -214,7 +226,8 @@ h1,
 
 .feature-image img {
   /* Thanks to https://codepen.io/sosuke/pen/Pjoqqp */
-  filter: invert(50%) sepia(74%) saturate(3751%) hue-rotate(230deg) brightness(104%) contrast(99%);
+  filter: invert(50%) sepia(74%) saturate(3751%) hue-rotate(230deg)
+    brightness(104%) contrast(99%);
 }
 
 img.image {
@@ -228,7 +241,7 @@ img.image {
 }
 
 /* Countdown */
-#countdown {  
+#countdown {
   color: var(--primary);
   font-size: 16px;
   line-height: 1.2;
@@ -255,15 +268,35 @@ img.image {
 
 .emoji span {
   font-size: 4rem;
-  padding: 0 .5rem;
+  padding: 0 0.5rem;
 }
 /* Countdown end */
 
 img[src="/images/google-translate.png"] {
-    height: 1.2em;
-    width: 1.2em !important;
+  height: 1.2em;
+  width: 1.2em !important;
 }
 
+.go-top-btn {
+  display: none;
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  right: 20px;
+  bottom: 20px;
+  text-decoration: none;
+  justify-content: center;
+  align-items: center;
+  font-size: 14px;
+}
+.go-top-btn:hover {
+  text-decoration: none;
+}
+
+
+.main-menu-mobile ul li a {
+  display: inline !important;
+}
 
 .summary p a {
    overflow-wrap: break-word;
