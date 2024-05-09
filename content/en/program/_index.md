@@ -5,6 +5,10 @@ aliases:
 - /program/2024
 ---
 
-[![Festival Program (in PL)](/images/program/program-2024.jpg)](/images/program/program-2024.jpg)
+<a href="/images/program/program-2024.jpg" title="Mapa Festiwalu">
+{{< responsiveimg src="program-2024" alt="Program Festiwalu" >}}
+</a>
 
-[![Map of the Festiwal (in PL)](/images/program/mapa-2024.jpg)](/images/program/mapa-2024.jpg)
+<a href="/images/program/mapa-2024.jpg" title="Mapa Festiwalu">
+{{< responsiveimg src="mapa-2024" alt="Mapa Festiwalu" >}}
+</a>

@@ -5,20 +5,20 @@ aliases:
 - /program/2024
 ---
 
-[![Program Festiwalu](/images/program/program-2024.jpg)](/images/program/program-2024.jpg)
 
-[![Mapa Festiwalu](/images/program/mapa-2024.jpg)](/images/program/mapa-2024.jpg)
 
+
+{{< accordion "Wydarzenie poprzedzające" >}}
 [PARASOLKI - WARSZTATY W RÓŻNYCH TERMINACH I LOKALIZACJACH](/warsztaty/parasolki/)
 
 8.05.2024 ŚRODA 19:00 - [WERNISAŻ: OBRAZY W ŚWIETLE UV - JADWIGA HAJDO (FOOD HALL MONTOWNIA)](/wystawy/wernisaz-jadwiga-hajdo)
 
 
 9.05.2024 CZWARTEK 18:00 - [WARSZTATY: TWOJA SOJOWA ŚWIECA INTENCYJNA  - VIDA VERDE (FOOD HALL MONTOWNIA)](/warsztaty/sojowa-swieca/)
+{{< /accordion >}}
 
 
-#### 10.05.2024 PIĄTEK 
- 
+{{< accordion "10.05.2024 PIĄTEK" >}}
 15:30 - 17:30 - [WARSZTATY: DOBROSTAN SENIORA - ŚWIATŁO NA ROŚLINY](/warsztaty/dobrostan-seniora/)
  
 17:00 - 20:00 - [WARSZTATY: VIDEOMAPPING CZ.1 - NICOLA PAVONE](/warsztaty/videomapping-workshop/)
@@ -60,9 +60,10 @@ aliases:
 23:15 - [POKAZ TANECZNY: EPIC LED WINGS DANCE SHOW - DUET LUNA](/pokazy/epic-led-wings/)
  
 23:20 - 23:30 - [POKAZY MAPPINGÓW](#Mappingi)
- 
-#### 11.05.2024 SOBOTA
- 
+{{< /accordion >}}
+
+
+ {{< accordion "11.05.2024 SOBOTA" >}}
 11:00 - 12:30 - [WARSZTATY: MALOWANIE INTUICYJNE - KROPKA W UV - JADWIGA HAJDO (FOOD HALL MONTOWNIA)](/warsztaty/malowanie-intuicyjne/)
  
 12:00 - 14:00 - [WARSZTATY Z CYJANOTYPII - AGNIESZKA PIASECKA](/warsztaty/cyjanotypia/)
@@ -138,9 +139,10 @@ aliases:
 23:15 - 23:30 - [POKAZY MAPPINGÓW](#Mappingi)
  
 23:30 - KONCERT: UPGRADE
- 
-#### MAPPINGI I POKAZY NA TELEBIMIE
+{{< /accordion >}}
 
+
+ {{< accordion "MAPPINGI I POKAZY NA TELEBIMIE" >}}
 - [MAPPING: TRUE COLORS - EITAN RIEGER I EVA VON SCHIRACH](/pokazy/mapping/)
 
 - [MAPPING: TENEBRAE - METANOIA CREATIVES](/pokazy/mapping-tenebrae/)
@@ -162,3 +164,13 @@ aliases:
 - [ASTRONARIUM](/pokazy/astronarium/)
 
 - ŚWIATŁO NA ROŚLINY
+{{< /accordion >}}
+
+
+<a href="/images/program/program-2024.jpg" title="Mapa Festiwalu">
+{{< responsiveimg src="program-2024" alt="Program Festiwalu" >}}
+</a>
+
+<a href="/images/program/mapa-2024.jpg" title="Mapa Festiwalu">
+{{< responsiveimg src="mapa-2024" alt="Mapa Festiwalu" >}}
+</a>

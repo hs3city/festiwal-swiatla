@@ -131,3 +131,7 @@ languageName = "🇬🇧"
     url = "https://hs3.pl"
     weight = 3
       
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
