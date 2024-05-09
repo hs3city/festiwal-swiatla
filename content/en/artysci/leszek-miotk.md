@@ -12,6 +12,6 @@ promoted: true
 
 Leszek Miotk - Electronics engineer, leads various projects to demonstrate that it's possible to change the education system. He is the brain behind the [Żeton application](https://www.projekt-zeton.pl) and a member of the [Hackerspace Trójmiasto](https://hs3.pl) and the [Hybrid School](https://hybrydowa.edu.pl). His interests lie in neuroscience, psychology, and brain function.
 
-**Workshops:**
+**Exhibitions:**
 
 [Laboratorium światła](/wystawy/laboratorium-swiatla)

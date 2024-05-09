@@ -147,7 +147,7 @@ aliases:
 
 - MAPPING: VIVIDA - JAKUB NOSEK
 
-- MAPPING: PSYCHOTROPIC ORACLE - PRIZMA
+- [MAPPING: PSYCHOTROPIC ORACLE - PRIZMA](/wystawy/psychotropic-oracle/)
         	
 - [MAPPING: (RE)KONSTRUKCJE - HEVELIANUM](/pokazy/mapping-hevelianum/)
 

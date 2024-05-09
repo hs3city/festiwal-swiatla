@@ -7,4 +7,4 @@ weight: 8
 ---
 Zachody słońca są naturalnym antydepresantem. Ten moment na granicy dnia i nocy, kiedy światło dynamicznie się zmienia, a całe niebo staje się sceną barwnego spektaklu, działa na obserwatora niezwykle kojąco i wyciszająco.
 
-Pewien piątkowy zachód słońca zainspirował Syberiona do nagrania mini albumu zatytułowanego "Friday evening", który jest instrumentalną interpretacją zachodu słońca. Utworowi towarzyszy klip przedstawiający nagranie zachodzącego słońca.
+Pewien piątkowy zachód słońca zainspirował Bartosza Pieczyńskiego tworzącego pod pseudonimem Syberion do nagrania mini albumu zatytułowanego Friday evening, który jest instrumentalną interpretacją zachodu słońca. Utworowi towarzyszy klip przedstawiający nagranie zachodzącego słońca.

@@ -17,3 +17,7 @@ Występowała na wielu festiwalach muzycznych w Polsce i za granicą m.in na Ope
 **Pokazy:**
 
 [Joanna Zubrycka (Miss God) - Głosy Wschodu](/pokazy/joanna-zubrycka)
+
+**Wystawy:**
+
+[Harfa laserowa](/wystawy/harfa-laserowa)

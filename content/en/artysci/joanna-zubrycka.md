@@ -18,3 +18,7 @@ She has performed at many music festivals in Poland and abroad, including Opener
 **Shows:**
 
 [Joanna Zubrycka (Miss God) - Głosy Wschodu](/pokazy/joanna-zubrycka)
+
+**Exhibitions:**
+
+[Harfa laserowa](/wystawy/harfa-laserowa)
