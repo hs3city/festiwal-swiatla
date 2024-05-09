@@ -5,4 +5,7 @@ featured: true
 draft: false
 weight: 6
 ---
-Mr. UPGrade to pseudonim artystyczny Jakub Czaplińskiego, który od lat tworzy muzykę elektroniczną i gra na wielu instrumentach. W swoich projektach łączy pasję do muzyki z fotografią i grafiką komputerową, tworząc unikalne wizualno-dźwiękowe widowiska.
+
+Mr. UPGrade - WAVES
+
+Waves to audiowizualny pokaz przygotowany przez Jakuba Czaplińskiego (Mr. UPGrade) specjalnie na Festiwal Światła. Podróż poprzez szeroki świat muzyki elektronicznej gdzie organiczne rytmy mieszają się z surowymi brzmieniami.

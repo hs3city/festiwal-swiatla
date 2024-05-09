@@ -6,4 +6,6 @@ draft: false
 weight: 6
 ---
 
-Mr. Upgrade is the artistic moniker of Jakub Czapliński, who has been creating electronic music and playing various instruments for years. In his projects, he combines his passion for music with photography and computer graphics, creating unique audio-visual spectacles.
+Mr. UPGrade - WAVES
+
+Waves is an audivisual spectacle created by Jakub Czapliński (Mr. UPGrade) especially for the Festival of Light. It's a journey through the broad world of electronic music where organic rhythms blend with raw sounds.
