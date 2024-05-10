@@ -14,7 +14,7 @@ Students and supervisors of the Basic Design Studio at the Sculpture and Interme
 prof. Małgorzata Kręcka-Rozenkranz, PhD (studio head) and Paulina Stokowska, MA (assistant).
 
 Students involved in the project: 
- Julia Drozd-Tietianiec,Małgorzata Grunland, Apolonia Gąsiorek, Klara Kerszka, Wiktoria Gawin, Zuzanna Kalisz, Weronika Treppa.
+  Julia Drozd-Tietianiec,Małgorzata Grunland, Apolonia Gąsiorek, Klara Kerszka, Wiktoria Gawin, Zuzanna Kalisz, Weronika Treppa.
 
 **Exhibitions:**
 
