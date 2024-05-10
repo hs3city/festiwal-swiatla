@@ -13,7 +13,7 @@ Studenci i opiekunki Pracowni Podstaw Projektowania Plastycznego Wydziału Rzeź
 
 prof. ASP dr hab. Małgorzata Kręcka- Rozenkranz (kierowniczka pracowni) oraz mgr Paulina Stokowska (asystentka).
 
-Studenci i studentki zaangażowane w projekt: Julia Drozd – Tietianiec, Wiktoria Gawin, Małgorzata Grunland, Pola Gąsiorek, Zuzanna Kalisz, Klara Kerszka, Małgorzata Kupper, Paula Łazicka, Martyna Rutkowska, Hanna Schroeder, Weronika Treppa, Karol Zagórowski.
+Studenci i studentki zaangażowane w projekt: Julia Drozd-Tietianiec,Małgorzata Grunland, Apolonia Gąsiorek, Klara Kerszka, Wiktoria Gawin, Zuzanna Kalisz, Weronika Treppa.
 
 **Wystawy:**
 

@@ -167,8 +167,8 @@ aliases:
 {{< /accordion >}}
 
 
-<a href="/images/program/program-2024.jpg" title="Mapa Festiwalu">
-{{< responsiveimg src="program-2024" alt="Program Festiwalu" >}}
+<a href="/images/program/program-final-2024.jpg" title="Mapa Festiwalu">
+{{< responsiveimg src="program-final-2024" alt="Program Festiwalu" >}}
 </a>
 
 <a href="/images/program/mapa-2024.jpg" title="Mapa Festiwalu">
