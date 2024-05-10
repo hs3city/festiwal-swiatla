@@ -53,7 +53,7 @@ aliases:
  
 21:50 - 22:00 - [POKAZY MAPPINGÓW](#Mappingi)
  
-22:00 - KONCERT: BLKDOT/KLIMAT ON SYNTHS
+22:00 - [KONCERT: BLKDOT/KLIMAT ON SYNTHS](https://festiwalswiatla.hs3.pl/artysci/blkdot-klimat/)
  
 22:30 - [LIVE MAPPING PERFORMANCE: TANIEC KOLORÓW - IMPROMAP A/V - NICOLA PAVONE](/pokazy/live-mapping/)
  
