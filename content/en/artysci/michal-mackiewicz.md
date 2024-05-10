@@ -2,7 +2,7 @@
 title: 'Michał Mackiewicz'
 date: 2018-12-20T13:44:30+10:00
 draft: false
-image: 'images/team/michał.jpg'
+image: 'images/team/michal-mackiewicz.jpg'
 jobtitle: 'Artysta'
 type: team
 promoted: true
