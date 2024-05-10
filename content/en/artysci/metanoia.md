@@ -15,3 +15,7 @@ Metanoia creatives is a group of interdisciplinary artists and creative technolo
 **Shows:**
 
 [Mapping: Tenebrae](/pokazy/mapping-tenebrae)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/metanoia.underground/)

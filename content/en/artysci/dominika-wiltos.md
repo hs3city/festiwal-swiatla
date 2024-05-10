@@ -14,3 +14,7 @@ A graduate of Architecture and Design at the Academy of Fine Arts in Gdańsk. In
 **Exhibitions:**
 
 [Code Cycle](/wystawy/code-cycle)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/dominika.wiltos/)

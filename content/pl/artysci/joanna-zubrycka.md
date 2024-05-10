@@ -21,3 +21,7 @@ Występowała na wielu festiwalach muzycznych w Polsce i za granicą m.in na Ope
 **Wystawy:**
 
 [Harfa laserowa](/wystawy/harfa-laserowa)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/missgodmusic/)

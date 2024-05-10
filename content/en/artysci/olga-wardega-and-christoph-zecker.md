@@ -15,3 +15,9 @@ Olga Wardęga (Poland) and Christoph Zeckel (Germany/Malaysia) are a duo of arti
 **Exhibitions:**
 
 [Beautiful flowers](/wystawy/beautiful-flowers)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/evvivalarty/)
+
+[Instagram](https://www.instagram.com/christoph.zeckel)

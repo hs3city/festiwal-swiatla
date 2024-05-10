@@ -18,3 +18,7 @@ Magdalena Czupowska to absolwentka wydziału malarstwa w Akademii Sztuk Pięknyc
 
 - [Iluminacje](/wystawy/iluminacje)
 - [Techno visualisation - New dimension](/wystawy/techno-visualisation)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/czupowska.art/)

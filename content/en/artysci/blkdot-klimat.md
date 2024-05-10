@@ -15,3 +15,7 @@ Duo from Gdańsk merging gritty, industrial sounds with warm textures. They play
 **Shows:**
 
 [Koncert: BLKDOT/KLIMAT](/pokazy/blkdot-klimat)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/klimat.wav/)

@@ -22,3 +22,7 @@ She has performed at many music festivals in Poland and abroad, including Opener
 **Exhibitions:**
 
 [Harfa laserowa](/wystawy/harfa-laserowa)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/missgodmusic/)

@@ -15,3 +15,7 @@ Magdalena Ferdyn jest studentką IV roku Malarstwa na Akademii Sztuk Pięknych w
 **Wystawy:**
 
 [Było minęło](/wystawy/bylo-minelo)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/magdalena.ferdyn/)

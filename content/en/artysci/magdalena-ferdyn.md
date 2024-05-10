@@ -15,3 +15,7 @@ Magdalena Ferdyn is a fourth-year Painting student at the Academy of Fine Arts i
 **Exhibitions:**
 
 [Było minęło](/wystawy/bylo-minelo)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/magdalena.ferdyn/)

@@ -21,3 +21,7 @@ Jej autentyczny i barwny styl duchowy czerpie inspirację z osobistych doświadc
 **Warsztaty**:
 
 [Wyraź swoje światło poprzez ruch  - warsztaty taneczne z Esther Kasendą](/warsztaty/swiatlo-poprzez-ruch)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/estherkasenda/)

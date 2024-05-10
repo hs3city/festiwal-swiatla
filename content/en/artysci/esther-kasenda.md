@@ -20,3 +20,7 @@ Esther Kasenda is a multidimensional artist and dancer. She channels her creativ
 **Workshops**:
 
 [Embody Your Light Through Movements - dance workshop with Esther Kasenda](/warsztaty/swiatlo-poprzez-ruch)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/estherkasenda/)

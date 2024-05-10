@@ -14,3 +14,7 @@ Absolwentka Architektury i Wzornictwa na Akademii Sztuk Pięknych w Gdańsku. W 
 **Wystawy:**
 
 [Code Cycle](/wystawy/code-cycle)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/dominika.wiltos/)

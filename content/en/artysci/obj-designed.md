@@ -14,3 +14,7 @@ The brand was founded by two design students from the Gdańsk Academy of Fine Ar
 **Exhibitions:**
 
 - [UV Luminescencja – Świecące Obiekty 3D](/wystawy/uv-luminescencja)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/obj_designed/)

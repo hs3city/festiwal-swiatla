@@ -18,3 +18,7 @@ Jej filmy prezentowane były na licznych festiwalach i wydarzeniach w USA i Japo
 **Wystawy:**
 
 [River of Stars](/wystawy/river-of-stars)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/fumi_liquid/)

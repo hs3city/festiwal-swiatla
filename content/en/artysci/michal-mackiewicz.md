@@ -15,3 +15,7 @@ Michał Mackiewicz (Lucid Lines) is an audiovisual artist and an active welder. 
 **Wystawy:**
 
 [The arc flash - Shipyard Lights](/wystawy/the-arc-flash)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/lucid_lines_mixedmedia/)

@@ -15,3 +15,7 @@ Duet z Gdańska łączący brudne, gruzowe brzmienia z ciepłymi teksturami. Gra
 **Pokazy:**
 
 [Koncert: BLKDOT/KLIMAT](/pokazy/blkdot-klimat)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/klimat.wav/)

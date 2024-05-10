@@ -17,3 +17,7 @@ Zajmuje się malarstwem nieobecności. Tworzy czarne pejzaże, niemal pozbawione
 **Exhibitions:**
 
 [Dotknąć Światła](/wystawy/dotknac-swiatla)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/anetakublik/)

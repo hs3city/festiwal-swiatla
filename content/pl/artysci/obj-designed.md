@@ -14,3 +14,7 @@ Marka założona przez 2 studentów wzornictwa gdańskiej ASP, kolegów z roku i
 **Wystawy:**
 
 - [UV Luminescencja – Świecące Obiekty 3D](/wystawy/uv-luminescencja)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/obj_designed/)

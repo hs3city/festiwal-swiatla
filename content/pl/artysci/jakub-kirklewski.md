@@ -18,3 +18,7 @@ Twórca serii obiektów świetlnych „clue.”(@clue.lamp). Wraz z Ksawerym Kir
 **Wystawy:**
 
 [clue.](/wystawy/clue-jakub-kirklewski)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/elektrojakub/)

@@ -15,3 +15,9 @@ Olga Wardęga (Polska)  i Christoph Zeckel (Niemcy / Malezja) to dwoje artystów
 **Wystawy:**
 
 [Beautiful flowers](/wystawy/beautiful-flowers)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/evvivalarty/)
+
+[Instagram](https://www.instagram.com/christoph.zeckel)

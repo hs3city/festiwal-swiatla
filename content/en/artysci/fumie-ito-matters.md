@@ -17,3 +17,7 @@ Fumie has presented her videos at numerous festivals and locations in USA and Ja
 **Exhibitions:**
 
 [River of Stars](/wystawy/river-of-stars)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/fumi_liquid/)

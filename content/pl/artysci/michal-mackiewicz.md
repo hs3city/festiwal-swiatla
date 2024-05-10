@@ -15,3 +15,7 @@ Michał Mackiewicz (Lucid Lines) jest twórcą audiowizualnym i czynnym spawacze
 **Wystawy:**
 
 [The arc flash - Shipyard Lights](/wystawy/the-arc-flash)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/lucid_lines_mixedmedia/)

@@ -18,3 +18,7 @@ Eva von Schirach to artystka multimedialna, która koncentruje się na kulturze 
 **Pokazy:**
 
 [Mapping: True Colours](/pokazy/mapping)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/eitanrieger/)
