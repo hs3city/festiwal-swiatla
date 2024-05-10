@@ -22,3 +22,7 @@ Giulio Calegari is the Architect, and for many years, a lecturer at the Brera Ac
 
 - [Dialoghi di Fumo](/wystawy/dialoghi-di-fumo)
 - [Che ci facciamo qui?](/wystawy/che-ci-facciamo-qui)
+
+**Social media:**
+
+[Instagram](https://www.instagram.com/fczanetti/)
