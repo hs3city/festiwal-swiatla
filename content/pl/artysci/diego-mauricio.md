@@ -14,4 +14,4 @@ Diego Mauricio to hiszpański artysta, którego twórczość koncentruje się na
 
 **Wystawy:**
 
-[Psychotropic Oracle  - Prizma](/wystawy/psychotropic-oracle)
+[Psychotropic Oracle  - Prizma](/pokazy/psychotropic-oracle)
