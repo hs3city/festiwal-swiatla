@@ -16,3 +16,6 @@ Projekt powstał w wyniku współpracy Pracowni Podstaw Projektowania Plastyczne
 Autorkami projektu są rzeźbiarki:
 prof. ASP dr hab. Małgorzata Kręcka- Rozenkranz (kierująca pracownią) oraz
 mgr Paulina Stokowska (asystentka). Do udziału w projekcie zostali zaproszeni studenci II roku Rzeźby realizujący program Pracowni Podstaw Projektowania Plastycznego oraz wolontariusze.
+
+Osoby biorące udział w performance:
+ Małgorzata Kręcka- Rozenkranz,  Paulina Stokowska, Martyna Rutkowska, Karol Zagórowski, Wiktoria Gawin, Hanna Schroeder, Małgorzata Kupper, Maria Zberovskaya, Alicja Zdrojewska, Klaudia Osmałek, Liza Osmałek

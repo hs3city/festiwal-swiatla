@@ -7,6 +7,4 @@ weight: 3
 ---
 Stocznia. Ogromne płaszczyzny stali skąpane we mgle dymów i pyłów oświetlane raz po raz eksplozjami elektrycznego łuku fontanny iskier, lawa topiącej się stali, tajemnicze korytarze i zakamarki przecinane promieniami światła wydobywającymi się ze szczelin. Praca Michała Mackiewicza stanowi próbę odtworzenia przestrzenno-świetlnej impresji, niepowtarzalnych stoczniowych pejzaży i fuzją doświadczeń stoczniowego spawacza i artysty. 
 
-Instalacja składa się z czterech geometrycznych, stalowych rzeźb, które przypominają elementy statku w budowie. Surowe, industrialne obiekty będą oświetlone z zewnątrz i od wewnątrz wąskimi strumieniami światła, naśladującymi światła towarzyszące procesowi spawania. Na powierzchni rzeźby znajdują się niewielkie lusterka, soczewki i pryzmaty, którymi widzowie będą mogli rozszczepiać, przekierowywać i multiplikować wiązki światła tworząc własne niepowtarzalne i ulotne kompozycje.
-
-Rzeźbie towarzyszyć będzie nieodłączny w pracach artysty dźwięk w postaci ambientowych kompozycji stworzonych na bazie sampli dźwięków wyspy Ostrów. 
+Będzie to pierwsze odsłonięcie projektu Lucid Lines Shipyard Lights.  Autor uchyla rąbka tajemnicy i pokazuje wstępną fazę prac – przestrzenny szkic serii artystycznych instalacji, opowiadającej o surowym, industrialnym pięknie Gdańskiej stoczni. Shipyard Lights to wielowymiarowa rzeźba, obraz, a także instalacja świetlna, będąca wynikiem doświadczeń pracy muzyka, oświetleniowca teatralnego, scenografa, malarza i stoczniowca.

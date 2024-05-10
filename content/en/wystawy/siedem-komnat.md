@@ -10,3 +10,5 @@ The Seven Rooms performance draws inspiration from the military history of Grado
 Audiences will witness mysterious strategic games unfolding simultaneously within distinct rooms. The use of specific lighting will create a unique atmosphere.
 The project emerged from a collaboration between the Basic Design Studio of the Sculpture and Intermedia Department at the Academy of Fine Arts in Gdańsk and Hackerspace Trójmiasto. The project's creators include:
 Prof. Małgorzata Kręcka-Rozenkranz, Ph.D., who leads the workshop, and Mgr Paulina Stokowska, serving as an assistant. Second-year Sculpture students participating in the Basic Design Workshop program and volunteers were invited to participate in the project.
+
+Performers: Małgorzata Kręcka- Rozenkranz,  Paulina Stokowska, Martyna Rutkowska, Karol Zagórowski, Wiktoria Gawin, Hanna Schroeder, Małgorzata Kupper, Maria Zberovskaya, Alicja Zdrojewska, Klaudia Osmałek, Liza Osmałek. 
