@@ -16,6 +16,10 @@
         "name": "Hackerspace Trójmiasto",
         "link": "https://hs3.pl",
         "image": "/images/partners/hs3.svg"
+      },
+      {
+        "name": "Gdansk",
+        "image": "/images/partners/Gdansk.svg"
       }
     ]
   },
@@ -126,10 +130,6 @@
         "name": "Astronarium",
         "link": "https://www.astronarium.pl",
         "image": "/images/partners/Astronarium.svg"
-      },
-      {
-        "name": "Gdansk",
-        "image": "/images/partners/Gdansk.svg"
       },
       {
         "name": "Gdanskpl",
