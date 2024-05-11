@@ -6,6 +6,8 @@ draft: false
 weight: 10
 ---
 
+![Workshop Shining umbrellas](/images/workshops/parasolki.webp)
+
 Shining umbrellas are making a comeback at the Light Festival. But this time, it won't be just two, not four, but how many? It's up to YOU. We're gearing up for a massive display of glowing umbrellas, and it's only possible with your help.
 Join us for workshops where we'll craft LED umbrellas with programmable animations. Participants (under the instructor's guidance) will assemble and program their own paraSOL, which will become part of the light installation during the Light Festival and then return to its creator.
 So, if you're eager to:

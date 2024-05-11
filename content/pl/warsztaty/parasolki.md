@@ -3,7 +3,10 @@ title: "Budujemy Świecące Parasolki "
 date: 2018-11-28T15:15:34+10:00
 featured: true
 draft: false
+
 ---
+
+![Warsztaty Święcące Parasolki](/images/workshops/parasolki.webp)
 
 Świecące parasolki ponownie zawitają na Festiwalu Światła. Ale tym razem nie będą to dwie, nie będą to cztery, a będzie ich ...? To zależy od CIEBIE. Szykujemy zmasowany atak świecących parasolek, ale będzie to możliwe tylko z Twoją pomocą
 Zapraszamy na warsztaty, podczas których będziemy tworzyć ledowe parasolki z programowalną animacją. Uczestnicy (pod okiem instruktora) zbudują i zaprogramują własną paraSOLkę, która na czas Festiwalu Światła stanie się częścią instalacji, a po nim wróci do swojego twórcy.
