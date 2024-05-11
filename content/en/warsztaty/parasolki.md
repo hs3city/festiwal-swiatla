@@ -47,4 +47,3 @@ Duration: 4 hours
 Participants' age:
 We create umbrellas in pairs, so we invite entire families - father with daughter, mother with son, grandmother with grandson, or a pair of friends. If you prefer to tackle this challenge solo, that's fine too. There's just one condition - at least one person from the pair must be an adult.
 
-![Workshop Shining umbrellas](/images/workshops/parasolki.webp)

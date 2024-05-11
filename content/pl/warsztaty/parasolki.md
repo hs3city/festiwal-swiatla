@@ -54,4 +54,3 @@ Wiek uczestników:
 Parasolki tworzymy w parach, a więc zapraszamy całe rodziny - tata z córką, mama z synem, babcia z wnukiem, albo para znajomych. Jeżeli chcesz zmierzyć się z tym wyzwaniem w pojedynkę - nie ma sprawy.
 Jest tylko jeden warunek - przynajmniej jedna osoba z pary musi być pełnoletnia
 
-![Warsztaty Święcące Parasolki](/images/workshops/parasolki.webp)
