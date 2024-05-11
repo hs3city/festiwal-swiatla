@@ -10,3 +10,4 @@ Parasolki to jeden z tych projektów, które zaczynają się niewinnie, a z czas
 
 W realizację tego ambitnego projektu zaangażowało się wiele osób. Aby sprostać skali przedsięwzięcia członkowie Hackerspace zorganizowali serię warsztatów, podczas których każdy mógł zbudować swoją własną parasolkę pod okiem instruktora. Efekty warsztatów zobaczycie na dziedzińcu Hevelianum. Parasolki będą świecić nad głowami zgromadzonych na majdanie widzów, gdzie będzie można je podziwiać podczas festiwalowych pokazów i koncertów.
 
+![Wystawa Parasolki](/images/exhibitions/parasolki.webp)
