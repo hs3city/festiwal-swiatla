@@ -6,7 +6,7 @@ draft: false
 weight: 10
 ---
 
-![Workshop Shining umbrellas](/images/workshops/parasolki.webp)
+
 
 Shining umbrellas are making a comeback at the Light Festival. But this time, it won't be just two, not four, but how many? It's up to YOU. We're gearing up for a massive display of glowing umbrellas, and it's only possible with your help.
 Join us for workshops where we'll craft LED umbrellas with programmable animations. Participants (under the instructor's guidance) will assemble and program their own paraSOL, which will become part of the light installation during the Light Festival and then return to its creator.
@@ -46,3 +46,5 @@ For others: starting from 192 PLN - the sooner you decide to join, the lower the
 Duration: 4 hours
 Participants' age:
 We create umbrellas in pairs, so we invite entire families - father with daughter, mother with son, grandmother with grandson, or a pair of friends. If you prefer to tackle this challenge solo, that's fine too. There's just one condition - at least one person from the pair must be an adult.
+
+![Workshop Shining umbrellas](/images/workshops/parasolki.webp)

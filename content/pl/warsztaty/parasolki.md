@@ -6,7 +6,7 @@ draft: false
 
 ---
 
-![Warsztaty Święcące Parasolki](/images/workshops/parasolki.webp)
+
 
 Świecące parasolki ponownie zawitają na Festiwalu Światła. Ale tym razem nie będą to dwie, nie będą to cztery, a będzie ich ...? To zależy od CIEBIE. Szykujemy zmasowany atak świecących parasolek, ale będzie to możliwe tylko z Twoją pomocą
 Zapraszamy na warsztaty, podczas których będziemy tworzyć ledowe parasolki z programowalną animacją. Uczestnicy (pod okiem instruktora) zbudują i zaprogramują własną paraSOLkę, która na czas Festiwalu Światła stanie się częścią instalacji, a po nim wróci do swojego twórcy.
@@ -53,3 +53,5 @@ Czas trwania: 4 h
 Wiek uczestników:
 Parasolki tworzymy w parach, a więc zapraszamy całe rodziny - tata z córką, mama z synem, babcia z wnukiem, albo para znajomych. Jeżeli chcesz zmierzyć się z tym wyzwaniem w pojedynkę - nie ma sprawy.
 Jest tylko jeden warunek - przynajmniej jedna osoba z pary musi być pełnoletnia
+
+![Warsztaty Święcące Parasolki](/images/workshops/parasolki.webp)
