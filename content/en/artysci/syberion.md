@@ -15,3 +15,7 @@ Bartosz Pieczyński, the mind behind the Syberion project, has been immersed in 
 **Shows:**
 
 [Friday Evening](/pokazy/friday-evening)
+
+**Social media:**
+
+[Facebook](https://www.facebook.com/bartmacbaker)

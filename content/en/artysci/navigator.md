@@ -20,3 +20,7 @@ For more: https://navigatormusic.pl/pl/home/
 **Shows:**
 
 [Misterium Dźwięku](/pokazy/navigator)
+
+**Social media:**
+
+[Facebook](https://www.facebook.com/huzynavigator)

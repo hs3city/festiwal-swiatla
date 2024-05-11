@@ -16,3 +16,7 @@ Jacek Ożóg jest absolwentem Sopockiej Szkoły Fotografii i laureatem wielu kon
 
 - [Ulicami Starego Miasta Gdańska Fotografia analogowa](/wystawy/ulicami-starego-miasta)
 - [Daniel](/wystawy/daniel)
+
+**Social media:**
+
+[Facebook](https://www.facebook.com/jacekozogStudio58)

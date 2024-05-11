@@ -15,3 +15,5 @@ Bartosz Pieczyński, twórca projektu Syberion, muzyką zajmuje się od dziecka.
 **Pokazy:**
 
 [Friday Evening](/pokazy/friday-evening)
+
+[Facebook](https://www.facebook.com/bartmacbaker)

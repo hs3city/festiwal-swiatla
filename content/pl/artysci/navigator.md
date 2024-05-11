@@ -16,3 +16,7 @@ Więcej informacji o artyście: https://navigatormusic.pl/pl/home/
 **Pokazy:**
 
 [Misterium Dźwięku](/pokazy/navigator)
+
+**Social media:**
+
+[Facebook](https://www.facebook.com/huzynavigator)
