@@ -10,4 +10,7 @@ Color and light are an inseparable duo. It's through light that we perceive the 
 
 In the "Light Laboratory," you'll experience firsthand how the perception of color varies depending on the lighting conditions. Colors will shift and transform under different lighting, sometimes even disappearing altogether...
 
+The author of the exhibition is Malgorzata Piaskowska.
+
 The installation will be accompanied by music composed by Jakub Czapliński, known as Mr. Upgrade.
+

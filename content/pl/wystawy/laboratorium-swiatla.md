@@ -10,4 +10,6 @@ Kolor i światło to nierozerwalna para. Dzięki światłu możemy oglądać św
 
 W “Laboratorium światła“ można będzie przekonać się, jak bardzo różni się odbiór koloru w zależności od oświetlenia, w którym go oglądamy. Kolory będą się zmieniać pod wpływem padającego na nie światła, a czasem nie będzie ich wcale…
 
+Autorką wystawy jest Malgorzata Piaskowska.
+
 Instalacji będzie towarzyszyć muzyka stworzona przez Jakuba Czaplińskiego, muzyka działającego pod pseudonimem Mr. Upgrade.
