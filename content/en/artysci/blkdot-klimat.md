@@ -19,3 +19,5 @@ Duo from Gdańsk merging gritty, industrial sounds with warm textures. They play
 **Social media:**
 
 [Instagram](https://www.instagram.com/klimat.wav/)
+
+[Instagram](https://www.instagram.com/blkdottt/)

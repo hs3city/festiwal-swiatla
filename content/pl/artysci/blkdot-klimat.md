@@ -19,3 +19,5 @@ Duet z Gdańska łączący brudne, gruzowe brzmienia z ciepłymi teksturami. Gra
 **Social media:**
 
 [Instagram](https://www.instagram.com/klimat.wav/)
+
+[Instagram](https://www.instagram.com/blkdottt/)
