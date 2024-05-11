@@ -24,3 +24,5 @@ Jej przygoda ze sztuką zaczęła się poprzez pracę nauczycielki i opiekę nad
 **Warsztaty:**
 
 [Malowanie Intuicyjne - Technika kropki w UV z Jadwigą Hajdo](/warsztaty/malowanie-intuicyjne)
+
+**[Twórczość artysty](https://lartagency.com/pl/collections/jadwiga-hajdo)**

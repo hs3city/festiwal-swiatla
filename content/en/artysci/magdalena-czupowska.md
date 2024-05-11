@@ -22,3 +22,5 @@ Magdalena Czupowska graduated from the Painting Department at the Academy of Fin
 **Social media:**
 
 [Instagram](https://www.instagram.com/czupowska.art/)
+
+**[The artist's work](https://lartagency.com/collections/magdalena-czupowska)**

@@ -17,3 +17,5 @@ Sztuka jest dla niej drogą do poznania samej Siebie, lepszego zrozumienia włas
 **Wystawy:**
 
 [Pokruszona na kawałki](/wystawy/pokruszona-na-kawalki)
+
+**[Twórczość artysty](https://lartagency.com/pl/collections/beata-koszewska)**

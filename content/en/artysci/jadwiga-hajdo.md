@@ -25,3 +25,5 @@ Her creative journey began through her work as a teacher and caring for children
 **Workshops:**
 
 [Intuitive Painting - UV Dotting Technique with Jadwiga Hajdo](/warsztaty/malowanie-intuicyjne)
+
+**[The artist's work](https://lartagency.com/collections/jadwiga-hajdo)**

@@ -17,3 +17,5 @@ Art is a path to discover herself, better understand her emotions, and accept an
 **Exhibitions:**
 
 [Pokruszona na kawałki](/wystawy/pokruszona-na-kawalki)
+
+**[The artist's work](https://lartagency.com/collections/beata-koszewska)**
