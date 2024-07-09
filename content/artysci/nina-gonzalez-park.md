@@ -21,5 +21,5 @@ Wystawa **Perspektywy Światła**
 
 Wystawa prac grupy międzynarodowych artystek, studentek kierunku Nauka i Sztuka na Londyńskim University of Arts: Central SaintMartins. Prezentowane prace skupiają się na różnych wizjach światła i różnych perspektywach z jakich można je postrzegać. Wystawa obejmuje instalacje, wideoarty, plakaty i sitodruki.
 
-# Twórczość
+## Twórczość
 @ninnipannini

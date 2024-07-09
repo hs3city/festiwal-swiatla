@@ -6,7 +6,7 @@ intro_image: "images/logo/logo.svg"
 intro_image_absolute: false
 intro_image_hide_on_mobile: false
 ---
-# Festiwal Światła Gdańsk
+## Festiwal Światła Gdańsk
 
 Światełko w tunelu. Świetlana przyszłość. Świecić przykładem. Światło budzi same pozytywne skojarzenia. Nic dziwnego - w końcu bez światła nie ma życia. Choć niezbędne, jest bardzo niedoceniane, wręcz niedostrzegalne. Postanowiliśmy to zmienić.
 
@@ -15,7 +15,7 @@ Zapraszamy Was do współtworzenia festiwalu, którego głównym bohaterem będz
 Pomysłów mamy wiele, ale nie planujemy zrealizować wszystkich na raz. Naszym celem jest zbudowanie czegoś więcej niż tylko kilku instalacji świetlnych – chcemy stworzyć coroczne święto współtworzone przez lokalną społeczność. Mamy zamiar dzielić się pozytywną zajawką i aktywizować mieszkańców. Działamy partycypacyjnie – każdy jest mile widziany w naszym gronie, dlatego mamy nadzieję, że udział w majowej edycji Festiwalu Światła zachęci Cię do tworzenia, wspólnie z nami, kolejnych odsłon. Razem możemy więcej niż osobno!
 
 
-# Łączymy ludzi przez światło
+## Łączymy ludzi przez światło
 
 **Kim jesteśmy?** Jesteśmy ludźmi, którzy chcą działać. Tworzyć, eksperymentować, odkrywać, psuć i naprawiać. Są wśród nas przedstawiciele i przedstawicielki kilku trójmiejskich organizacji: [Hevelianum](https://hevelianum.pl/), [Hackerspace Trójmiasto](https://hs3.pl) i [CUMY warsztat otwarty](https://www.facebook.com/cumy.stocznia). Hevelianum to miejsce, w którym nauka spotyka się z historią, Hackerspace to grupa pasjonatów technologii i konstruktorów, a CUMY to przestrzeń warsztatowa, w której można zrealizować wszystkie pomysły.
 

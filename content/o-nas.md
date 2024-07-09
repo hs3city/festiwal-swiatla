@@ -9,6 +9,6 @@ Jesteśmy artystami, naukowcami, aktywistami i konstruktorami. Połączyliśmy s
 
 Chcemy by było nas jeszcze więcej! Tworzymy festiwal otwarty na lokalną społeczność i różnorodną publiczność. Do udziału i współtworzenia festiwalu zapraszamy miłośników sztuki, nauki i technologii, dzieci, rodziców, studentów, absolwentów… i babcie też!  [Dołącz do nas](https://hs3.pl/wlacz-swiatlo).
 
-# I wtedy stała się światłość
+## I wtedy stała się światłość
 
 **Skąd pomysł na festiwal?** Zaczęło się pewnego listopadowego dnia, podczas Idea Squash, wydarzenia organizowanego przez IKM. Leszek z HS3 przedstawił swoje marzenie: stworzyć „pokój bez koloru”, czyli instalację, w której dzięki określonemu spektrum światła, przedmioty stają się niewidoczne. I się zaczęło… konstruktywny feedback, konkretne sugestie i praktyczne porady na ulepszenie projektu. Pomysł powoli ewoluował, każdy z uczestników wydarzenia miał swoją wizję, a jeden pomysł prowokował kolejny. Okazało się, że wielu z nas od dawna chodziły po głowie przeróżne projekty w ten czy inny sposób nawiązujące do światła - od zabawy fotografią analogową, przez eksperymenty ze światłem UV, po pokazy laserowe. **I wtedy nas oświeciło**. Jedna instalacja to za mało – **musimy stworzyć cały festiwal!**
