@@ -2,6 +2,8 @@ github.com/DoomHammer/hugo-serif-theme v0.0.0-20231126054038-144534f8b084 h1:TcQ
 github.com/DoomHammer/hugo-serif-theme v0.0.0-20231126054038-144534f8b084/go.mod h1:77DZujykkuhONAs/d4KTLMFRg/GDlDC1IGYWtUW744M=
 github.com/DoomHammer/hugo-serif-theme v0.0.0-20240708175605-0f1d1f16952c h1:yWxCcW3+DCtRYmoMQvXUJnF/vTnzqYlZwg2qR1uZGvY=
 github.com/DoomHammer/hugo-serif-theme v0.0.0-20240708175605-0f1d1f16952c/go.mod h1:77DZujykkuhONAs/d4KTLMFRg/GDlDC1IGYWtUW744M=
+github.com/DoomHammer/hugo-shortcode-gallery v0.0.0-20240709103230-973f016b8806 h1:UVPAd7V4XZEIdWOmIgxIsZSw/yZRt+Hr5FDvGzWeQGo=
+github.com/DoomHammer/hugo-shortcode-gallery v0.0.0-20240709103230-973f016b8806/go.mod h1:xb0bh7TminwXJJ47gPyLm+ISQ1Z4hEzyzCNKosOA1H8=
 github.com/mfg92/hugo-shortcode-gallery v1.1.1 h1:SQfyXMG3LaJ7aRVa/Lta8UP61VG6SESh19qe6XZsi+k=
 github.com/mfg92/hugo-shortcode-gallery v1.1.1/go.mod h1:zKnMCx7OJJPTfVNalUAFGkNVABLCqIuPl57NeBtSFc0=
 github.com/zerostaticthemes/hugo-serif-theme v1.1.2-0.20231126054038-144534f8b084 h1:dnEGqoD2VyIwU6G/rVPJaIvrpSYT/SABYnIdDQ53b8w=
