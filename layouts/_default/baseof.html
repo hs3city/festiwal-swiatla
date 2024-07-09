@@ -14,15 +14,12 @@
   {{ partial "google-fonts.html" . }}
 
   <!-- CSS-->
-  {{ if .Site.IsServer }}
   {{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS (dict "targetPath"
-  "css/style.css" "enableSourceMap" true) }}
-  <link rel="stylesheet" href="{{ ($style).RelPermalink }}">
-  {{ else }}
-  {{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS (dict "targetPath"
-  "css/style.css" "enableSourceMap" false) }}
-  <link rel="stylesheet" href="{{ ($style | minify | fingerprint).RelPermalink }}">
+  "css/style.css" "enableSourceMap" true) | css.PostCSS }}
+  {{ if hugo.IsProduction }}
+  {{ $style = $style | minify | fingerprint | resources.PostProcess }}
   {{ end }}
+  <link rel="stylesheet" href="{{ ($style).RelPermalink }}">
 
   {{ block "header_css" . }}{{ end }}
 

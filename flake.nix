@@ -1,7 +1,7 @@
 {
-  description = "Network infrastructure docs";
+  description = "Festiwal Światła 2022";
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.05-small";
+    nixpkgs.url = "github:NixOS/nixpkgs/29dcf702b10d258b9bcd56bd38667c329614e128";
     flake-utils.url = "github:numtide/flake-utils";
   };
   outputs = { self, nixpkgs, flake-utils }:
@@ -15,14 +15,14 @@
         with pkgs;
         {
         packages.website = pkgs.stdenv.mkDerivation {
-          name = "docs";
+          name = "festiwal-swiatla";
           src = self;
-          buildPhase = "${pkgs.hugo}/bin/hugo";
+          buildPhase = "npm i -D postcss postcss-cli @fullhuman/postcss-purgecss; ${pkgs.hugo}/bin/hugo";
           installPhase = "cp -r public $out";
         };
         defaultPackage = self.packages.${system}.website;
           devShells.default = mkShell {
-            buildInputs = [ hugo ];
+            buildInputs = [ hugo npm ];
           };
         }
       );
