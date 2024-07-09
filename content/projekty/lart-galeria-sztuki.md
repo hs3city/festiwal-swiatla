@@ -1,5 +1,5 @@
 ---
-title: "L’arT – galeria sztuki, światła i koloru / Aleksandra Goździelewska "
+title: "L’arT – galeria sztuki, światła i koloru / Aleksandra Goździelewska"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
