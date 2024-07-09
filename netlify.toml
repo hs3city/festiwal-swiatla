@@ -1,9 +1,9 @@
 [build]
 publish = "public"
-command = "hugo version; hugo mod get; hugo --minify;"
+command = "hugo --minify;"
 
 [build.environment]
-HUGO_VERSION = "0.99.1"
+HUGO_VERSION = "0.126.1"
 
 [context.deploy-preview]
-command = "hugo version; hugo mod get; hugo --minify -b $DEPLOY_PRIME_URL;"
+command = "hugo --minify -b $DEPLOY_PRIME_URL;"
