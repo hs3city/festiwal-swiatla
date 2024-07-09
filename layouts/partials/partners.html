@@ -14,7 +14,20 @@
         <div class="myGrid myGrid-{{ $group }}">
           {{ range $group.items}}
           <div class="partner">
-            <a href="{{ .link }}"><img src="{{ .image }}" alt="{{ .name }}" /></a>
+            {{ $original := resources.Get .image }}
+
+            {{ if $original }}
+            {{ $webp := $original.Resize "1000x webp" }}
+            {{ $optimized := $original.Resize "x1080" }}
+            <a href="{{ .link }}" title="{{ .name }}">
+              <picture>
+                <source srcset="{{ $webp.Permalink }}" type="image/webp">
+                <img src="{{ $optimized.Permalink }}" alt="{{ .name }}">
+              </picture>
+              {{ else }}
+              <p>Image not found: {{ .image }}</p>
+              {{ end }}
+            </a>
           </div>
           {{end}}
         </div>

@@ -1,7 +1,8 @@
 <div class="team team-summary team-summary-large">
   {{ if .Params.image }}
   <div class="team-image">
-    <img width="360" height="360" alt="Photo of {{ .Title }}" class="img-fluid mb-2" src="{{ .Params.image | relURL }}" />
+    <img width="360" height="360" alt="Photo of {{ .Title }}" class="img-fluid mb-2"
+      src="{{ ((resources.Get .Params.image).Resize " 360x360").Permalink }}" />
   </div>
   {{ end }}
   <div class="team-meta">
@@ -13,5 +14,6 @@
     <a target="_blank" rel="noreferrer" href="https://twitter.com/{{ .Params.Twitterhandle }}">Twitter</a> {{ end }}
 
   </div>
-  <div class="team-content">    {{ .Content | truncate (.Site.Params.team.summary_large_truncate | default 120 ) "…" }}</div>
+  <div class="team-content"> {{ .Content | truncate (.Site.Params.team.summary_large_truncate | default 120 ) "…" }}
+  </div>
 </div>

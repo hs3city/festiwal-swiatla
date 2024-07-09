@@ -117,3 +117,6 @@ weight = 3
 [markup.goldmark]
 [markup.goldmark.renderer]
 unsafe = true
+[markup.goldmark.renderHooks]
+[markup.goldmark.renderHooks.image]
+enableDefault = true

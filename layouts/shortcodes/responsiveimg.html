@@ -5,11 +5,14 @@
 
 {{ if $original }}
 {{ $webp := $original.Resize "1000x webp" }}
+{{ $optimized := $original.Resize "x1080" }}
 {{ warnf "WebP image: %s" $webp }}
-<picture>
-  <source srcset="{{ $webp.Permalink }}" type="image/webp">
-  <img src="{{ $original.Permalink }}" alt="{{ $alt }}">
-</picture>
-{{ else }}
-<p>Image not found: {{ $src }}</p>
-{{ end }}
+<a href="{{ $optimized.Permalink }}" title="{{ $alt }}">
+  <picture>
+    <source srcset="{{ $webp.Permalink }}" type="image/webp">
+    <img src="{{ $optimized.Permalink }}" alt="{{ $alt }}">
+  </picture>
+  {{ else }}
+  <p>Image not found: {{ $src }}</p>
+  {{ end }}
+</a>

@@ -1,25 +1,25 @@
 <div class="sub-footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <div class="sub-footer-inner">
-            {{ if .Site.Data.social }}
-              {{ partial "social.html" . }}
-            {{ end }}
-            {{ if .Site.Params.footer.copyright_text }}
-              <div class="copyright">
-                {{ if .Site.Params.footer.copyright_link }}
-                  <a href="{{ .Site.Params.footer.copyright_link | safeHTML }}">
-                {{ end }}
-                {{ .Site.Params.footer.copyright_text | safeHTML }}
-              
-                {{ if .Site.Params.footer.copyright_link }}
-                  </a>
-                {{ end }}
-              </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="sub-footer-inner">
+          {{ if .Site.Data.social }}
+          {{ partial "social.html" . }}
+          {{ end }}
+          {{ if .Site.Params.footer.copyright_text }}
+          <div class="copyright">
+            {{ if .Site.Params.footer.copyright_link }}
+            <a href="{{ .Site.Params.footer.copyright_link | safeHTML }}">
+              {{ end }}
+              {{ .Site.Params.footer.copyright_text | safeHTML }}
+
+              {{ if .Site.Params.footer.copyright_link }}
+            </a>
             {{ end }}
           </div>
+          {{ end }}
         </div>
       </div>
     </div>
   </div>
+</div>
