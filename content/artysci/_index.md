@@ -8,5 +8,4 @@ type: team
 
 # Poznaj naszych artystów
 
-**[L’arT](lartagency.com
-)** - Agencja Artystów & Galeria Online - zaprezentuje prace następujących artystów:
+**[L’arT](https://lartagency.com)** - Agencja Artystów & Galeria Online - zaprezentuje prace następujących artystów:
