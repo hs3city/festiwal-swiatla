@@ -1,6 +1,0 @@
-[submodule "themes/hugo-serif-theme"]
-	path = themes/hugo-serif-theme
-	url = https://github.com/zerostaticthemes/hugo-serif-theme.git
-[submodule "themes/hugo-shortcode-gallery"]
-	path = themes/hugo-shortcode-gallery
-	url = https://github.com/mfg92/hugo-shortcode-gallery.git

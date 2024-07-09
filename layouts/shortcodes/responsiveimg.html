@@ -1,0 +1,15 @@
+{{ $src := .Get "src" }}
+{{ $alt := .Get "alt" }}
+{{ $original := resources.Get (printf "images/%s" $src) }}
+{{ warnf "Original image: %s" $original }}
+
+{{ if $original }}
+{{ $webp := $original.Resize "1000x webp" }}
+{{ warnf "WebP image: %s" $webp }}
+<picture>
+  <source srcset="{{ $webp.Permalink }}" type="image/webp">
+  <img src="{{ $original.Permalink }}" alt="{{ $alt }}">
+</picture>
+{{ else }}
+<p>Image not found: {{ $src }}</p>
+{{ end }}
