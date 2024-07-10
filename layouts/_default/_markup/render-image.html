@@ -1,0 +1,8 @@
+{{ $original := resources.Get .Destination }}
+{{ $webp := $original.Resize "1000x webp" }}
+<picture>
+  <source srcset="{{ $webp.Permalink }}" type="image/webp">
+  <img src="{{ .Destination | safeURL }}" {{- with .Text }} alt="{{ . }}" {{ end -}} {{- with .Title }} title="{{ . }}"
+    {{ end -}}>
+</picture>
+{{- /* chomp trailing newline */ -}}

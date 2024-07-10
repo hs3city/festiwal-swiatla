@@ -7,7 +7,7 @@ intro_image_mobile: "images/logo/home-banner-sm.png"
 type: home
 ---
 
-# Łączymy ludzi przez światło
+## Łączymy ludzi przez światło
 
 Światło odgrywa ogromną rolę w naszym życiu. Bez słońca życie na ziemi w ogóle nie byłoby możliwe, a kolejne wynalazki człowieka, takie jak lampa naftowa, żarówka czy laser, napędzają rozwój cywilizacji.
 

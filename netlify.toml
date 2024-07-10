@@ -1,9 +1,9 @@
 [build]
 publish = "public"
-command = "hugo version; hugo mod get; hugo --minify;"
+command = "npm i -D postcss postcss-cli  @fullhuman/postcss-purgecss; hugo --minify;"
 
 [build.environment]
-HUGO_VERSION = "0.99.1"
+HUGO_VERSION = "0.128.1"
 
 [context.deploy-preview]
-command = "hugo version; hugo mod get; hugo --minify -b $DEPLOY_PRIME_URL;"
+command = "npm i -D postcss postcss-cli  @fullhuman/postcss-purgecss; hugo --minify -b $DEPLOY_PRIME_URL;"

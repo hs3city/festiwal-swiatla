@@ -5,9 +5,13 @@ aliases:
 - /program/2023
 ---
 
-[![Program Festiwalu](/images/program/program-2023.png)](/images/program/program-2023.png)
+## Program Festiwalu Światła 2023
 
-[![Mapa Festiwalu](/images/program/mapa-2023.png)](/images/program/mapa-2023.png)
+{{< responsiveimg src="program/program-2023.png" alt="Program Festiwalu" >}}
+
+## Mapa atrakcji
+
+{{< responsiveimg src="program/mapa-2023.png" alt="Mapa Festiwalu" >}}
 
 ## SOBOTA 13 MAJA
 
