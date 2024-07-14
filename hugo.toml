@@ -51,7 +51,7 @@ grey = "#8b8b8b"
 [params.seo]
 meta_twitter_site = "@hs3city"
 meta_twitter_creator = "@hs3city"
-meta_og_image = "https://festiwalswiatla.hs3.pl/images/program/program2022.png"
+meta_og_image = "https://festiwalswiatla.hs3.pl/images/og/festiwal2023.png"
 
 [params.team]
 summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
