@@ -90,7 +90,7 @@ url = "/o-nas/"
 weight = 5
 
 [[menu.main]]
-identifier = "Gallery"
+identifier = "gallery"
 url = "/galeria/"
 weight = 6
 
