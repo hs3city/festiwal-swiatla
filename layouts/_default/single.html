@@ -9,7 +9,8 @@
     </div>
     {{ if .Params.image }}
     <div class="col-12 col-md-4 order-md-2">
-      <img alt={{ .Title }} class="image img-fluid" src="{{ .Params.image | relURL }}" />
+      <img alt="{{ .Title }}" class="image img-fluid"
+        src="{{ ((resources.Get .Params.image).Resize "360x360").Permalink }}" />
     </div>
     {{ end }}
   </div>

@@ -17,7 +17,7 @@
         packages.website = pkgs.stdenv.mkDerivation {
           name = "festiwal-swiatla";
           src = self;
-          buildPhase = "npm i -D postcss postcss-cli @fullhuman/postcss-purgecss; ${pkgs.hugo}/bin/hugo";
+          buildPhase = "npm i; ${pkgs.hugo}/bin/hugo";
           installPhase = "cp -r public $out";
         };
         defaultPackage = self.packages.${system}.website;

@@ -15,7 +15,7 @@
 
   <!-- CSS-->
   {{ $style := resources.Get "scss/style.scss" | resources.ExecuteAsTemplate "style.scss" . | toCSS (dict "targetPath"
-  "css/style.css" "enableSourceMap" true) }}
+  "css/style.css" "enableSourceMap" true) | css.PostCSS }}
   {{ if hugo.IsProduction }}
   {{ $style = $style | minify | fingerprint | resources.PostProcess }}
   {{ end }}
