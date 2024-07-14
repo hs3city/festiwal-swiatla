@@ -16,7 +16,7 @@ other = "Program"
 [about-us]
 other = "Organizatorzy"
 
-[galery]
+[gallery]
 other = "Galeria"
 
 [contact]
@@ -54,4 +54,3 @@ other = "Telefon"
 
 [email]
 other = "Email"
-
