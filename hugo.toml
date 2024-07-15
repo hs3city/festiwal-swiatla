@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://2024.festiwalswiatla.hs3.pl/"
 languageCode = "pl-pl"
 title = "Festiwal Światła 2024"
 timeout = 600000

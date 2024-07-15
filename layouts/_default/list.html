@@ -40,7 +40,7 @@
         (only in {{ .Language.LanguageName }}; or
         <a href="http://translate.google.com/translate?{{(slice " js" "n" "sl" .Language.Lang "tl"
           site.Language.Lang "u" (.Permalink | absURL)) | querify | safeURL}}">
-          <img class="google-translate" alt="Google translate" src="{{ " /images/google-translate.png" }}">
+          <img class="google-translate" alt="Google translate" src="{{ "/images/google-translate.png" }}">
         </a>)
       </p>
       {{ end }}
