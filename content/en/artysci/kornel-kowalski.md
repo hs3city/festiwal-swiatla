@@ -14,4 +14,4 @@ Kornel Kowalski is an artist from Rumia, who excels in both digital photography 
 
 **Exhibitions:**
 
-[Good morning / To światło poranka!](/wystawy/good-morning)
+[Good morning / To światło poranka!]()

@@ -15,4 +15,4 @@ Kornel Kowalski to artysta z Rumii, który specjalizuje się w dziedzinie fotogr
 
 **Wystawy:**
 
-[Good morning / To światło poranka!](/wystawy/good-morning)
+[Good morning / To światło poranka!]()
