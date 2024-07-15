@@ -19,7 +19,7 @@ Giulio Calegari to architekt oraz długoletni wykładowca na Akademii Sztuk Pię
 
 **Wystawy:**
 
-- [Dialoghi di Fumo](/wystawy/dialoghi-di-fumo)
+- [Dialoghi di Fumo](/wystawy/dialoghi)
 - [Che ci facciamo qui?](/wystawy/che-ci-facciamo-qui)
 
 **Social media:**

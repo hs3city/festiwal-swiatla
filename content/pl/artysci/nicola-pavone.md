@@ -19,7 +19,7 @@ Nicola Pavone, znany również jako Vj Luper, to artysta wizualno-dźwiękowy, D
 
 **Warsztaty:**
 
-[Videomapping Workshops](/warsztaty/videomapping-workshops)
+[Videomapping Workshop](/warsztaty/videomapping-workshop)
 
 **Social media:**
 

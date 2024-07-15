@@ -15,4 +15,4 @@ If she finds herself without a camera at hand, she can craft one from a matchbox
 
 **Exhibitions:**
 
-[Wędrówka światła](/warsztaty/wedrowka-swiatla)
+[Wędrówka światła](/wystawy/wedrowka-swiatla)

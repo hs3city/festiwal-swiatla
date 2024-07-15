@@ -84,7 +84,7 @@ aliases:
  
 16:00 - [WYKŁAD: WPŁYW ŚWIATŁA NA DOBROSTAN CZŁOWIEKA - KARINA WIERZBOWSKA](/pokazy/wyklad-o-wplywie-swiatla/)
  
-17:00 - [WYKŁAD: KWANTOWO O ŚWIETLE - MACIEJ WIERZBOWSKI](/pokazy/wyklad-kwantowo-o-swietla/)
+17:00 - [WYKŁAD: KWANTOWO O ŚWIETLE - MACIEJ WIERZBOWSKI](/pokazy/wyklad-kwantowo-o-swietle/)
  
 17:00 - 17:45 - [OŚWIEĆ SIĘ! STREFA EDUKACYJNA HEVELIANUM](/warsztaty/oswiec-sie/)
  
@@ -149,7 +149,7 @@ aliases:
 
 - MAPPING: VIVIDA - JAKUB NOSEK
 
-- [MAPPING: PSYCHOTROPIC ORACLE - PRIZMA](/wystawy/psychotropic-oracle/)
+- [MAPPING: PSYCHOTROPIC ORACLE - PRIZMA](/pokazy/psychotropic-oracle/)
         	
 - [MAPPING: (RE)KONSTRUKCJE - HEVELIANUM](/pokazy/mapping-hevelianum/)
 
