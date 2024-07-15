@@ -25,8 +25,8 @@
 {{end}}
 {{ $preferredPages:= newScratch }}
 {{ range $key,$pages := $pageByTranslationKey.Values }}
-  {{ $preferredPage := index (where $pages "Language.Lang" $.Page.Language.Lang | default $pages) 0 }}
-  {{ $preferredPages.Add "pages" (slice $preferredPage) }}
+{{ $preferredPage := index (where $pages "Language.Lang" $.Page.Language.Lang | default $pages) 0 }}
+{{ $preferredPages.Add "pages" (slice $preferredPage) }}
 {{ end }}
 
 
@@ -35,15 +35,16 @@
     {{ range ($preferredPages.Get "pages").ByWeight }}
     <div class="col-12 col-md-6 mb-2 ">
       {{ .Render "summary" }}
-      {{ if (ne .Language.Lang $.Page.Language.Lang) }} 
+      {{ if (ne .Language.Lang $.Page.Language.Lang) }}
       <p>
         (only in {{ .Language.LanguageName }}; or
-        <a href="http://translate.google.com/translate?{{(slice "js" "n" "sl" .Language.Lang "tl" site.Language.Lang "u" (.Permalink | absURL)) | querify | safeURL}}">
-        <img class="google-translate" alt="Google translate" src="{{ "/images/google-translate.png" }}">
+        <a href="http://translate.google.com/translate?{{(slice " js" "n" "sl" .Language.Lang "tl"
+          site.Language.Lang "u" (.Permalink | absURL)) | querify | safeURL}}">
+          <img class="google-translate" alt="Google translate" src="{{ " /images/google-translate.png" }}">
         </a>)
       </p>
       {{ end }}
-      </div>
+    </div>
     {{ end }}
   </div>
 </div>

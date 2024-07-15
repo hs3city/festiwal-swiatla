@@ -15,4 +15,4 @@ Brak aparatu nie jest dla niej problemem, ponieważ potrafi wykonać go z pudeł
 
 **Wystawy:**
 
-[Wędrówka światła](/warsztaty/wedrowka-swiatla)
+[Wędrówka światła](/wystawy/wedrowka-swiatla)

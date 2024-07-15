@@ -1,9 +1,11 @@
 ---
 title: 'About us'
 url: /en/about-us/
+aliases:
+  - /en/o-nas/
 ---
 
-# WHO ARE WE? 
+# WHO ARE WE?
 
 We are an informal group of cultural animators, artists, scientists, activists, and constructors. We represent several local organizations, including Hevelianum Science Center, Hackerspace Trójmiasto, and L'arT Agency.
 
@@ -13,7 +15,7 @@ We are an informal group of cultural animators, artists, scientists, activists, 
 
 [L'arT Agency](https://lartagency.com/pl) is a creative artists agency and online gallery that brings JOY and BEAUTY to everyday life through the Art of Light and Color. It not only connects artists with potential clients but also creates amazing artistic projects, initiates collaborations, and events. It builds a community united by Light and Color, which illuminates and colors our reality.
 
-# THE HISTORY OF THE FESTIVAL 
+# THE HISTORY OF THE FESTIVAL
 
 It all began in November 2021 during the Idea Squash (an event organized by [Hackerspace Trójmiasto](https://hs3.pl/) and the [City Culture Institute in Gdańsk](https://ikm.gda.pl/)). Leszek from [Hackerspace Trójmiasto](https://hs3.pl/) presented his dream: to create a monochromatic room, an installation where colors become invisible thanks to a specific spectrum of light. And so it started... constructive feedback, specific suggestions, and practical advice for improving the project. The idea slowly evolved. Each participant had their own vision, and one idea sparked another. It turned out that many of us had various projects related to light in our minds for a long time - from analog photography and UV light experiments to laser shows. That's when we had our moment of enlightenment: one installation is not enough - we must create a festival!
 

@@ -20,7 +20,3 @@ W pracy stara się łączyć wiele metod terapeutycznych, m.in. Terapię Akcepta
 **Pokazy:**
 
 [Wykład: O wpływie światła na samopoczucie i zdrowie psychiczne](/pokazy/wyklad-o-wplywie-swiatla)
-
-**Warsztaty:**
-
-[Sznurek i światło: makramowy lampion](/warsztaty/makrama)

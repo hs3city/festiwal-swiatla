@@ -19,7 +19,7 @@ Nicola Pavone (Vj Luper) is A/V Performer, DJ, Videomapper & Media Designer. His
 
 **Workshops:**
 
-[Videomapping Workshops](/warsztaty/videomapping-workshops)
+[Videomapping Workshop](/warsztaty/videomapping-workshop)
 
 **Social media:**
 

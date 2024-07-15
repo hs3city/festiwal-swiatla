@@ -22,7 +22,3 @@ In her practice, combines various therapeutic approaches, including Acceptance a
 **Shows:**
 
 [Wykład: O wpływie światła na samopoczucie i zdrowie psychiczne](/pokazy/wyklad-o-wplywie-swiatla)
-
-**Workshops:**
-
-[Sznurek i światło: makramowy lampion](/warsztaty/makrama)
