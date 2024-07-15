@@ -1,7 +1,7 @@
 ---
 title: 'Poprzednie edycje'
 date: 2018-02-22T17:01:34+07:00
-url: '/previous'
+url: '/poprzednie-edycje'
 ---
 
 # [Festiwal Światła 2022](https://2022.festiwalswiatla.hs3.pl/)

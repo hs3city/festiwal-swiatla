@@ -16,4 +16,4 @@ Warsztaty poprowadzi Magda Przychodzeń, terapeutka numerologiczna, fitoterapeut
 
 **Warsztaty:**
 
-[Twoja Sojowa Świeca Intencyjna](/warsztaty/zrob_sobie_swiece)
+[Twoja Sojowa Świeca Intencyjna](/warsztaty/sojowa-swieca)

@@ -5,6 +5,7 @@ description: "Strona informacyjna wydarzenia Festiwal Światła Gdansk 2024"
 intro_image_desktop: "images/logo/home-banner.png"
 intro_image_mobile: "images/logo/home-banner-sm.png"
 type: home
+url: /home/
 ---
 Have you ever wondered how big of a role light plays in your life? Let's start with the fact that without the sun, there would be no life on Earth, and without inventions such as the kerosene lamp, light bulb, or laser, our civilization would not have developed. [UNESCO's International Day of Light](https://www.lightday.org/) is a great opportunity to stop and reflect on the wonder of light.
 

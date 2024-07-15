@@ -2,6 +2,8 @@
 title: 'Workshops'
 description: 'Workshops taking place during the Light Festival'
 url: /en/workshops
+aliases:
+  - /en/warsztaty
 ---
 # Workshops
 

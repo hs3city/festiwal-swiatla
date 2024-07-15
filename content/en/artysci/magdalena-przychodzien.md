@@ -16,4 +16,4 @@ The workshop will be led by Magda Przychodzeń, a numerological therapist, herba
 
 **Warsztaty:**
 
-[Your Soy Intention Candle](/warsztaty/zrob_sobie_swiece)
+[Your Soy Intention Candle](/warsztaty/sojowa-swieca)
