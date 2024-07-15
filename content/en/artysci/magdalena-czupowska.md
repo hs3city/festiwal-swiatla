@@ -17,7 +17,7 @@ Magdalena Czupowska graduated from the Painting Department at the Academy of Fin
 **Exhibitions:**
 
 - [Iluminacje](/wystawy/iluminacje)
-- [Techno visualisation - New dimension](/wystawy/techno-visualisation)
+- [Techno visualisation - New dimension](/wystawy/new-dimension)
 
 **Social media:**
 

@@ -1,6 +1,8 @@
 ---
 title: 'Previous editions'
 url: '/en/previous'
+aliases:
+  - '/en/poprzednie-edycje'
 ---
 
 # [The Festival of Light 2022](https://2022.festiwalswiatla.hs3.pl/)
